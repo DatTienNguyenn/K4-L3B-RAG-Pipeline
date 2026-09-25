@@ -1,0 +1,41 @@
+# ĐIỀU KHOẢN VÀ ĐIỀU KIỆN DỊCH VỤ KHUYẾN MẠI TRỰC TUYẾN
+
+PHỤ LỤC 6: ĐIỀU KHOẢN VÀ ĐIỀU KIỆN DỊCH VỤ KHUYẾN MẠI TRỰC TUYẾN
+*(Phụ lục Điều khoản này đính kèm và là một phần của Điều khoản sử dụng)*
+Điều Khoản Và Điều Kiện Dịch Vụ Khuyến Mại Trực Tuyến (**“Điều Khoản KMTT”**) và Điều khoản, Chính sách Green SM tạo thành thỏa thuận pháp lý bằng văn bản về dịch vụ khuyến mại trực tuyến (“Thỏa Thuận”) giữa Bạn và Green SM khi Bạn đăng ký và sử dụng Dịch Vụ qua Ứng Dụng với tư cách là Đối tác cung cấp Sản Phẩm trên Nền Tảng.
+Nội dung nào không được quy định tại Điều Khoản KMTT này sẽ được thực hiện theo Điều khoản, Chính sách Green SM.
+**1. Trách nhiệm của Green SM**
+1.1. Green SM có toàn quyền theo quyết định của mình, tạm ngưng việc niêm yết, hoặc từ chối niêm yết, hoặc hủy bỏ niêm yết, hoặc yêu cầu Đối tác không niêm yết bất kỳ hoặc toàn bộ thông tin Đối tác, Sản Phẩm, ưu đãi trên Nền Tảng.
+1.2. Nếu thông tin Sản Phẩm, ưu đãi hoặc hành vi của Đối tác trên Nền Tảng không tuân thủ bất kỳ quy định nào của Thỏa Thuận và/ hoặc quy định pháp luật, tùy theo theo quyết định của mình, Green SM có quyền áp dụng một số hoặc tất cả các biện pháp xử lý sau:
+(i) Tạm ngưng việc niêm yết hoặc từ chối niêm yết, hoặc hủy bỏ niêm yết bất kỳ hoặc tất cả thông tin Sản Phẩm, ưu đãi;
+(ii) Tắt chức năng đăng ký, quản lý Sản Phẩm trên Tài Khoản Đối Tác trong thời hạn nhất định hoặc vĩnh viễn;
+(iii) Hủy bỏ hoặc tạm dừng bất kỳ chương trình khuyến mại;
+(iv) Giữ lại khoản phải trả chưa thanh toán cho Đối tác cho đến khi Đối tác khắc phục hoàn toàn hành vi vi phạm của mình theo yêu cầu của Green SM, và số tiền này có thể được sử dụng để hoàn lại cho Người Dùng, hoàn trả lại các khoản giảm giá hoặc chiết khấu được Green SM áp dụng cho Đối tác và mọi chi phí, lệ phí, khoản phạt do bất kỳ cơ quan có thẩm quyền nào ấn định;
+(v) Yêu cầu Đối tác thanh toán mọi chi phí, lệ phí, khoản phạt hoặc tiền phạt do bất kỳ cơ quan có thẩm quyền nào áp dụng;
+(vi) Áp dụng các biện pháp xử lý theo quy định tại Điều khoản, Chính sách Green SM.
+1.3. Green SM sẽ hiển thị trên Nền Tảng thông tin các Gian Hàng, ưu đãi được cung cấp bởi Đối tác cho Green SM.
+1.4. Green SM sẽ tạo điều kiện thuận lợi cho việc quản lý dịch vụ và khiếu nại của Người Dùng và chuyển thông tin liên quan đến Đối tác để xử lý các khiếu nại của Người Dùng.
+**2. Trách nhiệm của đối tác**
+2.1. Cung cấp cho Green SM tất cả các thông tin và cập nhật về Sản Phẩm, ưu đãi khi cần thiết để Green SM hoàn thành nghĩa vụ của mình.
+2.2. Thực hiện đúng và đủ các Đơn Hàng mà Người Dùng đã đặt theo thông tin công bố trên Ứng Dụng.
+2.3. Thông báo ngay lập tức cho Green SM về thay đổi đối với các giấy phép kinh doanh và/ hoặc hoạt động của Đối tác.
+2.4. Cho phép Green SM và sẽ hỗ trợ Green SM đặt các tài liệu tiếp thị liên quan đến Dịch Vụ và các thông tin liên quan cũng như bất kỳ sản phẩm và dịch vụ nào khác do Green SM (nếu Green SM yêu cầu) tại cơ sở của Đối tác hoặc địa điểm kinh doanh khác của Thương Nhân mà Green SM không cần trả phí.
+2.5. Chịu trách nhiệm quy định và cung cấp các điều khoản và điều kiện liên quan áp dụng cho ưu đãi cho Green SM (bao gồm nhưng không giới hạn ở thời hạn ưu đãi, mức ưu đãi và điều kiện sử dụng) và phải được Green SM xem xét trước và phê duyệt.
+2.6. Đảm bảo bất kỳ hoặc tất cả các thông tin mà Thương Nhân cung cấp cho Green SM không vi phạm Quyền Sở Hữu Trí Tuệ của bất kỳ bên thứ ba nào.
+2.7. Đảm bảo việc cung cấp Sản Phẩm tuân thủ các quy định của pháp luật hiện hành, đảm bảo đã được cấp và duy trì hiệu lực các giấy phép, chứng nhận, xác nhận, vv. liên quan đến hoạt động kinh doanh Sản Phẩm.
+2.8. Không áp dụng ưu đãi để kinh doanh các mặt hàng bất hợp pháp hoặc bất kỳ mặt hàng nào mà Đối tác không có giấy phép để kinh doanh hoặc thực hiện bất kỳ hành vi vi phạm pháp luật nào.
+2.9. Không được phân biệt đối xử đối với Đơn Hàng sử dụng ưu đãi so với Đơn Hàng thông thường. Không được yêu cầu Người Dùng thanh toán thêm bất kỳ chi phí, phụ phí cho việc sử dụng ưu đãi.
+2.10. Thực hiện các thủ tục (thông báo/ đăng ký) về khuyến mại liên quan đến việc sử dụng ưu đãi theo quy định pháp luật. Green SM sẽ được miễn trừ hoàn toàn trách nhiệm pháp lý, bao gồm nhưng không giới hạn, các khoản phạt vi phạm hành chính, khi Đối tác không thực hiện nghĩa vụ quy định tại điều này.
+**3. Chấm dứt**
+3.1. Đối tác đồng ý rằng, Green SM có toàn quyền tạm ngừng Dịch Vụ hoặc chấm dứt Thỏa Thuận này với hiệu lực ngay lập tức và có quyền yêu cầu Đối tác bồi hoàn các chi phí mà Green SM phải chi trả cho Người Dùng và/ hoặc bất kỳ bên thứ ba nào khác có liên quan (nếu có), trong các trường hợp sau:
+(i) Green SM nghi ngờ rằng có bất kỳ hành vi vi phạm, trái pháp luật và/ hoặc gian lận nào của Đối tác và/ hoặc nhân viên hoặc đại lý của Đối tác trong quá trình sử dụng Dịch Vụ;
+(ii) Đối tác vi phạm bất kỳ nghĩa vụ hoặc cam đoan, bảo đảm nào được quy định tại Thỏa Thuận này và không khắc phục vi phạm đó trong vòng 10 ngày kể từ ngày có thông báo của Green SM;
+(iii) Đối tác vi phạm Điều khoản, Chính sách Green SM.
+3.2. Đối tác có quyền chấm dứt Thỏa Thuận này bằng cách gửi yêu cầu chấm dứt Thỏa Thuận và được Green SM xác nhận đồng ý với yêu cầu đó bằng email hoặc các hình thức phù hợp khác.
+3.3. Thỏa Thuận tự động chấm dứt khi kết thúc thời hạn của các ưu đãi.
+3.4. Mỗi Bên có quyền chấm dứt Thỏa Thuận này bằng cách gửi đến Bên còn lại thông báo bằng văn bản ít nhất 07 (bảy) ngày trước ngày chấm dứt hiệu lực nêu trong thông báo.
+3.5. Vào bất kỳ thời điểm nào, mỗi Bên có thể, thông báo bằng văn bản đến Bên còn lại, để chấm dứt Thỏa Thuận này ngay lập tức, nếu Bên còn lại chấm dứt hoặc tạm dừng các hoạt động kinh doanh của mình, đang tiến hành thủ tục phá sản hoặc giải thể hoặc các thủ tục tương tự khác, hoặc trở thành đối tượng phải chịu sự điều chỉnh của bất kỳ luật, quy định hoặc hạn chế nào ngăn cản Bên còn lại thực hiện các nghĩa vụ của mình theo Thỏa Thuận này.
+3.6. Việc chấm dứt Thỏa Thuận này sẽ không giảm bớt hoặc hạn chế mỗi Bên thực hiện các nghĩa vụ, trách nhiệm và bổn phận của mình được tích luỹ trước thời điểm chấm dứt. Không phụ thuộc vào các quy định của Thỏa Thuận này, trước khi chấm dứt Đối tác vẫn có trách nhiệm cung cấp Sản Phẩm cho Người Dùng theo các điều khoản và điều kiện của Ưu Đãi nếu Ưu Đãi được sử dụng trước thời điểm chấm dứt Thỏa Thuận, theo đúng phương thức và điều kiện đã quy định trong Thỏa Thuận này.
+3.7. Bất khả kháng:
+**“Bất Khả Kháng”** nghĩa là bất kỳ nguyên nhân nào vượt quá sự kiểm soát hợp lý của một Bên, ảnh hưởng đến việc thực hiện nghĩa vụ của Bên bị ảnh hưởng, bao gồm cả hành vi hoặc thiếu sót/ lỗi của người hoặc hệ thống hoặc các cơ quan khác ngoài tầm kiểm soát hợp lý của Bên đó.
+Các Bên được giải phóng trách nhiệm khỏi các nghĩa vụ của mình (trừ nghĩa vụ thanh toán) và trì hoãn công việc do hậu quả của Bất Khả Kháng. Nếu sự kiện Bất Khả Kháng xảy ra trong thời gian quá 60 (sáu mươi) ngày (hoặc một thời hạn khác do các Bên thỏa thuận) và Các Bên đã thương lượng trên tinh thần thiện chí và không tìm ra giải pháp phù hợp, thì mỗi Bên sẽ có quyền chấm dứt Thỏa Thuận này bằng văn bản thông báo cho Bên còn lại.

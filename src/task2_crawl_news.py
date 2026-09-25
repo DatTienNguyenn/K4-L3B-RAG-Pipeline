@@ -5,7 +5,7 @@ Hướng dẫn:
     1. Thu thập tối thiểu 5 bài viết về đề tài của nhóm (Green SM).
     2. Hỗ trợ 3 chế độ:
        - Tự động cào danh sách tin tức mới nhất từ trang chủ tin tức:
-         https://www.greensm.com/vn-en/news
+         https://www.greensm.com/vn-vi/news
        - Cào theo danh sách ARTICLE_URLS được định cấu hình.
        - Tìm kiếm bài viết qua Firecrawl Search theo từ khoá.
     3. Lưu mỗi bài thành một file JSON trong data/landing/news/:
@@ -42,18 +42,18 @@ from .crawler import (
 load_dotenv()
 
 DATA_DIR = Path(__file__).parent.parent / "data" / "landing" / "news"
-NEWS_LISTING_URL = "https://www.greensm.com/vn-en/news"
+NEWS_LISTING_URL = "https://www.greensm.com/vn-vi/news"
 
 # Danh sách URL bài viết chính thức của Green SM
 ARTICLE_URLS: list[str] = [
-    "https://www.greensm.com/vn-en/news/green-sm-officially-launches-all-electric-ride-hailing-service-in-kazakhstan",
-    "https://www.greensm.com/vn-en/news/routematic-partners-with-green-sm-to-accelerate-ev-adoption-in-corporate-transportation",
-    "https://www.greensm.com/vn-en/news/green-sm-partners-with-korlantas-polri-to-advance-driver-safety-standards-in-indonesia",
-    "https://www.greensm.com/vn-en/news/green-sm-umoney-partner-to-build-an-integrated-mobility-and-digital-finance-ecosystem-in-laos",
-    "https://www.greensm.com/vn-en/news/xanh-sm-rebrands-as-green-sm-unifying-global-brand-identity",
-    "https://www.greensm.com/vn-en/news/gsm-launches-green-sm-platform-a-multi-service-technology-platform-in-indonesia-and-the-philippines",
-    "https://www.greensm.com/vn-en/news/green-sm-signs-idr-600-billion-investment-loan-agreement-with-bca",
-    "https://www.greensm.com/vn-en/news/vingroup-introduces-special-program-amid-rising-fuel-costs",
+    "https://www.greensm.com/vn-vi/news/green-sm-officially-launches-all-electric-ride-hailing-service-in-kazakhstan",
+    "https://www.greensm.com/vn-vi/news/routematic-partners-with-green-sm-to-accelerate-ev-adoption-in-corporate-transportation",
+    "https://www.greensm.com/vn-vi/news/green-sm-partners-with-korlantas-polri-to-advance-driver-safety-standards-in-indonesia",
+    "https://www.greensm.com/vn-vi/news/green-sm-umoney-partner-to-build-an-integrated-mobility-and-digital-finance-ecosystem-in-laos",
+    "https://www.greensm.com/vn-vi/news/xanh-sm-rebrands-as-green-sm-unifying-global-brand-identity",
+    "https://www.greensm.com/vn-vi/news/gsm-launches-green-sm-platform-a-multi-service-technology-platform-in-indonesia-and-the-philippines",
+    "https://www.greensm.com/vn-vi/news/green-sm-signs-idr-600-billion-investment-loan-agreement-with-bca",
+    "https://www.greensm.com/vn-vi/news/vingroup-introduces-special-program-amid-rising-fuel-costs",
 ]
 
 # Từ khoá tìm kiếm bài viết qua Firecrawl Search
