@@ -1,0 +1,384 @@
+# TERMS OF USE
+
+Last updated and Effective from 07 August 2026
+
+Welcome to GREEN SM – the multi-service e-commerce platform of GSM Green and Smart Mobility Joint Stock Company.Part A – GENERAL RULESPlease read this Terms of Use (“Terms”) carefully before installing and/or using the Application or accessing the Platform. By installing, accessing, or using the Application, the Platform, or the Services (as defined below), You are deemed to have read, understood, and agreed to the Terms. These Terms, together with the Green SM Policies, constitute a legally binding electronic agreement between You and Green SM (the “Contract”), which governs Your use of the Services provided by Green SM and shall become effective upon Your completion of the registration for and login to Your Account. This Agreement shall remain in full force and effect unless and until terminated in accordance with the provisions of these Terms.. If You do not agree to these Terms, please do not install or use the Application, the Services, or the Platform.
+
+Green SM may amend the Contract at any time and will notify You via the Application and/or Your registered email address. The updated version will be published on the website https://www.greensm.com/  and/or on the Application. GSM may amend the Terms and/or the Contract and shall notify You of any such amendment through the Application and/or the email address associated with Your registered Account. Any such amendment shall become effective no earlier than seven (07) days after the date on which such notice is given. The updated version of these Terms shall be published on Green SM's website at https://www.greensm.com/ and/or made available through the Application. If You are a Customer or User and do not agree with the amendments, You have the right to unilaterally terminate the Contract by providing prior written notice to Green SM before such amendment becomes effective. Your continued access to or use of the Application and/or the Services on or after the effective date of such amendment shall constitute Your acceptance of, and agreement to be bound by, such amendment
+
+The collection, storage, processing, use, and disclosure of Your Personal Data shall be governed by Green SM's Personal Data Protection Policy, as published on the Application and the Platform. Green SM shall collect only the minimum Personal Data necessary to provide the Services used by You. Your consent to the collection, processing, use, and disclosure of Your Personal Data for purposes beyond the scope of providing the Services (such as for marketing, advertising, or market research purposes) is voluntary and shall not constitute a condition for the execution or performance of this Agreement.
+
+Green SM is a technology company that provides a platform for Users to access Products offered by either Partners and/or Green SM. As the operator of the Platform, Green SM is responsible for ensuring that Partners satisfy the legal requirements to operate, implementing quality control mechanisms for Products listed on the Platform, and assisting in resolving Users' complaints relating to Products provided by Partners to the extent required under applicable consumer protection laws. The primary role of Green SM is to facilitate the connection between Users and Partners. Accordingly, Green SM shall not be held liable for any actions, omissions, or legal responsibilities arising from the services provided by any Partner (if such Partner is not Green SM). Partners are independent entities and are not agents, employees, or representatives of Green SM. Products provided by Partners shall not be considered as being supplied by Green SM**, and each Partner shall be solely and directly responsible for the Products it provides.
+
+1. DEFFINITION 
+
+1.1. “Green SM” means GSM Green and Smart Mobility Joint Stock Company, operating under Enterprise Registration Certificate No. 0110269067, first issued by the Hanoi Department of Finance on March 1st, 2023; Address: Symphony Office Building, Chu Huy Man Street, Vinhomes Riverside Urban Area, Phuc Loi Ward, Hanoi City; Telephone: 1555 or 19002088;
+
+1.2. “Green SM Policies” include (i) the Personal Data Protection Policy, (ii) the Policies applicable to the Products, (iii) the Regulations on the use of the Services, (iv) the Codes of Conduct, and (v) all forms, policies, notices, guidelines, questions, or agreements provided by You or entered into by You with Green SM from time to time;
+
+1.3. “Products” means transportation services and/or goods, any services and/or support services provided by Partners (or, in certain cases, by Green SM itself) to Users through the Platform, including but not limited to: Green SM Car, Green SM Bike, Green SM Express, Green SM Food, Green SM Airport, Green SM Tour, Green SM InterCity, Membership, Gift Cards, Green SM Gift Card, Green SM Business, Green SM Partner, Green SM Ads, Green SM Platform, Green SM Care, Green SM Travel, Green SM Local etc.
+
+1.4. “Services” means the facilitation of connections between Users and Partners (and in certain cases, between Users and Green SM where Green SM acts as the provider of Products) through the Application, the Platform, and/or the Software. In certain cases, the Services may also include online promotion services or advertising services provided by Green SM to Partners for the purpose of promoting/advertising the Partners’ Products.
+
+1.5. “User” means any individual or organization that uses the Application, the Platform, and/or the Software to search for and/or receive Products;
+
+1.6. “Customer” means any person who directly receives the Products, including the User and any person authorized by the User to access and use the Application, the Platform, and/or the Services through the User’s Account; 
+
+1.7. “Partner” means an independent third party that provides Products to Users through the Services, including but not limited to transportation Partners and Merchant Partners supplying goods and/or services.
+
+1.8. “Application” means the Green SM application installed on mobile or other electronic devices, which is managed and operated by Green SM.
+
+1.9. “Platform” means the Green SM e-commerce platform comprising the technology, Application, Software, portal, or relevant website operated by Green SM, which, when used in conjunction with the Application, enables Users to request or access the Products.
+
+1.10. “Software” means any software associated with the Application that is made available for download and installation by Green SM and/or the Partners.
+
+1.11. “User Account” means the account created and activated by the User on the Application for the purpose of accessing and using the Services.
+
+1.12. “Partner Account” means the account created and activated by the Partner on the Application, the Software, and/or the Platform for the purpose of accessing and using the Services.
+
+1.13. “Order” means the confirmation of a transaction between the User and the relevant party for the booking or purchase of Products through the Application or the Platform.
+
+1.14. “Settlement Period” means the period used to aggregate Service Fees, commencing at 00:00 hours on the 23rd day of the preceding month and ending at 23:59 hours on the 22nd day of the settlement month.
+
+2.  RIGHTS, OBLIGATIONS AND COMMITMENTS 
+
+2.1. By using the Services, You  have the following rights, obligations and undertakings  that:
+
+(i) You have full legal capacity under applicable laws to accept these Terms and to enter into, perform, and comply with the Contract. Accordingly, if you are an individual, you represent and warrant that you are at least 18 years of age.
+(ii) All information you provide to Green SM is current, complete, and accurate at all times.
+(iii) You shall ensure that all information related to the Products published on the Application or the Platform is complete and accurate in accordance with Green SM’s requirements and applicable laws. You shall not post or provide any false, inaccurate, or misleading information.
+(iv) You shall use the Application, the Platform, and the Services solely for lawful purposes.
+(v) You shall safeguard and maintain the confidentiality of your account password and any other means of identification provided by Green SM for your access to and use of the Application, the Platform, and/or the Services. You shall not transfer your account, account information, or login credentials to any other person, except as permitted under an agreement between you and Green SM.
+(vi) You shall immediately notify Green SM upon becoming aware of any unauthorized use of your account or any breach of security.
+(vii) You shall ensure that you download and install the correct version of the Application/Software compatible with your device.
+(viii) You shall not use the Application, the Platform, and/or the Software to transmit or store unlawful materials or information, or for any fraudulent purposes; to harass or disturb others; to submit false or fake service requests; or to violate any prohibitions under applicable laws.
+(ix) You shall not commit any acts (whether intentional or unintentional) that may damage, disrupt the operation of, or otherwise adversely affect the Application, the Platform, the brand reputation, or the assets or the lawful rights and interests of Green SM, the Partners, or other Users.
+(x) You shall provide Green SM such information, documents, or materials as may be necessary to establish and maintain an account for accessing the Application, the Platform, and/or the Services as required by the Platform and/or the Application.
+(xi) You agree to ensure the accuracy, timeliness, and completeness of the information and document provided as may be required by the Application and/or the Platform, if any.
+(xii) You shall not engage in any fraudulent conduct, deceptive conduct, or any similar conduct against Green SM or attempt to unlawfully benefit from any promotions, events, or other activities organized by Green SM.
+(xiii) You shall not repeatedly and consecutively cancel Product requests without a legitimate reason or due to force majeure events.
+(xiv) Green SM reserves the right, where there are reasonable grounds to determine that You have violated these Terms or applicable laws, to block, restrict, or deny your access to your Service account, and/or disable certain features integrated into the Application or Platform, without prejudice to any other rights or remedies available to Green SM under these Terms and/or applicable laws. If You are a Partner, Green SM shall provide at least five (5) days' prior notice via email, the Platform and/or the Application before taking the measures set out herein, except where such measures are required by a competent governmental authority.
+(xv) You shall bear any telecommunications charges incurred when using the Application, the Platform, or the Services.
+(xvi) Your use of the Application, the Platform, the Services, and/or any embedded features shall comply with Green SM’s information security policies and Personal Data Protection Policy.
+(xvii) You shall remain mindful of your own safety when using the Services or the Products, and shall take all necessary precautions within your capacity to enhance your safety when using the Services and the Products. For the avoidance of doubt, Green SM shall remain responsible to You for the Services and Products provided by Green SM in accordance with applicable laws.
+(xviii) You agree to comply with all applicable laws relating to your use of the Services and the Products.
+(xix) You shall be responsible for any loss or damage caused by You to yourself, the Partners, Green SM, Green SM's personnel, or any third party, except where such loss or damage arises from the fault of Green SM or the Partners.
+(xx) You shall comply with these Terms and all Green SM Policies.
+(xxi) You shall respect the intellectual property rights of Green SM, the Partners, and other Users.
+(xxii) Other rights, obligations, and commitments under these Terms and applicable laws.
+
+2.2. If You are a Transportation Partner, You further warrant that:
+
+(i) Be entitled to register, maintain, suspend, or terminate the provision of Products; and determine goods and services, selling prices, and promotional policies in accordance with applicable laws and agreements with Green SM;
+(ii) Be entitled to use the Platform's technical infrastructure and support tools; access data directly related to your business activities on the Platform; receive full and timely payments; and have requests, feedback, and complaints handled in accordance with the principles of transparency and openness.
+(iii) You hold a valid driver’s license appropriate for the type of vehicle you operate, and possess all licenses, approvals, and qualifications required under applicable laws to provide transportation or delivery services for hire to third parties.
+(iv) You own, or have the legal right to use and operate, the vehicle (the “Vehicle”) that you intend to use when accepting a User’s request. The Vehicle is maintained in good operating condition at all times, in compliance with applicable safety standards and Green SM’s requirements.
+(v) Where applicable, you shall use lawful and compliant safety equipment to facilitate the provision of the Products to Users.
+(vi) Provide accurate and complete information; ensure the quality of the Products; fully perform obligations relating to delivery, warranty, return, and refund (if any); and not misuse the Platform to conduct business in prohibited industries or trades, deal in counterfeit goods, goods infringing intellectual property rights, or engage in any other unlawful activities;
+(vii) Fulfill financial obligations to the State; protect User/Customer data; safeguard User/Customer information; and cooperate with Green SM and competent state authorities in handling violations of law;
+(viii) You shall be solely liable for any claims, judgments, and legal obligations arising from accidents, losses, or damages — including but not limited to personal injury, death, property loss, or property damage — caused by or alleged to have resulted from the Products provided by you.
+(ix) You shall comply with all applicable laws and regulations on transportation and delivery services, and shall bear full responsibility for any violations thereof.
+(x) You shall not contact any Users or other Partners for purposes unrelated to the provision of the Services or Products.
+(xi) You shall not reverse look-up, trace, or attempt to trace any information concerning any User, visitor to the Application or Platform, or any other customer of Green SM.
+(xii) You agree to undergo random drug testing as may be required by Green SM or any third party authorized by Green SM.
+(xiii) If you are registering an account on behalf of your employer, your employer shall be deemed the owner of such account, and you represent and warrant that you have the authority to bind your employer to this Contract.
+(xiv) You shall not use the Services, the Application, or the Platform for any purpose other than those permitted under the Contract.
+(xv) Except where the Products involve transportation services, you shall reimburse the value of the Order (excluding shipping fees, platform fees, and any applicable surcharges) under the following conditions:
+(a) You cancel the Order for subjective reasons not attributable to the Merchant Partner and/or the User; and
+(b) the Order completion time assigned to the Merchant Partner has not yet expired. The Order completion time is calculated from the moment you arrive at the Merchant Partner’s location and select the action “I have arrived at the restaurant” on the Application/Platform. The reimbursement amount shall be automatically deducted from your earnings from subsequent orders generated via the Application.
+(xvi) For Products involving transportation services where applicable laws require transportation service providers to obtain insurance for passengers and/or goods, the Transport Partner shall procure and maintain adequate insurance coverage of the required type in accordance with applicable laws, and the insurance premium shall be included in the fare.
+(xvii) You acknowledge that, as a merchant operating on an e-commerce trading platform, you are solely responsible for issuing and providing value-added tax (VAT) invoices, or other applicable sales invoices, for the Products you supply through the Application or the Platform, in accordance with applicable laws.
+(xviii) Other rights, obligations, and commitments under these Terms and applicable laws.
+
+2.3. If You are a User or a Customer, You further have the following rights, obligations, and commitments warrant that: 
+
+(i) Be entitled to consumer protection rights; receive complete and accurate information regarding the Services, Products, and Partners
+(ii) Be entitled to choose the Services, Products, payment methods, and delivery methods; have personal data protected; and have feedback, requests, and complaints resolved in accordance with applicable regulations;
+(iii) Provide necessary and accurate information; and make full and timely payment;
+(iv) Comply with applicable laws, the Platform's operating conditions, and transaction terms; and not misuse the Platform to engage in any unlawful activities.
+(v) Not to carry any prohibited items or items that may endanger persons, vehicles, or property, including but not limited to narcotics, prohibited drugs, weapons, flammable or explosive substances, toxic chemicals, and other dangerous items as prescribed by applicable laws. Green SM does not provide goods or luggage safekeeping services. You are responsible for safeguarding your own goods and luggage throughout the use of the Services or Products (except for Products being Green SM Express or Green SM Delivery). Transport Partners will remind You to check your goods and luggage before completing the use of the Product.
+(vi) To use the Services solely for your personal purposes. If permitted under the applicable policies, you may use the Services on behalf of another person, provided that you remain primarily responsible and liable to Green SM for such use.
+(vii) Not to use the Application, the Platform, the Services, and/or the Software to disturb, harass, annoy, or submit fraudulent or false service requests.
+(viii) Not to contact any Partner for any purpose unrelated to the use of the Services or Products, except for the purpose of lodging complaints in accordance with applicable laws.
+(ix) Other rights, obligations, and commitments under these Terms and applicable laws.
+
+2.4. If You are a Merchant Partner, You further have the following rights, obligations, and commitments:
+
+(i) Be entitled to register, maintain, suspend, or terminate the provision of Products; and determine goods, services, selling prices, and promotional policies in accordance with applicable laws and agreements with Green SM
+(ii) Be entitled to use the Platform's technical infrastructure and support tools; access data directly related to your business activities on the Platform; receive full and timely payment; and have requests, feedback, and complaints resolved in a transparent and publicly disclosed manner;
+(iii) Provide accurate and complete information; ensure the quality of the Products; fully perform obligations relating to delivery, warranty, returns, and refunds (if any); and not misuse the Platform to conduct business in sectors or trades prohibited by law, deal in counterfeit goods, goods infringing intellectual property rights, or engage in other unlawful activities;
+(iv) Fulfill financial obligations to the State; protect User/Customer data; protect User/Customer information; and cooperate with Green SM and competent state authorities in addressing violations of law.
+(v) You shall comply with and at all times maintain all licenses, permits, and authorizations required under applicable laws, including but not limited to regulations concerning food safety, product disclosure, and product origin. In the event that the Products include food items and any case of food poisoning occurs, you, as the Merchant Partner, shall be solely responsible for handling and resolving the incident. This includes bearing all related costs, such as those for medical examination and treatment, emergency care, and compensation for any damages suffered by the User and/or Customer due to the food poisoning. Green SM and any Transport Partner shall be fully exempt from any and all liabilities relating to the food safety, hygiene, or quality of the Products.
+(vi) Prepare and provide the Products accurately and in full in accordance with the requirements of the Customer/User.
+(vii) You shall bear full responsibility for any administrative fines, penalties, or other sanctions imposed by competent state authorities in connection with any violations committed by you in the course of providing the Products.
+(viii) Other rights, obligations, and commitments under these Terms and applicable laws.
+
+3. PAYMENT
+
+3.1. For Partners
+
+3.1.1. You shall promptly pay, on a non-refundable basis, all fees payable to Green SM for the use of the Services (the “Service Fees”). The Service Fees shall be calculated as a percentage of the User Fees, as determined by Green SM from time to time, and as may be further specified in the Contract between you and Green SM.
+
+3.1.2. You acknowledge that the total User Fees payable by Users directly to you shall include the Service Fees (if any), which you collect on behalf of Green SM.
+
+3.1.3. Payment by the Partner shall be made via bank transfer or other non-cash methods, in accordance with the following process:
+
+(i) Within three (03) Business Days following the end of each Settlement Period, Green SM shall prepare and deliver to the Partner a Statement of Service Fees and other incurred costs for month T (including, but not limited to, User Fees collected from Users by Green SM or the Partner) (if any) (the “Statement”). The Statement shall be sent via the Partner Account, email, or any other communication channel as designated by Green SMWithin three (03) Business Days of receipt of the Statement, the Partner shall review, verify, and respond to Green SM using the same method through which the Statement was delivered. If no response is received within the specified period, the Partner shall be deemed to have accepted the Statement. Green SM shall then issue an invoice and corresponding payment request.
+(ii) If the Parties are unable to reach an agreement on the Statement figures within the aforementioned period, Green SM shall issue an invoice based on the figures in the original Statement. Discussions regarding disputed amounts may continue into the subsequent Settlement Period, and any adjustments shall be made accordingly by way of set-off.
+(iii) After reconciliation and set-off of the Parties' mutual obligations, any net amount payable by either Party shall be paid to the other within ten (10) Business Days from the last day of the month of the relevant Settlement Period. For the avoidance of doubt, by entering into the Contract, the Partner agrees to such set-off mechanism.
+(iv) Where Green SM and the Partner jointly participate in promotional programs, the amounts payable between the Parties shall include the value of such promotions in the applicable form. Each Party shall bear its own share of such promotional costs in accordance with the terms of the relevant program, as published on the Platform or otherwise communicated by Green SM.
+
+3.1.4. Green SM shall have the right to collect Service Fees by directly deducting the relevant amounts from any payments otherwise payable by Green SM to the Partner under these Terms or the Contract.
+
+3.2. For Users:
+
+3.2.1. The User Fees applicable to a Product shall be proposed and displayed on the Application prior to your use of such Product. These fees do not include additional costs that may be incurred during the Partner’s provision of the Product to you, such as toll charges or parking fees. You shall be solely responsible for the payment of such additional costs.
+
+3.2.2. User Fees shall be determined in accordance with the Pricing Schedule for each Product, as set by the Partner and/or Green SM from time to time. If you do not agree with any revised Pricing Schedule, you may terminate the Contract or the relevant agreement without penalty.
+
+3.2.3. Upon completion of your use of the Product, you shall be required to fully pay the applicable User Fees and any additional charges to the Partner or to Green SM. All such payments are non-refundable once made.
+
+3.2.4. You may make payment to the Partner and/or Green SM in cash, by credit or debit card (the “Card”), or through any other payment method made available on the Application.
+
+3.2.5. If you choose to pay by Card, you must register a valid Card in accordance with the requirements displayed on the Application. You agree that Green SM shall have the right to verify and authorize your Card information both upon initial registration and during each use of the Services. Any transaction-related costs associated with payment by Card shall be borne solely by You.
+
+3.2.6. Green SM reserves the right to refuse Card payments via the Application in the following cases: a transaction error causes the issuing institution to reject the payment; the Card is suspected of being used for fraudulent, unlawful, or criminal activity; or after Green SM has notified You and reached mutual agreement with You regarding authentic evidence establishing that You have violated these Terms.
+
+3.2.7. You shall be solely responsible for resolving any disputes directly with the Card issuing institution.
+
+3.3. Green SM shall collect, process, and protect your payment information in accordance with the Contract, Green SM’s Privacy Policy, and its Personal Data Protection Policy.
+
+4. PROMOTIONS AND DISCOUNTS
+
+4.1. Green SM may launch marketing, advertising, and promotional campaigns on the Platform (including but not limited to discount codes, vouchers, and membership packages) (each, a “Promotion”). Each Promotion may differ in terms of validity period, duration, conditions, scope of use, and other applicable features, and shall be subject to these Terms.
+You may choose whether or not to participate in any Promotion, through the channels and methods announced by Green SM on the Platform or as otherwise determined by Green SM from time to time.
+
+4.2. If you are a Partner, you may:
+
+- Register to jointly implement a Promotion with Green SM; or
+- Independently create or implement a Promotion using the tools provided by Green SM on the Platform to promote your business.
+
+In such cases, you agree and warrant that you shall:
+
+(i) Comply with all procedures, formalities, and conditions prescribed by the Green SM Platform and all applicable laws relating to promotions, advertising, and marketing. For the avoidance of doubt, Green SM’s approval for your Promotion to be displayed on the Platform shall not constitute confirmation of its compliance with applicable laws;
+(ii) Provide complete and accurate information about the Promotion to Green SM, as required under applicable laws and Platform rules;
+(iii) Independently complete and be responsible for any administrative procedures required under applicable laws;
+(iv) Bear all costs related to the Promotion you implement, including but not limited to service fees, execution costs, compensation, penalties, and any other associated charges. Accordingly, Green SM shall have the right to withhold an amount equivalent to such costs from any payments due to you, without requiring prior consent;
+(v) Handle all user complaints and inquiries related to your Promotion directly and assume full liability towards the Users;
+(vi) For jointly implemented Promotions, bear the cost portion applicable to you, as announced by Green SM on the Platform or as otherwise notified.
+
+4.3. If you participate in or implement any Promotion, you acknowledge and agree that:
+
+(i) You are the controller of, and solely responsible for, the Account provided to you for access to and use of the Platform. You shall be fully liable for all requests and actions performed through your Account. You must promptly notify Green SM of any unauthorized use, and shall indemnify Green SM and the Users for any resulting losses;
+(ii) Promotions must be used solely for lawful purposes and strictly in accordance with their intended terms. You shall not copy, exploit, or fraudulently use any Promotion, in whole or in part, in any manner;
+(iii) Promotions are non-transferable, non-exchangeable, non-refundable, and may not be redeemed for cash, unless expressly permitted in writing by Green SM.
+
+4.4. Green SM may, from time to time, apply commercial discount policies for Users. By using the Services and/or Products, you agree to receive and benefit from such discount policies.
+
+5. RATINGS AND REVIEWS
+
+5.1. Users and Partners may be permitted to rate and review each other in relation to the Products provided through the Platform.
+
+5.2. Social organizations engaged in the protection of consumer rights shall also have the right to provide ratings, feedback, and recommendations in accordance with applicable laws.
+
+6. INTELLECTUAL PROPERTY RIGHTS AND YOUR CONTENT
+
+6.1. Green SM Intellectual Property Assets: Green SM and/or its licensors, as applicable, own or lawfully hold the right to use the intellectual property rights and intellectual assets relating to the Services, Products, Application, Software, and Platform, including but not limited to trademarks, logos, images, trade names, copyrights, patents, industrial designs, and other intellectual property objects ("Green SM Intellectual Property Assets").
+
+6.2. Your License to Use: If You are a Partner, Green SM and its licensors (if any) grant You a revocable, non-exclusive, non-transferable, and limited license to use and access the Application, Software, and/or Platform and Green SM Intellectual Property Assets solely for the purpose of utilizing the Services and/or Products in accordance with these Terms and the Contract. Except for the limited license granted above, nothing in these Terms or the Contract shall be construed as a sale, assignment, or transfer by Green SM to You of any ownership rights or interests in the Green SM Intellectual Property Assets.
+
+6.3. Your Content: "Your Content" means all information, data, materials, or content that You provide, upload, transmit, send, publish, or otherwise create on or through the Application, Software, and/or Platform, including but not limited to:
+
+(i) In respect of Customers: account information, reviews, ratings, feedback, comments, questions, complaints, images, videos, audio recordings, and other content provided or uploaded by Customers on the Application/Platform.
+(ii) In respect of Partners: trademarks, logos, trade names, images, videos, audio recordings, promotional content, store information, product information, service information, selling prices, promotional programs, and other content provided or uploaded on the Application/Platform by the Partner or persons designated by the Partner.
+
+For the avoidance of doubt, Your Content as defined above does not include personal data as prescribed by applicable law.
+
+You retain ownership of Your Content, unless otherwise provided by applicable law or agreed between the parties.
+
+6.4. License to Use Your Content: By providing or uploading Your Content, You grant Green SM a non-exclusive, royalty-free license, with the right to sublicense such license to Green SM's affiliates, contractors, and service providers, to store, reproduce, process, use, display, publish, transmit, distribute, reformat, resize, convert technical formats, and otherwise exploit Your Content to the extent necessary for the following purposes:
+
+(i) Operating, maintaining, improving, and developing the Application, Software, Platform, Services, and/or Products;
+(ii) Displaying Your Content to users and relevant parties;
+(iii) Supporting transactions, customer service, handling feedback and complaints, and resolving disputes;
+(iv) Preventing fraud, managing risks, conducting inspections and audits, and ensuring compliance with applicable laws; and
+(v) Carrying out other purposes as provided in these Terms or as consented to by You.
+
+License Duration and Processing of Your Content: The license to use Your Content shall arise from the time You provide or upload such content and shall continue for as long as the content is maintained on the Platform. Green SM may continue to store and use such content after it has been removed or after the termination of the account to the extent necessary to comply with applicable laws, maintain records, protect legitimate interests, or handle complaints, investigations, and disputes. 
+
+If Your Content contains Your personal data, Green SM shall anonymize or de-identify such data before making it public, sharing, or transferring it; if such anonymization or de-identification is not performed, Green SM shall only process such personal data after obtaining Your consent in accordance with applicable laws. Green SM's processing of personal data contained in Your Content shall be subject to Green SM's Personal Data Protection Policy and applicable laws. Your grant of the license to use Your Content under this Clause does not replace any consent or other legal basis for personal data processing required by applicable laws. Green SM shall not process Your personal data for advertising, marketing, or transfer purposes without Your explicit consent.
+
+6.5. Additional License to Use Your Content: In addition to the scope set out in Clause 6.4, the Partner grants Green SM a non-exclusive, royalty-free license, with no limitation on the number of uses, throughout the term of cooperation, to use Your Content for the following purposes:
+
+(i) Establishing, operating, and promoting the Partner's store;
+(ii) Introducing, promoting, marketing, and communicating information relating to the Partner, the Partner's products, services, or store on the Application, websites, social media platforms, email communications, advertising materials, promotional programs, and other lawful communication channels managed or used by Green SM;
+(iii) Reformatting, cropping, resizing, converting technical formats, editing, and optimizing display quality, provided that such actions do not materially distort the nature of the content; and
+(iv) Allowing Green SM's affiliates, service providers, advertising partners, and system operation partners to use such content to the extent necessary for the purposes set out above.
+
+6.6. Responsibility for Your Content: You are solely responsible for Your Content, including its legality, accuracy, truthfulness, and appropriateness.
+You represent and warrant that.
+
+(i) You are the owner of, or have obtained all necessary rights, consents, and licenses to provide Your Content and grant the rights to Green SM under these Terms;
+(ii) Your Content does not infringe any intellectual property rights, image rights, privacy rights, personal data protection rights, or any other lawful rights and interests of any third party;
+(iii) Your Content does not contain any false, fraudulent, offensive, defamatory, threatening, harassing, unlawful, or socially inappropriate information;
+(iv) You have obtained all lawful consents from any individual whose image, voice, information, or personal data appears in Your Content; and
+(v) Green SM is not required to pay You or any third party any royalty, image usage fee, or similar fee in connection with the use of Your Content in accordance with these Terms.
+
+6.7. Customer Ratings, Reviews, and Feedback: Customers shall ensure that all ratings, reviews, comments, feedback, or other opinions posted on the Platform are based on actual experiences, presented truthfully, and are not intended to constitute unfair competition, manipulate ratings, engage in unauthorized advertising, defame, insult, or otherwise cause harm to Green SM, Partners, or any third party.
+
+Green SM does not endorse, guarantee, or assume responsibility for the accuracy of any ratings, reviews, comments, or feedback posted by Customers. The views expressed in such content are those of the relevant Customers and do not necessarily reflect the views of Green SM.
+
+Green SM reserves the right to categorize, aggregate, display, temporarily hide, restrict the display of, or remove ratings, reviews, comments, and feedback where there are reasonable grounds to believe that such content:
+
+(i) Violates these Terms or applicable laws;
+(ii) Is unrelated to an actual transaction or experience;
+(iii) Appears to be fraudulent, manipulated, or created for the purpose of distorting rating results;
+(iv) Infringes intellectual property rights or the lawful rights and interests of any organization or individual; or
+(v) May affect the security, integrity, or normal operation of the Platform.
+
+6.8. Monitoring and Handling of Your Content: Except where You are a Partner and Your Content consists of information relating to goods and/or services offered by You for sale on the Application/Platform, Green SM has the right, but not the obligation, to proactively review, verify, or monitor Your Content before such content is published.
+
+Upon receipt of a complaint, a request from a competent governmental authority, or where there are reasonable grounds to suspect that Your Content violates applicable laws, these Terms, or the rights of a third party, Green SM may, without prior notice:
+
+(i) Refuse to publish, temporarily hide, restrict the display of, block access to, or remove such content;
+(ii) Require You to provide explanations, make amendments, or submit supporting documentation;
+(iii) Suspend or restrict the relevant account, store, or Services;
+(iv) Retain such content and provide it to competent authorities in accordance with applicable laws; and/or
+(v) Apply other measures as provided under these Terms or the Contract.
+
+Green SM's acceptance, storage, display, processing, or failure to remove Your Content shall not be construed as Green SM's endorsement of, guarantee of, or assumption of responsibility for such content on Your behalf.
+
+You have the right to submit explanations or supporting documents relating to Your Content that has been restricted or removed through the channels announced by Green SM. Green SM may consider reinstating such content based on the documents provided, but shall not be obligated to do so if Green SM continues to have reasonable grounds to believe that the content violates these Terms, applicable laws, or the rights of a third party.
+
+6.9. Prohibited Content: You shall not provide, upload, transmit, or publish Your Content if such content:
+
+(i) Is false, fraudulent, misleading, or unrelated to a transaction, Product, or Service;
+(ii) Is insulting, defamatory, threatening, harassing, discriminatory, obscene, pornographic, violence-inciting, or contrary to social ethics;
+(iii) Infringes intellectual property rights, image rights, privacy rights, personal data protection rights, or the lawful rights and interests of any third party;
+(iv) Contains malware, viruses, malicious links, spam, or content intended to interfere with, disrupt, or gain unauthorized access to the Application, Software, or Platform;
+(v) Contains information relating to goods or services falling within business lines prohibited from investment and business activities, or goods or services that have been suspended from circulation pursuant to announcements issued by competent governmental authorities, or contains keywords updated pursuant to requests from competent governmental authorities;
+(vi) Constitutes unauthorized advertising, rating or review manipulation, or unfair competition; or
+(vii) Violates applicable laws, these Terms, the Contract, or any standards or policies published by Green SM from time to time.
+
+6.10. Feedback: If You voluntarily provide Green SM with any ideas, suggestions, recommendations, or feedback relating to the improvement of the Application, Software, Platform, Services, or Products ("Feedback"), You agree that Green SM shall have the right to use, analyze, develop, and implement such Feedback on a non-exclusive, royalty-free basis and without any time limitation, without any obligation to compensate You or recognize any rights or interests of Yours, unless otherwise agreed in writing by the Parties.
+
+Green SM shall have no obligation to accept, implement, or respond to any Feedback.
+
+6.11. Indemnification: To the extent permitted by applicable law, You shall indemnify Green SM against any losses, reasonable costs, penalties, payment obligations, claims, complaints, disputes, actions, or proceedings arising from:
+
+(i) Your Content infringing intellectual property rights, violating applicable laws, or infringing the lawful rights or interests of any third party;
+(ii) Your failure to obtain the necessary rights or consents required to provide such content and grant rights to Green SM;
+(iii) Your Content being inaccurate, fraudulent, misleading, offensive, or defamatory; or
+(iv) Your breach of any representation, warranty, or obligation under this Clause.
+
+6.12. Consequences of Termination: Upon termination of the Contract or the cooperation relationship between Green SM and You for any reason:
+
+(i) Any rights to use Green SM Intellectual Property Assets granted to You under these Terms and/or the Contract shall automatically terminate, unless otherwise agreed by the Parties in writing;
+(ii) You shall immediately cease using and remove all trademarks, logos, trade names, branding elements, and other Green SM Intellectual Property Assets from Your store, signage, vehicles, uniforms, documents, publications, online accounts, and any other assets owned, managed, or controlled by You;
+(iii) You shall not use any assets, materials, media, or content, including those owned by You, that contain or are associated with Green SM Intellectual Property Assets in a manner that may create confusion that You continue to cooperate with, are affiliated with, sponsored by, endorsed by, or approved by Green SM; and
+(iv) You shall not use Green SM Intellectual Property Assets in any manner that may harm the reputation, goodwill, lawful rights, or legitimate interests of Green SM.
+
+Termination of the Contract or the cooperation relationship shall not affect any rights, obligations, or liabilities accrued prior to the effective date of termination, including obligations relating to the handling of violations, indemnification, and the resolution of complaints or disputes relating to the Partner's Content. The provisions relating to rights and responsibilities regarding Your Content, record retention, complaint handling, confidentiality, indemnification, limitation of liability, and protection of Green SM Intellectual Property Assets shall survive the termination of the Contract or the cooperation relationship to the extent necessary to fulfill the purposes of such provisions.
+
+7. CONFIDENTIALITY
+
+You shall maintain strict confidentiality of all information and data related to Green SM, including but not limited to (i) Information about Green SM’s personnel, services, products, business operations, marketing and promotional plans, and other activities of Green SM and its affiliates; (ii) Any personal information or data disclosed to You by Green SM or its representatives, whether communicated orally or in writing, before, on, or after the date of these Terms; (iii) Any information otherwise obtained directly or indirectly from Green SM or any of its affiliates; (iv) Any information generated during the negotiation and performance of the Contract.
+You shall not disclose, share, or use such confidential information for any purpose other than to fulfill Your obligations under the Contract, unless expressly authorized in writing by Green SM or required by law.
+
+8. DISCLAIMER OF LIABILITY
+
+Green SM makes no representation or warranty, express or implied, regarding the Products provided by Partners or any Products purchased through the use of the Services. However, where a User/Customer suffers damage directly arising from a Partner's fault in the course of using the Platform, the User/Customer shall have the right to request Green SM's assistance in resolving complaints with the Partner in accordance with the procedures and processes published by Green SM on the Application/Platform.
+
+9. INTERNET FAILURES
+
+The Services provided through the Application may be subject to limitations, delays, interruptions, or other issues inherent in the use of the internet and electronic communications. This includes, but is not limited to, situations where Your device or the Partner’s device malfunctions, has no network connection, is out of coverage area, is turned off, or otherwise fails to operate properly. In such cases, Green SM shall bear no liability for any damages, losses, or inconveniences that may arise.
+
+10. INDEMNITY AND LIMITATION OF LIABILITY
+
+By accepting these Terms when using the Application and the Platform, You agree to indemnify, defend, and hold harmless Green SM, its licensors, affiliates, officers, directors, members, employees, attorneys, and agents from and against any and all claims, costs, damages, losses, liabilities, and expenses arising out of or in connection with (a) Your use of the Services and/or the Application to provide or use the Products; (b) Your breach of these Terms or applicable laws; (c) Your infringement of any third party’s rights; (d) Your misuse of the Services, Products, and/or the Application; or (e) Your operation of any vehicle in connection with the provision of the Products.
+
+Except as otherwise provided, except where You are a User/Customer, and to the maximum extent permitted by applicable law, Green SM's total liability shall be limited to the aggregate amount actually paid by You and/or incurred by You in connection with the use of the Services in relation to the event giving rise to the claim.
+
+Where You are a User/Customer, Green SM shall be liable for compensating the User/Customer for damages in accordance with applicable law if Green SM breaches any obligation under the Contract and/or these Terms, in the same manner as applicable to violations by the User/Customer.
+
+11. NOTICES
+
+Green SM may deliver notices to You via the Application, the Software, or the Platform, or by email to the email address on record, or by registered mail to the address You have provided to Green SM.
+Any such notice shall be deemed received (i) 48 hours after being sent by registered mail; or (ii) 1 hour after being sent by email.
+You may send notices to Green SM by Email at support.vn@greensm.com, or Registered mail to the address of Green SM as listed in the contact information on the Application or Platform. Notices from You shall be effective upon receipt by Green SM.
+
+12. ASSIGNMENT
+
+You shall not assign or transfer any rights or obligations under the Contract without the prior written consent of Green SM. Any assignment or transfer made without such consent shall be null and void.
+Green SM may assign or transfer its rights or obligations under the Contract without Your consent, except where You are a User or Customer..
+
+13. DISPUTE RESOLUTION
+
+13.1. The following events shall be considered force majeure events ("Force Majeure Events"): heavy rain, storms, floods, landslides, earthquakes, war, fire, epidemics, changes in government policies or laws, and other events occurring objectively beyond the reasonable control of the Parties.
+
+13.2. A Party affected by a Force Majeure Event shall only be exempt from liability if all of the following conditions are satisfied: (i) such event is wholly beyond the affected Party's reasonable control and is not caused by the fault or negligence of the affected Party; (ii) the affected Party has taken all necessary measures within its capability to prevent, remedy, or mitigate the damage, delay, interruption, or suspension of the performance of its obligations; and (iii) the affected Party notifies the other Party within three (3) Business Days from the occurrence of the Force Majeure Event.
+
+13.3. In the event that a Force Majeure Event continues for more than sixty (60) days, either Party may, by written notice to the other Party, unilaterally terminate the transaction that has been entered into.
+
+14. DISPUTE RESOLUTION
+
+14.1. If any dispute arises out of and/or in connection with these Terms and/or the Contract, Green SM and You shall seek to resolve such dispute through negotiation. If the dispute cannot be resolved through negotiation, either Party shall have the right to submit the dispute to a competent court for resolution.
+
+14.2. Notwithstanding anything to the contrary in this Clause, Green SM shall only act as an intermediary in receiving information and forwarding it to the responsible party in accordance with these Terms, Green SM's Operating Regulations, and applicable laws with respect to complaints between Partners and Users. Accordingly, the Partner and the User agree that they shall first engage in discussions to seek an amicable resolution. If no agreement can be reached, either Party may submit a complaint to the competent authority.
+
+14.3. Please refer to the Complaint Receipt and Resolution Procedure published on the Platform/Application when exercising Your right to lodge a complaint.
+
+15. PERSONAL DATA
+Your personal data will be collected, stored, processed, used, and shared in accordance with Green SM’s Personal Data Protection Policy, which is available on the Application and/or Platform.
+
+16. LINKS AND INTERACTIONS WITH THIRD PARTIES
+
+16.1. The Application or Platform may include links to third-party websites for your convenience. These sites are not controlled by Green SM, so if you visit them, you do so at your own risk. Green SM is not responsible for their content or links.
+
+16.2. The Application may also be integrated with third-party platforms or websites. When you use Green SM’s services on these platforms, you agree to their terms of service. Green SM is not responsible for their services, reliability, security, privacy policies, or operations.
+
+16.3. When using services on third-party platforms, Green SM will process your requests but will not disclose your personal data unless necessary to fulfill your request. In that case, you agree to the third party’s privacy and data policies.
+
+16.4. Green SM may limit or restrict access to certain features or services on third-party platforms at its discretion.
+
+17. RIGHTS AND OBLIGATIONS OF GREEN SM
+
+17.1. Establish, publish, and implement the Platform's operating conditions and transaction terms.
+
+17.2. Develop and publicly disclose Service standards and procedures for participation in activities on the Platform.
+
+17.3. Collect Service Fees (if any) in accordance with the published pricing policy.
+
+17.4. Provide complete information or a summary of the applicable promotional programs (if any).
+
+17.5. Ensure the safe and stable operation of the Platform. 
+
+17.6. Prescribe circumstances under which Accounts may be suspended, terminated, or restricted.
+
+17.7. Monitor and prevent unlawful activities; cooperate with and provide information and data to competent governmental authorities upon request.
+
+17.8. Review and moderate Product information content created by Partners before permitting its display on the Platform, ensuring that such content does not violate any legal prohibitions.
+
+17.9. Provide Services in line with the Operational Regulation registered with the State authority.
+
+17.10. Comply with e-commerce laws, relevant regulations, the Contract, and these Terms.
+
+17.11. Receive and handle Users’ complaints about the Application, Software, or Platform according to the law and these Terms.
+
+17.12. Work with Partners to resolve Users’ complaints related to Products, within Green SM’s legal responsibilities.
+
+17.13. Issue invoices for Service Fees as required by law.
+
+17.14. Provide Customers/Users with complete and accurate information as required under consumer protection laws. Accordingly, if Green SM fails to comply with this obligation, Customers/Users shall have the right to take actions as provided under consumer protection laws, including: (i) agreeing on a method for handling the Contract; and/or (ii) in respect of Contracts with a term exceeding thirty (30) days, unilaterally terminating the Contract within thirty (30) days from the date of execution of the Contract, provided that the Customer/User gives Green SM at least ten (10) Business Days' prior notice and is not required to pay any costs other than charges for Services already used (if any) and costs for which the Customer is responsible during the period in which the Services were used (if any); and/or (iii) requesting a competent authority to declare the Contract invalid or cancel the Contract in accordance with applicable law.
+
+17.15. Protect Customer/User information in accordance with Green SM's Consumer Information Protection Policy published on the Platform and applicable laws. Implement necessary measures to ensure the security of information relating to Your trade secrets..
+
+17.16. Other rights and obligations as provided under these Terms and applicable laws.
+
+18. OTHER PROVISIONS
+
+18.1. For Customers/Users, Green SM does not charge any fees for the use of the Services throughout the period of use of the Application/Platform or during any renewal period of the Services.
+
+18.2. For Customers/Users, the Services shall be provided from the time the Customer/User completes the registration and login of an Account until such Services are terminated in accordance with these Terms, by agreement of the Parties, or upon the Customer's/User's decision to discontinue use of the Platform/Application.
+
+18.3. Notwithstanding any other provision herein, if Green SM decides to terminate the Contract between Green SM and a Customer/User in accordance with these Terms, Green SM shall provide the Customer/User with at least seven (7) Business Days' prior notice before the effective date of termination.

@@ -1,0 +1,135 @@
+# Green SM rebrands as Green SM, unifying global brand identity
+
+**Source:** https://www.greensm.com/vn-en/news/xanh-sm-rebrands-as-green-sm-unifying-global-brand-identity
+
+**Crawled:** 2026-09-25T10:55:00.855607
+
+---
+
+[News](https://www.greensm.com/vn-en/news)
+
+Community
+
+13/04/2026 22:13
+
+# Green SM rebrands as Green SM, unifying global brand identity
+
+**_Hanoi, April 13, 2026 – GSM Green and Smart Mobility JSC (GSM) officially announces the rebranding of Green SM to Green SM, aligning its brand identity across international markets as it enters a new phase of global expansion. Alongside the rebrand, Green SM has also launched a new version of its mobile application and expanded its Platform model into international markets._**
+
+The transition from Green SM to Green SM aims to unify brand identity across the entire system, enabling a seamless and consistent experience for users when traveling across countries. This move is part of GSM’s broader strategy to expand its ecosystem globally and enable cross-border connectivity, while also marking a meaningful milestone as the company celebrates three years of operations.
+
+![Green SM rebrands as Green SM, unifying brand identity across the entire system.](https://cdn.xanhsm.com/2026/04/57e8cc84-anh-1-1024x540.jpg)_Green SM rebrands as Green SM, unifying brand identity across the entire system._
+
+In parallel with the unified branding, GSM has introduced key upgrades to its products and services to ensure the finest user experience. Notably, the new Green SM app features a modern, streamlined interface and is designed for use across all markets where GSM operates. The app integrates AI technology to support journey personalization and real-time data updates, delivering a consistent and seamless experience for users across different countries.
+
+In Vietnam, GSM has officially launched a new four-digit hotline, 1555, replacing the previous number 1900 2088, making it easier for users to remember and access services through traditional booking channels. In addition, Green SM continues to support street-hailing services, ensuring accessibility for all customer segments.
+
+![Green SM provides stable employment for hundreds of thousands of drivers, while accelerating the green transition in transportation.](https://cdn.xanhsm.com/2026/04/1a48aca7-anh-2-1024x681.jpg)_Green SM provides stable employment for hundreds of thousands of drivers, while accelerating the green transition in transportation._
+
+GSM has also officially expanded its shared mobility Platform model into its first two international markets, Indonesia and the Philippines. This model enables individuals and local businesses owning VinFast electric vehicles to join the ecosystem, operate under standardized procedures, and generate stable income. Having proven effective in Vietnam, the Green SM Platform helps lower entry barriers, optimize operating costs for drivers and partners, and accelerate the transition to electric vehicles and greener urban transportation.
+
+**Mr. Nguyen Van Thanh, GSM Global CEO,** said: _“Green SM is committed to establishing a consistent brand standard across all markets, broadening access to the highest standards of mobility service for all customers, regardless of geography, by leveraging technology and service excellence. This serves as the foundation for further ecosystem growth, expanded partnership opportunities, and accelerating the green transition within each country we serve.”_
+
+After three years of operations, Green SM has become the largest all-electric mobility platform in Southeast Asia, now present in four countries: Vietnam, Laos, Indonesia, and the Philippines, with more than 186,000 electric cars and e-scooters in operation. Over this period, the Green SM ecosystem has completed 620 million trips, with a total of 4.2 billion kilometers of green mobility, contributing to a reduction of 580,000 tons of CO₂ emissions, equivalent to the annual absorption capacity of 27 million trees.
+
+![Green SM upgrades its app platform, moving toward a unified global experience.](https://cdn.xanhsm.com/2026/04/18978e32-anh-3-1024x683.jpg)_Green SM upgrades its app platform, moving toward a unified global experience._
+
+Green SM has also created stable employment opportunities for hundreds of thousands of drivers, while partnering with nearly 100 transport companies and 11 bus operators in their transition toward more environmentally friendly operations. The Green Alliance Frontier initiative, launched by GSM, has attracted more than 400 enterprise partners across multiple sectors, forming a strong ecosystem that collaborates and supports one another in the journey toward global expansion.
+
+Building on this foundation, Green SM is driving a systemic transformation of the transportation industry, aiming to establish more sustainable mobility standards in modern urban environments worldwide./.
+
+[share facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.greensm.com%2Fvn-en%2Fnews%2Fxanh-sm-rebrands-as-green-sm-unifying-global-brand-identity)[share linkedin](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.greensm.com%2Fvn-en%2Fnews%2Fxanh-sm-rebrands-as-green-sm-unifying-global-brand-identity)
+
+Recent Posts
+
+[![Mừng sinh nhật VIN33: Green SM ưu đãi đặc biệt cho hội viên VinClub](https://www.greensm.com/_next/image?url=https%3A%2F%2Fcdn.xanhsm.com%2F2026%2F08%2F782c21e8-ctkm-vin33_1200x675.jpeg&w=3840&q=75)\\
+\\
+01 August 2026\\
+\\
+Celebrate the VIN33 Anniversary: Special Green SM Offers for VinClub Members\\
+\\
+Over 33 years of growth, Vingroup has become Vietnam’s largest multi-sector private conglomerate, ranking among the Top 30 largest enterprises in Southeast Asia according to Fortune magazine (USA). To celebrate its 33rd anniversary (August 8, 1993 to August 8, 2026), Green SM is delighted to offer VinClub members a special ride discount, making every journey \[…\]](https://www.greensm.com/vn-en/news/uu-dai-vin33-danh-cho-hoi-vien-vinclub) [![logo-green-sm](https://www.greensm.com/_next/image?url=https%3A%2F%2Fcdn.xanhsm.com%2F2026%2F04%2Fd1fe6f66-logo-green-sm.png&w=3840&q=75)\\
+\\
+29 July 2026\\
+\\
+Terms And Conditions SME Tier Program\\
+\\
+1\. General Information Program name: Hội Chủ Shop Green SM Program organizer: GSM Green and Smart Mobility Joint Stock Company (“GSM”). Applicable service: Express service available on the Green SM application. Program period: From 13/08/2026 until further notice of the Program’s termination. Applicable area: Nationwide. Program format: A customer loyalty program under which customers are \[…\]](https://www.greensm.com/vn-en/news/tier-express-terms-conditions) [![logo-green-sm](https://www.greensm.com/_next/image?url=https%3A%2F%2Fcdn.xanhsm.com%2F2026%2F04%2Fd1fe6f66-logo-green-sm.png&w=3840&q=75)\\
+\\
+29 July 2026\\
+\\
+Terms And Conditions Đường Đua Chủ Shop\\
+\\
+1\. General Information Program name: Đường đua chủ shop Program organizer: GSM Green and Smart Mobility Joint Stock Company (“GSM”). Applicable service: Express service available on the Green SM application. Program period: From 24/08/2026 to 28/09/2026. Applicable area: Nationwide. Promotion format: Customers complete tasks in accordance with the conditions of each Challenge to receive corresponding \[…\]](https://www.greensm.com/vn-en/news/express-challenge-terms-conditions) [![ha long bay in vietnam](https://www.greensm.com/_next/image?url=https%3A%2F%2Fcdn.xanhsm.com%2F2026%2F07%2F2ac921af-best-time-to-visit-vietnam-thumb-.jpg&w=3840&q=75)\\
+\\
+24 July 2026\\
+\\
+Best time to visit Vietnam? A Complete Guide from Locals\\
+\\
+The best time to visit Vietnam varies by region, as the country’s weather changes significantly from north to south. Whether you’re planning to explore Hanoi, cruise Ha Long Bay, relax on Da Nang’s beaches, or discover Ho Chi Minh City, this guide covers the climate, travel seasons, and top experiences to help you choose the \[…\]](https://www.greensm.com/vn-en/news/best-time-to-visit-vietnam)
+
+We use cookies to enhance the customer experience. By clicking "Accept All", you agree to the use of cookies. Click "Learn more" to understand the purpose of each type of cookie in detail.
+
+RejectAccept All
+
+GSM GREEN AND SMART MOBILITY JOINT STOCK COMPANY
+
+Hotline: 1555
+
+Email: [support.vn@greensm.com](mailto:support.vn@greensm.com)
+
+Symphony Office Building, Chu Huy Man Street, Vinhomes Riverside Urban Area, Phuc Loi Ward, Hanoi City, Vietnam
+
+GREEN SM [Homepage](https://www.greensm.com/vn-en) [About](https://www.greensm.com/vn-en/about) [Introduction to the Green SM app](https://www.greensm.com/vn-en/download)
+
+CONSUMERS [Green SM Car](https://www.greensm.com/vn-en/greensm-car) [Green SM Premium](https://www.greensm.com/vn-en/greensm-premium) [Green Airport](https://www.greensm.com/vn-en/green-airport) [Green Tour](https://www.greensm.com/vn-en/green-tour) [Green SM Bike](https://www.greensm.com/vn-en/greensm-bike) [Green SM Express](https://www.greensm.com/vn-en/green-express) [Membership](https://www.greensm.com/vn-en/green-subscription) [Green Gift Card](https://www.greensm.com/vn-en/green-gift-card)
+
+Business [Transportation](https://www.greensm.com/vn-en/business-transport) [Business Card](https://www.greensm.com/vn-en/business-payment)
+
+Green Partner
+
+Green Ads
+
+EXPLORE [Car Driver](https://www.greensm.com/vn-en/driver-car) [Bike Driver](https://www.greensm.com/vn-en/driver-bike) [Platform Taxi Driver](https://www.greensm.com/vn-en/driver-platform) [Driver Centre](https://www.greensm.com/vn-en/driver-center)
+
+Overview [News](https://www.greensm.com/vn-en/news) [Career](https://www.greensm.com/vn-en/career) [Promotions](https://www.greensm.com/vn-en/promotions)
+
+SOCIAL MEDIA
+
+[![Facebook](https://www.greensm.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FFacebook.a00cce1e.png&w=48&q=75)](https://facebook.com/GreenSMOfficial)[![LinkedIn](https://www.greensm.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FLinkin.a50151d4.png&w=48&q=75)](https://www.linkedin.com/company/greensmartmobility/)[![Zalo](https://www.greensm.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FZaloOA.31732fd8.png&w=48&q=75)](https://zalo.me/greensmofficial)[![Vcreator](https://www.greensm.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FVCreator.13afb07b.png&w=96&q=75)](https://creator.gen-green.global/)
+
+Vietnam
+
+Business ID: 0110269067 first issued by Hanoi Department of Finance on March 1, 2023.
+
+Transport license No. 9620/GPKDVT issued for the fourth time by Hanoi Department of Construction on September 23, 2025.
+
+Postal service confirmation No. 6150/XN-BTTTT issued by the Ministry of Information and Communications on December 13, 2023.
+
+![Bo Cong Thuong](https://www.greensm.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-BCT.db26ec9f.png&w=1200&q=75)
+
+© 2026 GSM. All rights reserved\| [Terms & Legal](https://www.greensm.com/vn-en/terms-policies) \| [Privacy Policy](https://www.greensm.com/vn-en/terms-policies/privacy-notice) \|Cookies setting
+
+[![google play](https://www.greensm.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgoogle-play.a780b8a5.png&w=384&q=75)](https://vn.greensm.com/3eCA/8li1xfm7)
+
+![google play](https://www.greensm.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgoogle-play.a780b8a5.png&w=384&q=75)
+
+![Download app qrcode](https://www.greensm.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fweb-to-app-vn.1ad5b5c3.png&w=256&q=75)
+
+[![apple store](https://www.greensm.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fapple-store.1dee0106.png&w=256&q=75)](https://vn.greensm.com/3eCA/8li1xfm7)
+
+![apple store](https://www.greensm.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fapple-store.1dee0106.png&w=256&q=75)
+
+![Download app qrcode](https://www.greensm.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fweb-to-app-vn.1ad5b5c3.png&w=256&q=75)
+
+Experience the App Now
+
+![Download app qrcode](https://www.greensm.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fweb-to-app-vn.1ad5b5c3.png&w=256&q=75)
+
+![Download app qrcode](https://www.greensm.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fweb-to-app-vn.1ad5b5c3.png&w=256&q=75)
+
+reCAPTCHA
+
+Recaptcha requires verification.
+
+protected by **reCAPTCHA**
