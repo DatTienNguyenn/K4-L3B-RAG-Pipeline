@@ -1,56 +1,11 @@
-# Individual contribution report
+# Báo Cáo Đóng Góp Cá Nhân (Individual Contribution Reports)
 
-Mỗi thành viên copy template này thành:
+Nhóm gồm 2 thành viên phụ trách các hợp phần theo phân công:
 
-```text
-reports/<student-id>-<short-name>.md
-```
+1. **Nguyễn Tiến Đạt (`2A202602970`) — Core Indexing & Retrieval Engineer**
+   - Phụ trách: Task 4 (Chunking & Indexing), Task 5 (Semantic Search), Task 6 (Lexical Search BM25).
+   - Chi tiết xem tại: [`reports/2A202602970-tiendat.md`](file:///home/dat/dev/vinuni_aia/K4-L3B-RAG-Pipeline/reports/2A202602970-tiendat.md).
 
-Giới hạn khuyến nghị: 1 trang, không chép lại README hoặc mô tả lý thuyết chung. Báo cáo không phải một bài pipeline cá nhân; mục đích là ghi nhận ownership và bằng chứng đóng góp trong sản phẩm nhóm.
-
----
-
-## Thông tin
-
-- Họ và tên:
-- Mã học viên:
-- Nhóm:
-- Repository/branch:
-
-## Phần việc đã thực hiện
-
-| Module/deliverable | Việc tôi trực tiếp làm | File/commit/PR | Trạng thái |
-|---|---|---|---|
-| | | | Done / Partial / Blocked |
-
-Chỉ kê khai công việc có thể đối chiếu bằng file, commit, pull request, test hoặc kết quả evaluation.
-
-## Quyết định kỹ thuật quan trọng
-
-Mô tả tối đa hai quyết định mà bạn trực tiếp tham gia:
-
-1. **Quyết định:**  
-   **Lý do/evidence:**  
-   **Trade-off:**
-
-2. **Quyết định:**  
-   **Lý do/evidence:**  
-   **Trade-off:**
-
-## Kiểm thử và kết quả
-
-- Test hoặc query tôi đã dùng:
-- Kết quả trước/sau nếu có:
-- Lỗi đã phát hiện và cách xử lý:
-
-## Điều còn hạn chế
-
-- Một hạn chế cụ thể của phần tôi làm:
-- Nếu có thêm thời gian, thay đổi đầu tiên tôi sẽ thực hiện:
-
-## Xác nhận đóng góp
-
-Tôi xác nhận nội dung trên phản ánh đúng phần việc của mình và có thể giải thích hoặc chạy lại trong buổi demo.
-
-- Ngày:
-- Tên thành viên:
+2. **Phạm Thành Đạt (`2A202602721`) — Data Collection, Generation, UI & Evaluation Specialist**
+   - Phụ trách: Task 1, 2, 3 (Thu thập dữ liệu & Chuẩn hóa), Task 7 (RRF Reranking), Task 8 (PageIndex Vectorless), Task 9 (Retrieval Pipeline), Task 10 (Generation with Citation), Streamlit UI (`app.py`), Golden QA & Ragas Benchmark (`RESULT.md`).
+   - Chi tiết xem tại: [`reports/2A202602721-PhamThanhDat.md`](file:///home/dat/dev/vinuni_aia/K4-L3B-RAG-Pipeline/reports/2A202602721-PhamThanhDat.md).

@@ -5,18 +5,69 @@ Dùng cùng corpus chunks với Task 5. BM25 phù hợp với từ khóa chính 
 liệu và tên riêng. Output phải theo SearchResult và sort score giảm dần.
 """
 
+import os
+
 
 CORPUS: list[dict] = []
 _bm25_cache = None
 _cached_corpus_id = None
+_strategy_corpus_cache: dict[str, list[dict]] = {}
+_strategy_bm25_cache: dict[str, object] = {}
+ACTIVE_STRATEGY = os.getenv("CHUNKING_METHOD", "recursive")
+
+
+def set_active_strategy(strategy: str):
+    """Thiết lập chiến lược chunking cho BM25 search."""
+    global ACTIVE_STRATEGY
+    ACTIVE_STRATEGY = strategy
+
+
+def get_active_strategy() -> str:
+    """Lấy chiến lược chunking hiện tại."""
+    return ACTIVE_STRATEGY
 
 
 def get_corpus() -> list[dict]:
-    """Lấy corpus chunks của Task 4 nếu CORPUS chưa có."""
+    """Lấy corpus chunks của Task 4 nếu CORPUS chưa có hoặc theo chiến lược."""
     global CORPUS
-    if not CORPUS:
-        from .task4_chunking_indexing import chunk_documents, load_documents
-        CORPUS = chunk_documents(load_documents())
+    from .task4_chunking_indexing import (
+        CHUNK_OVERLAP,
+        CHUNK_SIZE,
+        header_and_number_chunking,
+        load_documents,
+        recursive_chunking,
+        semantic_chunking,
+    )
+
+    strat = ACTIVE_STRATEGY or "recursive"
+    if strat not in _strategy_corpus_cache:
+        docs = load_documents()
+        chunks = []
+        for doc in docs:
+            if strat == "header":
+                splits = header_and_number_chunking(
+                    doc["content"], CHUNK_SIZE, CHUNK_OVERLAP
+                )
+            elif strat == "semantic":
+                splits = semantic_chunking(doc["content"], CHUNK_SIZE, CHUNK_OVERLAP)
+            else:
+                splits = recursive_chunking(doc["content"], CHUNK_SIZE, CHUNK_OVERLAP)
+
+            for idx, text in enumerate(splits):
+                chunks.append(
+                    {
+                        "id": f"{doc['id']}::{strat}-chunk-{idx}",
+                        "content": text,
+                        "metadata": {
+                            **doc["metadata"],
+                            "chunk_index": idx,
+                            "strategy": strat,
+                        },
+                    }
+                )
+        _strategy_corpus_cache[strat] = chunks
+
+    CORPUS = _strategy_corpus_cache[strat]
     return CORPUS
 
 
@@ -59,13 +110,15 @@ def lexical_search(query: str, top_k: int = 10) -> list[dict]:
         if scores[index] <= 0:
             continue
         item = corpus[index]
-        results.append({
-            "id": item["id"],
-            "content": item["content"],
-            "score": float(scores[index]),
-            "metadata": item["metadata"],
-            "retrieval_method": "bm25",
-        })
+        results.append(
+            {
+                "id": item["id"],
+                "content": item["content"],
+                "score": float(scores[index]),
+                "metadata": item["metadata"],
+                "retrieval_method": "bm25",
+            }
+        )
     return results
 
 
