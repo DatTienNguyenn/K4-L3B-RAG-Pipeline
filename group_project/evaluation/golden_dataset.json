@@ -1,0 +1,82 @@
+[
+  {
+    "question": "Số tổng đài hỗ trợ của dịch vụ Green SM Bike là số nào?",
+    "expected_answer": "Tổng đài hỗ trợ của Green SM Bike là 1555 hoặc 19002088.",
+    "expected_context": "Kết thúc chuyến đi, đánh giá, gửi thắc mắc, khiếu nại/ phản ánh chất lượng dịch vụ (nếu có). Tổng đài hỗ trợ: 1555 hoặc 19002088."
+  },
+  {
+    "question": "Tài xế đối tác Green SM Bike có quyền từ chối cung cấp dịch vụ trong trường hợp nào?",
+    "expected_answer": "Đối tác có quyền từ chối cung cấp dịch vụ nếu người dùng mang theo đồ vật quá khổ mà đối tác đánh giá là có khả năng vi phạm quy định pháp luật về giao thông đối với xe chở khách, không đảm bảo nguyên tắc an toàn.",
+    "expected_context": "Đối tác có quyền từ chối cung cấp Sản Phẩm nếu Người dùng/Khách hàng mang theo đồ vật quá khổ mà Đối tác đánh giá là có khả năng vi phạm quy định pháp luật về giao thông đối với xe chở khách, không đảm bảo nguyên tắc an toàn."
+  },
+  {
+    "question": "Thời hạn giải quyết khiếu nại về việc mất hàng hóa trong dịch vụ giao hàng Green SM là bao lâu?",
+    "expected_answer": "Green SM xử lý các khiếu nại trong vòng 06 tháng kể từ ngày kết thúc thời gian toàn trình của hàng hóa (24 giờ kể từ khi hàng hóa được chấp nhận) đối với khiếu nại về việc mất hàng hóa.",
+    "expected_context": "Đối với dịch vụ giao hàng hóa: Green SM chỉ xử lý các khiếu nại trong vòng (i) 06 tháng kể từ ngày kết thúc thời gian toàn trình của Hàng hóa (24 giờ kể từ khi Hàng hóa được chấp nhận) đối với khiếu nại về việc mất Hàng hóa; và (ii) 01 tháng kể từ ngày Hàng hóa được giao cho người nhận đối với khiếu nại về việc Hàng hóa hư hỏng, về giá cước và các nội dung khác có liên quan trực tiếp đến Hàng hóa."
+  },
+  {
+    "question": "Đối với dịch vụ giao đồ ăn, thức uống (Green SM Food), thời hạn xử lý phản ánh khiếu nại là bao lâu?",
+    "expected_answer": "Green SM sẽ xử lý các khiếu nại được phản ánh trong vòng 24 giờ kể từ thời điểm kết thúc quá trình giao hàng.",
+    "expected_context": "Đối với dịch vụ giao đồ ăn, thức uống, thực phẩm: Green SM sẽ xử lý các khiếu nại được phản ánh trong vòng 24 giờ kể từ thời điểm kết thúc quá trình giao."
+  },
+  {
+    "question": "Thời hạn xác nhận và phân loại khiếu nại ban đầu của Green SM đối với khách hàng là bao lâu?",
+    "expected_answer": "Bộ phận Chăm sóc khách hàng (CSKH) xác nhận đã tiếp nhận khiếu nại, xác minh sơ bộ và phân loại khiếu nại trong vòng 24 giờ làm việc kể từ thời điểm tiếp nhận.",
+    "expected_context": "Xác nhận đã tiếp nhận khiếu nại, xác minh sơ bộ và phân loại khiếu nại: Trong vòng 24 giờ làm việc kể từ thời điểm tiếp nhận."
+  },
+  {
+    "question": "Các đối tượng nào được coi là người tiêu dùng dễ bị tổn thương theo quy định của Green SM?",
+    "expected_answer": "Người tiêu dùng dễ bị tổn thương gồm: người cao tuổi; người khuyết tật; trẻ em; người dân tộc thiểu số và người sinh sống tại vùng khó khăn; phụ nữ mang thai hoặc nuôi con dưới 36 tháng tuổi; người bị bệnh hiểm nghèo; thành viên hộ nghèo theo quy định của pháp luật.",
+    "expected_context": "Khách hàng hãy thông báo cho Công ty được biết nếu thuộc một trong các đối tượng sau: Người cao tuổi; Người khuyết tật; Trẻ em; Người dân tộc thiểu số; Phụ nữ đang mang thai hoặc nuôi con dưới 36 tháng tuổi; Người bị bệnh hiểm nghèo; Thành viên hộ nghèo."
+  },
+  {
+    "question": "Thành viên thuộc Tài khoản Gia đình trên Green SM có thể sử dụng những dịch vụ nào?",
+    "expected_answer": "Tất cả thành viên thuộc Tài khoản Gia đình chỉ có thể sử dụng các dịch vụ chuyến xe vận chuyển hành khách.",
+    "expected_context": "Tất cả Thành viên thuộc Tài khoản Gia Đình chỉ có thể sử dụng các dịch vụ chuyến xe vận chuyển hành khách."
+  },
+  {
+    "question": "Điều kiện về độ tuổi đối với thành viên tham gia Tài khoản Gia đình Green SM được quy định như thế nào?",
+    "expected_answer": "Thành viên phải đủ 18 tuổi trở lên. Trường hợp thành viên dưới 18 tuổi, chủ tài khoản phải là người giám hộ hợp pháp của thành viên đó và chịu trách nhiệm về việc sử dụng ứng dụng.",
+    "expected_context": "Bằng việc thêm Thành viên, Chủ tài khoản cam đoan và bảo đảm rằng Thành viên đó đủ 18 tuổi trở lên. Trường hợp có Thành viên dưới 18 tuổi, Chủ tài khoản xác nhận Chủ tài khoản là người giám hộ hợp pháp của Thành viên đó và chịu trách nhiệm về việc sử dụng ứng dụng của họ."
+  },
+  {
+    "question": "Trong dịch vụ cho thuê xe của GSM, mức lãi suất chậm nộp tiền cọc bổ sung hoặc chậm thanh toán là bao nhiêu?",
+    "expected_answer": "Nếu khách hàng chậm nộp bổ sung tiền cọc hoặc chậm thanh toán, khách hàng phải trả thêm lãi suất chậm thanh toán 0,05%/ngày trên số tiền chậm nộp.",
+    "expected_context": "Nếu Khách Hàng chậm nộp bổ sung, Khách Hàng phải trả thêm lãi suất chậm thanh toán 0,05%/ ngày/số tiền chậm nộp. Nếu Khách Hàng chậm thanh toán cho GSM thì Khách Hàng phải trả thêm lãi suất chậm thanh toán 0,05%/ ngày/số tiền chậm thanh toán."
+  },
+  {
+    "question": "Khách hàng sử dụng dịch vụ thuê xe của GSM thanh toán phí dịch vụ bằng cách chuyển khoản tới tài khoản ngân hàng nào?",
+    "expected_answer": "Khách hàng chuyển khoản tới tài khoản của Công ty cổ phần Di chuyển Xanh và Thông minh GSM, số tài khoản 19139854386866 tại Ngân hàng TMCP Kỹ Thương Việt Nam (Techcombank) – Hội sở chính.",
+    "expected_context": "Chủ tài khoản: Công ty cổ phần Di chuyển Xanh và Thông minh GSM. Số tài khoản: 19139854386866. Ngân hàng: TMCP Kỹ Thương Việt Nam (Techcombank) – Hội sở chính."
+  },
+  {
+    "question": "Chương trình ưu đãi hợp tác giữa Green SM và Techcombank dành cho chủ thẻ Doanh nghiệp Techcombank giảm giá bao nhiêu?",
+    "expected_answer": "Dịch vụ Green SM Car Premium/Car/Limo và Green SM Bike/Bike Plus được giảm 10% giá trị chuyến đi, tối đa 50.000 đồng.",
+    "expected_context": "Dịch vụ Green SM Car Premium/Car/Limo: Giảm 10% giá trị chuyến đi, tối đa 50.000 đồng. Dịch vụ Green SM Bike/Bike Plus: Giảm 10% giá trị chuyến đi, tối đa 50.000 đồng."
+  },
+  {
+    "question": "Thời gian áp dụng chương trình ưu đãi giữa Green SM và Techcombank là từ ngày nào đến ngày nào?",
+    "expected_answer": "Thời gian áp dụng từ ngày 20/08/2026 đến hết ngày 31/12/2026.",
+    "expected_context": "Thời gian áp dụng: Từ ngày 20/08/2026 đến hết ngày 31/12/2026."
+  },
+  {
+    "question": "Khách hàng thuê xe của GSM có được phép cho thuê lại xe hoặc cho người khác điều khiển xe không?",
+    "expected_answer": "Khách hàng không được cho thuê lại xe, hoặc cho phép bất kỳ cá nhân nào điều khiển xe thuê theo Hợp đồng.",
+    "expected_context": "5.12. Không được cho thuê lại xe, hoặc cho phép bất kỳ cá nhân nào điều khiển xe thuê theo Hợp Đồng."
+  },
+  {
+    "question": "Cookies trên website Green SM có những loại nào và nhằm mục đích gì?",
+    "expected_answer": "Website Green SM sử dụng cookies bao gồm cookies cần thiết, cookies hiệu suất và phân tích nhằm nâng cao trải nghiệm duyệt web của người dùng và tối ưu hóa hệ thống.",
+    "expected_context": "Website Green SM sử dụng cookies bao gồm cookies cần thiết, cookies hiệu suất và phân tích nhằm nâng cao trải nghiệm duyệt web của người dùng và tối ưu hóa hệ thống."
+  },
+  {
+    "question": "Khi xảy ra sự kiện bất khả kháng trong hợp đồng thuê xe GSM, những sự kiện nào được công nhận?",
+    "expected_answer": "Những sự kiện bất khả kháng gồm: mưa lớn, bão lụt, sạt lở, động đất, chiến tranh, hỏa hoạn, dịch bệnh, sự thay đổi của chính sách pháp luật của nhà nước hoặc các sự kiện xảy ra một cách khách quan khác.",
+    "expected_context": "6.1. Trong thời gian thực hiện Hợp Đồng Dịch Vụ, những sự kiện sau được coi là sự kiện bất khả kháng: Mưa lớn, bão lụt, sạt lở, động đất, chiến tranh, hoả hoạn, dịch bệnh, sự thay đổi của chính sách, pháp luật của nhà nước hoặc các sự kiện xảy ra một cách khách quan khác."
+  },
+  {
+    "question": "Chương trình 'Trạm Xanh - Đồng Hành Vững Lái' của Green SM mang lại hỗ trợ gì cho bác tài?",
+    "expected_answer": "Chương trình cung cấp nước uống mát lạnh miễn phí tại các trạm xanh để tiếp sức và đồng hành vững lái cùng các bác tài Green SM.",
+    "expected_context": "TRẠM XANH - ĐỒNG HÀNH VỮNG LÁI: Nước mát lạnh đây - Mời Bác Tài Xanh thưởng thức để tiếp sức hành trình."
+  }
+]
