@@ -1,131 +1,120 @@
-# GREEN SM PARTNERS WITH KORLANTAS POLRI TO ADVANCE DRIVER SAFETY STANDARDS IN INDONESIA
+# TRẠM XANH - ĐỒNG HÀNH VỮNG LÁI: "Nước mát lạnh đây - Mời Bác Tài Xanh thưởng thức!"
 
-**Source:** https://www.greensm.com/vn-en/news/green-sm-partners-with-korlantas-polri-to-advance-driver-safety-standards-in-indonesia
+**Source:** https://www.greensm.com/vn-vi/news/tram-xanh-dong-hanh-vung-lai-nuoc-mat-lanh-day-moi-bac-tai-xanh-thuong-thuc
 
-**Crawled:** 2026-09-25T10:54:47.619544
+**Crawled:** 2026-09-25T11:25:03.575669
 
 ---
 
-[News](https://www.greensm.com/vn-en/news)
+[Tin tức](https://www.greensm.com/vn-vi/news)
 
-Press Release
+Cẩm nang tài xế
 
-20/05/2026 18:31
+23/09/2026 23:23
 
-# GREEN SM PARTNERS WITH KORLANTAS POLRI TO ADVANCE DRIVER SAFETY STANDARDS IN INDONESIA
+Mới
 
-**_Jakarta, May 20, 2026 – Green SM, Indonesia’s first all-electric ride-hailing service, has partnered with the Traffic Corps of the Indonesian National Police (Korlantas Polri) to launch a large-scale driver safety and professional standards training program in Indonesia. The initiative begins with more than 300 driver partners and is expected to expand to approximately 7,000 participants nationwide this year._**
+# TRẠM XANH – ĐỒNG HÀNH VỮNG LÁI: “Nước mát lạnh đây – Mời Bác Tài Xanh thưởng thức!”
 
-Held at the Indonesia Safety Driving Center (ISDC) in Serpong on May 18, 2026, the program provided participants with practical instruction in defensive driving, emergency response, professional driving ethics, and Indonesian traffic regulations. The initiative combines classroom learning with hands-on exercises conducted in a controlled training environment at one of Indonesia’s leading driving safety facilities. The program reflects Green SM’s long-term commitment to building a professional driver network while promoting safer mobility experiences and higher service standards for Indonesian communities.
+Mùa lễ hội đã đến cũng là lúc nhu cầu di chuyển tăng cao, những cung đường trở nên nhộn nhịp hơn bao giờ hết. Thấu hiểu những nỗ lực của các Bác Tài trong mỗi hành trình, **Green SM** mong muốn gửi một chút tiếp sức, một chút quan tâm để cùng Bác Tài vững vàng trên mọi nẻo đường.
 
-![Deny Tjia, Managing Director of Green SM Indonesia, with Dirkamsel Korlantas Polri Brigadier General Pol. Prianto, following the signing of a MoU at the opening of Green SM's driver safety training program at ISDC Serpong, May 18, 2026.](https://cdn.xanhsm.com/2026/05/9a092377-photo-01-1-1024x682.jpg)Deny Tjia, Managing Director of Green SM Indonesia, with Dirkamsel Korlantas Polri Brigadier General Pol. Prianto, following the signing of a MoU at the opening of Green SM’s driver safety training program at ISDC Serpong, May 18, 2026.
+Đó cũng là lý do “ **Trạm Xanh – Đồng hành Vững lái**” được triển khai – một điểm dừng chân nhỏ dành riêng cho các Bác Tài trong mùa lễ hội.
 
-Since its launch in Indonesia in December 2024, Green SM had already implemented regular internal training programs for driver partners, focusing on safe driving practices, real-world situation handling, customer service standards, and traffic law compliance. Through this partnership, Green SM aims to further strengthen and standardize its training initiatives while also contributing to broader road safety awareness across Indonesia.
+Tại đây, các **Bác Tài sẽ được nhận miễn phí những lon nước tăng lực Lipovitan** mát lạnh như một lời cảm ơn và lời chúc sức khỏe từ Green SM. Hy vọng một lon nước mát, một vài phút nghỉ ngơi sẽ giúp Bác Tài thêm tỉnh táo, tiếp thêm năng lượng để tiếp tục những chuyến xe phía trước.
 
-![Các đối tác tài xế Green SM tham gia phần thực hành lái xe như một phần trong nỗ lực liên tục của công ty nhằm nâng cao tiêu chuẩn an toàn và tính chuyên nghiệp cho đội ngũ tài xế.](https://cdn.xanhsm.com/2026/05/b56e02fb-photo-02-2-1024x683.jpg)![Các đối tác tài xế Green SM tham gia phần thực hành lái xe như một phần trong nỗ lực liên tục của công ty nhằm nâng cao tiêu chuẩn an toàn và tính chuyên nghiệp cho đội ngũ tài xế.](https://cdn.xanhsm.com/2026/05/7b517575-photo-03-1024x683.jpg)Green SM driver partners take part in hands-on driving exercises as part of the company’s ongoing efforts to raise driver safety and professionalism standards.
+![TRẠM XANH - ĐỒNG HÀNH VỮNG LÁI: “Nước mát lạnh đây - Mời Bác Tài Xanh thưởng thức!”](https://cdn.xanhsm.com/2026/09/dc4eacb2-poster-tram-xanh-1-800x1024.png)
 
-As of April 2026, Green SM vehicles have traveled more than 109 million kilometers across Indonesia, contributing to the reduction of approximately 20.9 thousand tons of CO2 emisssions, equivalent to the annual carbon absorption capacity of more than 964 thousand trees. As the company continues to expand, Green SM remains focused on supporting driver capability development and service quality initiatives to support safer and more reliable mobility experiences. Safety remains one of Green SM’s core operational priorities, spanning driver training, service standards, and the overall customer journey across every ride.
+**GHÉ TRẠM XANH – THƯỞNG THỨC NƯỚC MÁT – TIẾP NĂNG LƯỢNG**
 
-Korlantas Polri, the national authority responsible for traffic management, law enforcement, and road safety education across Indonesia, is supporting the initiative as part of broader efforts to encourage safer and more disciplined driving practices nationwide.
+Chương trình Trạm Xanh – Đồng hành Vững lái được triển khai hoàn toàn miễn phí cho đến khi phát hết.
 
-This program marks an important first step in the collaboration between Green SM and Korlantas Polri. Both parties expect to explore additional initiatives in the future to promote responsible driving practices and contribute positively to Indonesia’s evolving transportation ecosystem.
+Bác Tài chỉ cần ghé Trạm Xanh, dành vài phút nghỉ ngơi, nhận một lon nước và nạp thêm năng lượng trước khi tiếp tục vận doanh.
 
-![Các đối tác tài xế Green SM tham gia buổi đào tạo lý thuyết trong khuôn khổ chương trình huấn luyện an toàn giao thông phối hợp cùng Korlantas Polri tại ISDC Serpong.](https://cdn.xanhsm.com/2026/05/266f81a8-photo-04-1024x683.jpg)Green SM driver partners attend a classroom theory session as part of the driver safety training program with Korlantas Polri at ISDC Serpong.
+Mỗi lon nước là một lời cảm ơn. Mỗi điểm dừng là một chút quan tâm. Và mỗi hành trình an toàn của Bác Tài là điều Green SM luôn trân trọng.
 
-**Mr. Deny Tjia, Managing Director of Green SM Indonesia**, shared: “ _Our driver partners represent Green SM in every journey they complete. Through this program, we aim to strengthen their practical driving skills, road safety awareness, and service professionalism, while continuing to elevate the overall customer experience across Indonesia. At Green SM, safety is not only an operational standard, but also a long-term commitment embedded in how we develop and deliver our services in Indonesia. We are honored to work with Korlantas Polri and hope this collaboration can create meaningful benefits for both our drivers and the wider community._”
+Chúc các Bác Tài Xanh một mùa lễ hội thật nhiều năng lượng, “bão đơn”, nổ cuốc đều tay và đặc biệt là luôn tỉnh táo, vững tay lái, bình an trên mọi chặng đường!
 
-**Head of the Traffic Corps (Kakorlantas) of the Indonesian National Police, Inspector General Agus Suryonugroho**, stated, “ _The training is part of an effort to promote road safety, security, order, and smooth traffic flow. This collaboration in enhancing driver capabilities is important as part of efforts to improve driver professionalism, as the driver aspect plays a crucial role. We hope this initiative can serve as a benchmark._”
+**Green SM – Đồng hành cùng Bác Tài trên mọi hành trình.**
 
-Through this initiative, Green SM and Korlantas Polri aim to promote higher standards of responsibility and professionalism that benefit drivers, passengers, pedestrians, and the broader transportation ecosystem across Indonesia.
+[share facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.greensm.com%2Fvn-vi%2Fnews%2Ftram-xanh-dong-hanh-vung-lai-nuoc-mat-lanh-day-moi-bac-tai-xanh-thuong-thuc)[share linkedin](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.greensm.com%2Fvn-vi%2Fnews%2Ftram-xanh-dong-hanh-vung-lai-nuoc-mat-lanh-day-moi-bac-tai-xanh-thuong-thuc)
 
-—
+Bài viết gần đây
 
-**About GSM & Green SM**
-
-**GSM (Green and Smart Mobility)** is a pioneering company in electric mobility, founded by Phạm Nhật Vượng. The company is building an integrated mobility ecosystem powered by VinFast electric vehicles, intelligent technology, and a professional operating network.
-
-**The GSM ecosystem currently consists of four core companies:**
-
-- **Green SM** – GSM’s all-electric ride-hailing brand.
-- **VinDT** – the professional driver training and testing company.
-- **VinBus** – the electric bus operating company.
-- **Green Future** – the company providing electric vehicle rental solutions.
-
-**Green SM** is GSM’s global all-electric ride-hailing brand, offering high-quality transportation services using a 100% electric fleet of cars and motorbikes. Combining smart technology with a professional driver network, Green SM delivers a mobility experience that is safe, reliable, and environmentally responsible.
-
-Green SM currently operates in Vietnam, Laos, Indonesia, and the Philippines, advancing GSM’s mission to provide safe and dependable green journeys for everyone while helping shape a more sustainable future for urban transportation worldwide.
-
-[share facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.greensm.com%2Fvn-en%2Fnews%2Fgreen-sm-partners-with-korlantas-polri-to-advance-driver-safety-standards-in-indonesia)[share linkedin](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.greensm.com%2Fvn-en%2Fnews%2Fgreen-sm-partners-with-korlantas-polri-to-advance-driver-safety-standards-in-indonesia)
-
-Recent Posts
-
-[![Mừng sinh nhật VIN33: Green SM ưu đãi đặc biệt cho hội viên VinClub](https://www.greensm.com/_next/image?url=https%3A%2F%2Fcdn.xanhsm.com%2F2026%2F08%2F782c21e8-ctkm-vin33_1200x675.jpeg&w=3840&q=75)\\
+[![Green SM hợp tác cùng Techcombank – Ưu đãi di chuyển cho khách hàng doanh nghiệp](https://www.greensm.com/_next/image?url=https%3A%2F%2Fcdn.xanhsm.com%2F2026%2F09%2F9bf38fbf-webtcb_hq.jpg&w=3840&q=75)\\
 \\
-01 August 2026\\
+24 September 2026\\
 \\
-Celebrate the VIN33 Anniversary: Special Green SM Offers for VinClub Members\\
+Mới\\
 \\
-Over 33 years of growth, Vingroup has become Vietnam’s largest multi-sector private conglomerate, ranking among the Top 30 largest enterprises in Southeast Asia according to Fortune magazine (USA). To celebrate its 33rd anniversary (August 8, 1993 to August 8, 2026), Green SM is delighted to offer VinClub members a special ride discount, making every journey \[…\]](https://www.greensm.com/vn-en/news/uu-dai-vin33-danh-cho-hoi-vien-vinclub) [![logo-green-sm](https://www.greensm.com/_next/image?url=https%3A%2F%2Fcdn.xanhsm.com%2F2026%2F04%2Fd1fe6f66-logo-green-sm.png&w=3840&q=75)\\
+Green SM hợp tác cùng Techcombank – Ưu đãi di chuyển cho khách hàng doanh nghiệp\\
 \\
-29 July 2026\\
+Nhằm mang đến thêm nhiều giá trị cho khách hàng doanh nghiệp, Green SM chính thức hợp tác cùng Techcombank triển khai chương trình ưu đãi dành cho doanh nghiệp sử dụng thẻ Doanh nghiệp Techcombank khi di chuyển và vận hành cùng Green SM. Thông qua chương trình, doanh nghiệp có thể tận hưởng \[…\]](https://www.greensm.com/vn-vi/news/green-sm-hop-tac-cung-techcombank-uu-dai-di-chuyen-cho-khach-hang-doanh-nghiep) [![Xanh Hot Deal | Hoàng Hà Mobile - Đồng hành sửa chữa, tiếp sức hành trình](https://www.greensm.com/_next/image?url=https%3A%2F%2Fcdn.xanhsm.com%2F2026%2F09%2F98c96454-260921_pns-hoang-ha_thumbnail-web.jpg&w=3840&q=75)\\
 \\
-Terms And Conditions SME Tier Program\\
+24 September 2026\\
 \\
-1\. General Information Program name: Hội Chủ Shop Green SM Program organizer: GSM Green and Smart Mobility Joint Stock Company (“GSM”). Applicable service: Express service available on the Green SM application. Program period: From 13/08/2026 until further notice of the Program’s termination. Applicable area: Nationwide. Program format: A customer loyalty program under which customers are \[…\]](https://www.greensm.com/vn-en/news/tier-express-terms-conditions) [![logo-green-sm](https://www.greensm.com/_next/image?url=https%3A%2F%2Fcdn.xanhsm.com%2F2026%2F04%2Fd1fe6f66-logo-green-sm.png&w=3840&q=75)\\
+Mới\\
 \\
-29 July 2026\\
+Xanh Hot Deal \| Hoàng Hà Mobile – Đồng hành sửa chữa, tiếp sức hành trình\\
 \\
-Terms And Conditions Đường Đua Chủ Shop\\
+Các Bác Tài Xanh thân mến, HOÀNG HÀ MOBILE mang đến chương trình ưu đãi đặc biệt dành riêng cho các Bác Tài Xanh. Với đa dạng sản phẩm công nghệ, phụ kiện cùng các dịch vụ sửa chữa, bảo hành và nâng cấp thiết bị, Hoàng Hà Mobile đồng hành cùng các Bác Tài \[…\]](https://www.greensm.com/vn-vi/news/xanh-hot-deal-hoang-ha-mobile-dong-hanh-sua-chua-tiep-suc-hanh-trinh) [![TRẠM XANH - ĐỒNG HÀNH VỮNG LÁI: “Nước mát lạnh đây - Mời Bác Tài Xanh thưởng thức!”](https://www.greensm.com/_next/image?url=https%3A%2F%2Fcdn.xanhsm.com%2F2026%2F09%2Fabeb808d-tram-xanh-green-sm.jpeg&w=3840&q=75)\\
 \\
-1\. General Information Program name: Đường đua chủ shop Program organizer: GSM Green and Smart Mobility Joint Stock Company (“GSM”). Applicable service: Express service available on the Green SM application. Program period: From 24/08/2026 to 28/09/2026. Applicable area: Nationwide. Promotion format: Customers complete tasks in accordance with the conditions of each Challenge to receive corresponding \[…\]](https://www.greensm.com/vn-en/news/express-challenge-terms-conditions) [![ha long bay in vietnam](https://www.greensm.com/_next/image?url=https%3A%2F%2Fcdn.xanhsm.com%2F2026%2F07%2F2ac921af-best-time-to-visit-vietnam-thumb-.jpg&w=3840&q=75)\\
+23 September 2026\\
 \\
-24 July 2026\\
+Mới\\
 \\
-Best time to visit Vietnam? A Complete Guide from Locals\\
+TRẠM XANH – ĐỒNG HÀNH VỮNG LÁI: “Nước mát lạnh đây – Mời Bác Tài Xanh thưởng thức!”\\
 \\
-The best time to visit Vietnam varies by region, as the country’s weather changes significantly from north to south. Whether you’re planning to explore Hanoi, cruise Ha Long Bay, relax on Da Nang’s beaches, or discover Ho Chi Minh City, this guide covers the climate, travel seasons, and top experiences to help you choose the \[…\]](https://www.greensm.com/vn-en/news/best-time-to-visit-vietnam)
+Mùa lễ hội đã đến cũng là lúc nhu cầu di chuyển tăng cao, những cung đường trở nên nhộn nhịp hơn bao giờ hết. Thấu hiểu những nỗ lực của các Bác Tài trong mỗi hành trình, Green SM mong muốn gửi một chút tiếp sức, một chút quan tâm để cùng Bác Tài \[…\]](https://www.greensm.com/vn-vi/news/tram-xanh-dong-hanh-vung-lai-nuoc-mat-lanh-day-moi-bac-tai-xanh-thuong-thuc) [![News](https://www.greensm.com/_next/image?url=https%3A%2F%2Fcdn.xanhsm.com%2F2026%2F09%2F6898e408-260920-btvd-thumb.jpg&w=3840&q=75)\\
+\\
+23 September 2026\\
+\\
+Mới\\
+\\
+Bản tin vận doanh tuần 21/09-27/09/2026\\
+\\
+Bác Tài Xanh thân mến, Cùng Bản tin vận doanh tuần 21/09 – 27/09 khám phá các thông tin quan trọng sau: Và đừng quên, nếu Bác Tài Xanh có góp ý hay chia sẻ thêm mong muốn, hãy gửi lại cho đội ngũ Green SM để Bản tin mỗi ngày thêm thiết thực và \[…\]](https://www.greensm.com/vn-vi/news/ban-tin-van-doanh-tuan-21-09-27-09-2026)
 
-We use cookies to enhance the customer experience. By clicking "Accept All", you agree to the use of cookies. Click "Learn more" to understand the purpose of each type of cookie in detail.
+Chúng tôi sử dụng cookie để cải thiện trải nghiệm của khách hàng. Bằng cách nhấp "Đồng ý tất cả", bạn đồng ý với việc sử dụng cookie. Hãy "Tìm hiểu thêm" để hiểu chi tiết hơn về mục đích của từng loại cookies.
 
-RejectAccept All
+Từ chốiĐồng ý tất cả
 
-GSM GREEN AND SMART MOBILITY JOINT STOCK COMPANY
+CÔNG TY CỔ PHẦN DI CHUYỂN XANH VÀ THÔNG MINH GSM
 
 Hotline: 1555
 
 Email: [support.vn@greensm.com](mailto:support.vn@greensm.com)
 
-Symphony Office Building, Chu Huy Man Street, Vinhomes Riverside Urban Area, Phuc Loi Ward, Hanoi City, Vietnam
+Tòa Văn phòng Symphony, đường Chu Huy Mân, khu đô thị Vinhomes Riverside, Phường Phúc Lợi, Thành phố Hà Nội, Việt Nam
 
-GREEN SM [Homepage](https://www.greensm.com/vn-en) [About](https://www.greensm.com/vn-en/about) [Introduction to the Green SM app](https://www.greensm.com/vn-en/download)
+GREEN SM [Trang chủ](https://www.greensm.com/vn-vi) [Về Green SM](https://www.greensm.com/vn-vi/about) [Giới thiệu ứng dụng Green SM](https://www.greensm.com/vn-vi/download)
 
-CONSUMERS [Green SM Car](https://www.greensm.com/vn-en/greensm-car) [Green SM Premium](https://www.greensm.com/vn-en/greensm-premium) [Green Airport](https://www.greensm.com/vn-en/green-airport) [Green Tour](https://www.greensm.com/vn-en/green-tour) [Green SM Bike](https://www.greensm.com/vn-en/greensm-bike) [Green SM Express](https://www.greensm.com/vn-en/green-express) [Membership](https://www.greensm.com/vn-en/green-subscription) [Green Gift Card](https://www.greensm.com/vn-en/green-gift-card)
+Người dùng [Green SM Car](https://www.greensm.com/vn-vi/greensm-car) [Green SM Mini](https://www.greensm.com/vn-vi/greensm-mini) [Green SM Premium](https://www.greensm.com/vn-vi/greensm-premium) [Green SM Limo](https://www.greensm.com/vn-vi/greensm-limo) [Green Airport](https://www.greensm.com/vn-vi/green-airport) [Green Tour](https://www.greensm.com/vn-vi/green-tour) [Green Liên Tỉnh](https://www.greensm.com/vn-vi/green-lien-tinh) [Green SM Bike](https://www.greensm.com/vn-vi/greensm-bike) [Green SM Food](https://www.greensm.com/vn-vi/greensm-ngon) [Green SM Express](https://www.greensm.com/vn-vi/green-express) [Green SM Van](https://www.greensm.com/vn-vi/green-van) [Gói hội viên](https://www.greensm.com/vn-vi/green-subscription) [Thẻ quà tặng](https://www.greensm.com/vn-vi/green-gift-card)
 
-Business [Transportation](https://www.greensm.com/vn-en/business-transport) [Business Card](https://www.greensm.com/vn-en/business-payment)
+Doanh nghiệp [Green Business](https://www.greensm.com/vn-vi/business-transport) [Green SM Merchant](https://www.greensm.com/vn-vi/greensm-merchant) [Thẻ doanh nghiệp](https://www.greensm.com/vn-vi/business-payment)
 
 Green Partner
 
 Green Ads
 
-EXPLORE [Car Driver](https://www.greensm.com/vn-en/driver-car) [Bike Driver](https://www.greensm.com/vn-en/driver-bike) [Platform Taxi Driver](https://www.greensm.com/vn-en/driver-platform) [Driver Centre](https://www.greensm.com/vn-en/driver-center)
+Khám phá [Tài xế Ô tô](https://www.greensm.com/vn-vi/driver-car) [Tài xế Xe máy](https://www.greensm.com/vn-vi/driver-bike) [Green SM Platform](https://www.greensm.com/vn-vi/driver-platform) [Trung tâm Tài xế](https://www.greensm.com/vn-vi/driver-center)
 
-Overview [News](https://www.greensm.com/vn-en/news) [Career](https://www.greensm.com/vn-en/career) [Promotions](https://www.greensm.com/vn-en/promotions)
+Tổng hợp [Tin tức](https://www.greensm.com/vn-vi/news) [Trung tâm hỗ trợ](https://www.greensm.com/vn-vi/helps) [Tuyển dụng](https://www.greensm.com/vn-vi/career) [Ưu đãi](https://www.greensm.com/vn-vi/promotions) [Điều khoản thanh toán bằng ví E-Green](https://www.greensm.com/vn-vi/terms-policies/e-green-wallet-payment-terms)
 
-SOCIAL MEDIA
+MẠNG XÃ HỘI
 
 [![Facebook](https://www.greensm.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FFacebook.a00cce1e.png&w=48&q=75)](https://facebook.com/GreenSMOfficial)[![LinkedIn](https://www.greensm.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FLinkin.a50151d4.png&w=48&q=75)](https://www.linkedin.com/company/greensmartmobility/)[![Zalo](https://www.greensm.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FZaloOA.31732fd8.png&w=48&q=75)](https://zalo.me/greensmofficial)[![Vcreator](https://www.greensm.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FVCreator.13afb07b.png&w=96&q=75)](https://creator.gen-green.global/)
 
-Vietnam
+Việt Nam
 
-Business ID: 0110269067 first issued by Hanoi Department of Finance on March 1, 2023.
+Mã số doanh nghiệp: 0110269067 do Sở Tài chính thành phố Hà Nội cấp lần đầu ngày 01/03/2023.
 
-Transport license No. 9620/GPKDVT issued for the fourth time by Hanoi Department of Construction on September 23, 2025.
+Giấy phép vận tải số 9620/GPKDVT do Sở Xây dựng thành phố Hà Nội cấp lần thứ tư ngày 23/09/2025.
 
-Postal service confirmation No. 6150/XN-BTTTT issued by the Ministry of Information and Communications on December 13, 2023.
+Văn bản xác nhận hoạt động bưu chính số 6150/XN-BTTTT do Bộ Thông Tin và Truyền Thông cấp ngày 13/12/2023.
 
 ![Bo Cong Thuong](https://www.greensm.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-BCT.db26ec9f.png&w=1200&q=75)
 
-© 2026 GSM. All rights reserved\| [Terms & Legal](https://www.greensm.com/vn-en/terms-policies) \| [Privacy Policy](https://www.greensm.com/vn-en/terms-policies/privacy-notice) \|Cookies setting
+© 2026 GSM. All rights reserved\| [Điều khoản & Pháp lý](https://www.greensm.com/vn-vi/terms-policies) \| [Chính sách bảo vệ dữ liệu cá nhân](https://www.greensm.com/vn-vi/terms-policies/privacy-notice) \|Cài đặt cookies
 
 [![google play](https://www.greensm.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgoogle-play.a780b8a5.png&w=384&q=75)](https://vn.greensm.com/3eCA/8li1xfm7)
 
@@ -139,7 +128,7 @@ Postal service confirmation No. 6150/XN-BTTTT issued by the Ministry of Informat
 
 ![Download app qrcode](https://www.greensm.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fweb-to-app-vn.1ad5b5c3.png&w=256&q=75)
 
-Experience the App Now
+Trải nghiệm ứng dụng ngay
 
 ![Download app qrcode](https://www.greensm.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fweb-to-app-vn.1ad5b5c3.png&w=256&q=75)
 

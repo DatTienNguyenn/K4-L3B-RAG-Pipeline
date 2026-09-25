@@ -27,7 +27,7 @@ from .crawler import sanitize_filename, scrape_page
 DATA_DIR = Path(__file__).parent.parent / "data" / "landing" / "legal"
 
 # Cấu hình website cào tài liệu Green SM
-PREFIX = "https://www.greensm.com/vn-en/terms-policies/general?terms="
+PREFIX = "https://www.greensm.com/vn-vi/terms-policies/general?terms="
 START_POLICY = 1  # Bắt đầu từ policy 1 (TERMS OF USE)
 END_POLICY = 11  # Tổng số policies cần cào
 

@@ -1,116 +1,138 @@
-# GSM launches Green SM Platform, a multi-service technology platform, in Indonesia and the Philippines
+# Ra mắt tính năng mới: Theo dõi tỷ lệ vận doanh trên Trợ lý tài xế
 
-**Source:** https://www.greensm.com/vn-en/news/gsm-launches-green-sm-platform-a-multi-service-technology-platform-in-indonesia-and-the-philippines
+**Source:** https://www.greensm.com/vn-vi/news/ra-mat-tinh-nang-moi-theo-doi-ty-le-van-doanh-tren-tro-ly-tai-xe
 
-**Crawled:** 2026-09-25T10:55:08.270629
+**Crawled:** 2026-09-25T11:25:22.745150
 
 ---
 
-[News](https://www.greensm.com/vn-en/news)
+[Tin tức](https://www.greensm.com/vn-vi/news)
 
-Community
+Tài xế Green SM Bike
 
-13/04/2026 17:04
+23/09/2026 14:29
 
-# GSM launches Green SM Platform, a multi-service technology platform, in Indonesia and the Philippines
+Mới
 
-**_Jakarta/Manila, April 13, 2026 – Green and Smart Mobility Joint Stock Company (GSM) today announced the launch of its shared business platform, Green SM Platform, in Indonesia and the Philippines. This marks a strategic milestone following more than two years of international expansion, while opening up attractive livelihood opportunities for_** **_people_** **_across Southeast Asia’s urban centers._**
+# Ra mắt tính năng mới: Theo dõi tỷ lệ vận doanh trên Trợ lý tài xế
 
-Starting from April 13, 2026, owners and renters of VinFast electric vehicles in Indonesia and the Philippines can register to become service partners on the Green SM Platform. Developed within GSM’s fully electric mobility ecosystem, the platform is designed to expand driver and vehicle supply, while ensuring all operations are delivered under consistent, professional service standards.
+**Chủ động theo dõi – Hiểu tình trạng vận doanh – Cải thiện hiệu suất**
 
-![Từ 13/04/2026, chủ xe và người thuê xe điện VinFast tại Indonesia và Philippines có thể đăng ký vận doanh trên nền tảng Green SM.](https://cdn.xanhsm.com/2026/04/5eeff83c-photo-01-1024x683.jpeg)From April 13, 2026, VinFast EV owners and renters in Indonesia and the Philippines can register to operate on the Green SM Platform.
+Bác Tài Xanh ơi, **Trợ lý Tài xế nay đã có thêm tính năng theo dõi Tỷ lệ vận doanh**, giúp Bác Tài chủ động nắm bắt tình trạng vận doanh và nhận gợi ý/cảnh báo cần cải thiện ngay trên Ứng dụng Tài xế Green SM.
 
-Upon successful registration, driver partners will undergo structured training programs covering operational procedures and service standards to ensure a consistent and high-quality customer experience. The platform offers a competitive revenue-sharing model of up to 90%, along with performance-based incentive schemes, enabling driver partners to maintain stable income and pursue long-term development opportunities.
+Đặc biệt, **khi Tỷ lệ vận doanh có thay đổi**, Trợ lý Tài xế sẽ chủ động gửi thông báo để Bác Tài kịp thời theo dõi và điều chỉnh.
 
-In parallel, Green SM Indonesia and Green GSM Philippines are introducing comprehensive support policies to help partners access vehicles more easily through VinFast electric vehicle purchase and rental programs. These initiatives reduce ~~~~ barriers to entry and accelerate the expansion of the driver network.
+- **Thời gian áp dụng**: Từ 23/09/2026 cho đến khi có thông báo mới
 
-In Indonesia, partners can register for the program and quickly gain access to VinFast electric vehicle models such as VF 5, VF e34, VF 6, and Limo Green, enabling them to begin operation as soon as the required procedures ~~.~~ are completed. The model requires no loans or significant upfront investment, enabling drivers tobuild stable income streams.
+- **Đối tượng áp dụng:** Bác Tài Xanh Bike Platform tại Hà Nội (theo địa giới hành chính cũ)
 
-In the Philippines, Green GSM is rolling out the program with VF 5 and Limo Green models, supported by comprehensive ~~~~ policies covering registration, insurance, and operations. This enables drivers to join the platform with ease and gradually build stable operations, with income potential aligned with local market conditions and business needs.
+**📊 TRỢ LÝ TÀI XẾ CHỦ ĐỘNG THÔNG BÁO KHI TỶ LỆ THAY ĐỔI**
 
-Notably, drivers operating VinFast electric vehicles will continue to benefit from free charging policies through March 31, 2029, significantly reducing operating costs and improving income efficiency.
+Trong quá trình vận doanh, khi **Tỷ lệ nhận chuyến** hoặc **Tỷ lệ hoàn thành chuyến** có thay đổi, Trợ lý Tài xế sẽ cập nhật thông tin để Bác Tài dễ dàng theo dõi.
 
-![Nền tảng chia sẻ doanh thu tới 90%, kèm thưởng hiệu suất, giúp tài xế ổn định thu nhập và phát triển lâu dài.](https://cdn.xanhsm.com/2026/04/3b42c36f-photo-02-1-1024x675.jpg)_The platform offers up to 90% revenue sharing, along with performance-based incentives, helping drivers maintain stable income and grow sustainably._
+**Bác Tài có thể xem:**
 
-**Mr. Nguyen Van Thanh, Global CEO of GSM**, said: _“Green SM Platform is not only a step forward in service expansion, but also a solution to accelerate the transition to green mobility across Southeast Asia. By building an open platform with high service standards, we aim to rapidly increase the number of electric vehicles in operation, delivering a sustainable, modern, and reliable mobility experience for the community. This is a strategic move toward shaping a comprehensive green transportation ecosystem across the region.”_
+- **Tỷ lệ nhận chuyến**
 
-Amid growing demand for flexible employment in major cities, the Green SM Platform enables workers to quickly access vehicles, start earning, and generate stable income withoutlarge upfront investments or complex financing schemes. The platform rollout in Indonesia and the Philippines not only strengthens Green SM’s regional presence but also helps shape a sustainable urban mobility model, where technology, environmental responsibility, and livelihoods can grow in parallel.
+- **Tỷ lệ hoàn thành chuyến**
 
-|     |
-| --- |
-| Further information on the Green SM Platform, including partner registration and vehicle leasing programs, is available at:   <br>– Indonesia: Website: [https://platform.greensm.com/ID-id](https://platform.greensm.com/ID-id)<br>– Philippines: Website: [https://platform.greengsm.ph/PH-en](https://platform.greengsm.ph/PH-en) |
+- **Tình trạng tỷ lệ hiện tại**
 
-[share facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.greensm.com%2Fvn-en%2Fnews%2Fgsm-launches-green-sm-platform-a-multi-service-technology-platform-in-indonesia-and-the-philippines)[share linkedin](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.greensm.com%2Fvn-en%2Fnews%2Fgsm-launches-green-sm-platform-a-multi-service-technology-platform-in-indonesia-and-the-philippines)
+Ví dụ, khi Bác Tài **liên tiếp hủy chuyến**, Tỷ lệ hoàn thành chuyến có thể thay đổi. Khi đó, Trợ lý Tài xế sẽ thông báo để Bác Tài chủ động điều chỉnh.
 
-Recent Posts
+![Trợ lý Tài xế nay đã có thêm tính năng theo dõi Tỷ lệ vận doanh](https://cdn.xanhsm.com/2026/09/7360af55-hinh-1-1024x576.jpg)![Trợ lý Tài xế nay đã có thêm tính năng theo dõi Tỷ lệ vận doanh](https://cdn.xanhsm.com/2026/09/515e7fc5-hinh-2-1024x576.jpg)
 
-[![Mừng sinh nhật VIN33: Green SM ưu đãi đặc biệt cho hội viên VinClub](https://www.greensm.com/_next/image?url=https%3A%2F%2Fcdn.xanhsm.com%2F2026%2F08%2F782c21e8-ctkm-vin33_1200x675.jpeg&w=3840&q=75)\\
+**🔎 LƯU Ý**
+
+Tính năng được triển khai nhằm giúp Bác Tài **chủ động theo dõi và cải thiện tình trạng vận doanh**.
+
+Trong giai đoạn thử nghiệm, **khi tỷ lệ hiển thị ở mức cảnh báo, Bác Tài vẫn có thể vận doanh và nhận chuyến bình thường**. Tính năng không áp dụng khóa, tạm dừng nhận chuyến hay giới hạn vận doanh.
+
+**_Lưu ý:_** Tỷ lệ hiển thị trên tính năng mới hỗ trợ Bác Tài theo dõi và cải thiện tình trạng vận doanh để tránh vi phạm các chế tài về hiệu suất đã ban hành. Bác Tài cần phân biệt với các chỉ số được sử dụng để tính thưởng và xử lý vi phạm theo chính sách hiện hành. Chúc Bác Tài vận doanh thuận lợi.
+
+Trân trọng,
+
+Đội ngũ Green SM.
+
+[share facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.greensm.com%2Fvn-vi%2Fnews%2Fra-mat-tinh-nang-moi-theo-doi-ty-le-van-doanh-tren-tro-ly-tai-xe)[share linkedin](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.greensm.com%2Fvn-vi%2Fnews%2Fra-mat-tinh-nang-moi-theo-doi-ty-le-van-doanh-tren-tro-ly-tai-xe)
+
+Bài viết gần đây
+
+[![Green SM hợp tác cùng Techcombank – Ưu đãi di chuyển cho khách hàng doanh nghiệp](https://www.greensm.com/_next/image?url=https%3A%2F%2Fcdn.xanhsm.com%2F2026%2F09%2F9bf38fbf-webtcb_hq.jpg&w=3840&q=75)\\
 \\
-01 August 2026\\
+24 September 2026\\
 \\
-Celebrate the VIN33 Anniversary: Special Green SM Offers for VinClub Members\\
+Mới\\
 \\
-Over 33 years of growth, Vingroup has become Vietnam’s largest multi-sector private conglomerate, ranking among the Top 30 largest enterprises in Southeast Asia according to Fortune magazine (USA). To celebrate its 33rd anniversary (August 8, 1993 to August 8, 2026), Green SM is delighted to offer VinClub members a special ride discount, making every journey \[…\]](https://www.greensm.com/vn-en/news/uu-dai-vin33-danh-cho-hoi-vien-vinclub) [![logo-green-sm](https://www.greensm.com/_next/image?url=https%3A%2F%2Fcdn.xanhsm.com%2F2026%2F04%2Fd1fe6f66-logo-green-sm.png&w=3840&q=75)\\
+Green SM hợp tác cùng Techcombank – Ưu đãi di chuyển cho khách hàng doanh nghiệp\\
 \\
-29 July 2026\\
+Nhằm mang đến thêm nhiều giá trị cho khách hàng doanh nghiệp, Green SM chính thức hợp tác cùng Techcombank triển khai chương trình ưu đãi dành cho doanh nghiệp sử dụng thẻ Doanh nghiệp Techcombank khi di chuyển và vận hành cùng Green SM. Thông qua chương trình, doanh nghiệp có thể tận hưởng \[…\]](https://www.greensm.com/vn-vi/news/green-sm-hop-tac-cung-techcombank-uu-dai-di-chuyen-cho-khach-hang-doanh-nghiep) [![Xanh Hot Deal | Hoàng Hà Mobile - Đồng hành sửa chữa, tiếp sức hành trình](https://www.greensm.com/_next/image?url=https%3A%2F%2Fcdn.xanhsm.com%2F2026%2F09%2F98c96454-260921_pns-hoang-ha_thumbnail-web.jpg&w=3840&q=75)\\
 \\
-Terms And Conditions SME Tier Program\\
+24 September 2026\\
 \\
-1\. General Information Program name: Hội Chủ Shop Green SM Program organizer: GSM Green and Smart Mobility Joint Stock Company (“GSM”). Applicable service: Express service available on the Green SM application. Program period: From 13/08/2026 until further notice of the Program’s termination. Applicable area: Nationwide. Program format: A customer loyalty program under which customers are \[…\]](https://www.greensm.com/vn-en/news/tier-express-terms-conditions) [![logo-green-sm](https://www.greensm.com/_next/image?url=https%3A%2F%2Fcdn.xanhsm.com%2F2026%2F04%2Fd1fe6f66-logo-green-sm.png&w=3840&q=75)\\
+Mới\\
 \\
-29 July 2026\\
+Xanh Hot Deal \| Hoàng Hà Mobile – Đồng hành sửa chữa, tiếp sức hành trình\\
 \\
-Terms And Conditions Đường Đua Chủ Shop\\
+Các Bác Tài Xanh thân mến, HOÀNG HÀ MOBILE mang đến chương trình ưu đãi đặc biệt dành riêng cho các Bác Tài Xanh. Với đa dạng sản phẩm công nghệ, phụ kiện cùng các dịch vụ sửa chữa, bảo hành và nâng cấp thiết bị, Hoàng Hà Mobile đồng hành cùng các Bác Tài \[…\]](https://www.greensm.com/vn-vi/news/xanh-hot-deal-hoang-ha-mobile-dong-hanh-sua-chua-tiep-suc-hanh-trinh) [![TRẠM XANH - ĐỒNG HÀNH VỮNG LÁI: “Nước mát lạnh đây - Mời Bác Tài Xanh thưởng thức!”](https://www.greensm.com/_next/image?url=https%3A%2F%2Fcdn.xanhsm.com%2F2026%2F09%2Fabeb808d-tram-xanh-green-sm.jpeg&w=3840&q=75)\\
 \\
-1\. General Information Program name: Đường đua chủ shop Program organizer: GSM Green and Smart Mobility Joint Stock Company (“GSM”). Applicable service: Express service available on the Green SM application. Program period: From 24/08/2026 to 28/09/2026. Applicable area: Nationwide. Promotion format: Customers complete tasks in accordance with the conditions of each Challenge to receive corresponding \[…\]](https://www.greensm.com/vn-en/news/express-challenge-terms-conditions) [![ha long bay in vietnam](https://www.greensm.com/_next/image?url=https%3A%2F%2Fcdn.xanhsm.com%2F2026%2F07%2F2ac921af-best-time-to-visit-vietnam-thumb-.jpg&w=3840&q=75)\\
+23 September 2026\\
 \\
-24 July 2026\\
+Mới\\
 \\
-Best time to visit Vietnam? A Complete Guide from Locals\\
+TRẠM XANH – ĐỒNG HÀNH VỮNG LÁI: “Nước mát lạnh đây – Mời Bác Tài Xanh thưởng thức!”\\
 \\
-The best time to visit Vietnam varies by region, as the country’s weather changes significantly from north to south. Whether you’re planning to explore Hanoi, cruise Ha Long Bay, relax on Da Nang’s beaches, or discover Ho Chi Minh City, this guide covers the climate, travel seasons, and top experiences to help you choose the \[…\]](https://www.greensm.com/vn-en/news/best-time-to-visit-vietnam)
+Mùa lễ hội đã đến cũng là lúc nhu cầu di chuyển tăng cao, những cung đường trở nên nhộn nhịp hơn bao giờ hết. Thấu hiểu những nỗ lực của các Bác Tài trong mỗi hành trình, Green SM mong muốn gửi một chút tiếp sức, một chút quan tâm để cùng Bác Tài \[…\]](https://www.greensm.com/vn-vi/news/tram-xanh-dong-hanh-vung-lai-nuoc-mat-lanh-day-moi-bac-tai-xanh-thuong-thuc) [![News](https://www.greensm.com/_next/image?url=https%3A%2F%2Fcdn.xanhsm.com%2F2026%2F09%2F6898e408-260920-btvd-thumb.jpg&w=3840&q=75)\\
+\\
+23 September 2026\\
+\\
+Mới\\
+\\
+Bản tin vận doanh tuần 21/09-27/09/2026\\
+\\
+Bác Tài Xanh thân mến, Cùng Bản tin vận doanh tuần 21/09 – 27/09 khám phá các thông tin quan trọng sau: Và đừng quên, nếu Bác Tài Xanh có góp ý hay chia sẻ thêm mong muốn, hãy gửi lại cho đội ngũ Green SM để Bản tin mỗi ngày thêm thiết thực và \[…\]](https://www.greensm.com/vn-vi/news/ban-tin-van-doanh-tuan-21-09-27-09-2026)
 
-We use cookies to enhance the customer experience. By clicking "Accept All", you agree to the use of cookies. Click "Learn more" to understand the purpose of each type of cookie in detail.
+Chúng tôi sử dụng cookie để cải thiện trải nghiệm của khách hàng. Bằng cách nhấp "Đồng ý tất cả", bạn đồng ý với việc sử dụng cookie. Hãy "Tìm hiểu thêm" để hiểu chi tiết hơn về mục đích của từng loại cookies.
 
-RejectAccept All
+Từ chốiĐồng ý tất cả
 
-GSM GREEN AND SMART MOBILITY JOINT STOCK COMPANY
+CÔNG TY CỔ PHẦN DI CHUYỂN XANH VÀ THÔNG MINH GSM
 
 Hotline: 1555
 
 Email: [support.vn@greensm.com](mailto:support.vn@greensm.com)
 
-Symphony Office Building, Chu Huy Man Street, Vinhomes Riverside Urban Area, Phuc Loi Ward, Hanoi City, Vietnam
+Tòa Văn phòng Symphony, đường Chu Huy Mân, khu đô thị Vinhomes Riverside, Phường Phúc Lợi, Thành phố Hà Nội, Việt Nam
 
-GREEN SM [Homepage](https://www.greensm.com/vn-en) [About](https://www.greensm.com/vn-en/about) [Introduction to the Green SM app](https://www.greensm.com/vn-en/download)
+GREEN SM [Trang chủ](https://www.greensm.com/vn-vi) [Về Green SM](https://www.greensm.com/vn-vi/about) [Giới thiệu ứng dụng Green SM](https://www.greensm.com/vn-vi/download)
 
-CONSUMERS [Green SM Car](https://www.greensm.com/vn-en/greensm-car) [Green SM Premium](https://www.greensm.com/vn-en/greensm-premium) [Green Airport](https://www.greensm.com/vn-en/green-airport) [Green Tour](https://www.greensm.com/vn-en/green-tour) [Green SM Bike](https://www.greensm.com/vn-en/greensm-bike) [Green SM Express](https://www.greensm.com/vn-en/green-express) [Membership](https://www.greensm.com/vn-en/green-subscription) [Green Gift Card](https://www.greensm.com/vn-en/green-gift-card)
+Người dùng [Green SM Car](https://www.greensm.com/vn-vi/greensm-car) [Green SM Mini](https://www.greensm.com/vn-vi/greensm-mini) [Green SM Premium](https://www.greensm.com/vn-vi/greensm-premium) [Green SM Limo](https://www.greensm.com/vn-vi/greensm-limo) [Green Airport](https://www.greensm.com/vn-vi/green-airport) [Green Tour](https://www.greensm.com/vn-vi/green-tour) [Green Liên Tỉnh](https://www.greensm.com/vn-vi/green-lien-tinh) [Green SM Bike](https://www.greensm.com/vn-vi/greensm-bike) [Green SM Food](https://www.greensm.com/vn-vi/greensm-ngon) [Green SM Express](https://www.greensm.com/vn-vi/green-express) [Green SM Van](https://www.greensm.com/vn-vi/green-van) [Gói hội viên](https://www.greensm.com/vn-vi/green-subscription) [Thẻ quà tặng](https://www.greensm.com/vn-vi/green-gift-card)
 
-Business [Transportation](https://www.greensm.com/vn-en/business-transport) [Business Card](https://www.greensm.com/vn-en/business-payment)
+Doanh nghiệp [Green Business](https://www.greensm.com/vn-vi/business-transport) [Green SM Merchant](https://www.greensm.com/vn-vi/greensm-merchant) [Thẻ doanh nghiệp](https://www.greensm.com/vn-vi/business-payment)
 
 Green Partner
 
 Green Ads
 
-EXPLORE [Car Driver](https://www.greensm.com/vn-en/driver-car) [Bike Driver](https://www.greensm.com/vn-en/driver-bike) [Platform Taxi Driver](https://www.greensm.com/vn-en/driver-platform) [Driver Centre](https://www.greensm.com/vn-en/driver-center)
+Khám phá [Tài xế Ô tô](https://www.greensm.com/vn-vi/driver-car) [Tài xế Xe máy](https://www.greensm.com/vn-vi/driver-bike) [Green SM Platform](https://www.greensm.com/vn-vi/driver-platform) [Trung tâm Tài xế](https://www.greensm.com/vn-vi/driver-center)
 
-Overview [News](https://www.greensm.com/vn-en/news) [Career](https://www.greensm.com/vn-en/career) [Promotions](https://www.greensm.com/vn-en/promotions)
+Tổng hợp [Tin tức](https://www.greensm.com/vn-vi/news) [Trung tâm hỗ trợ](https://www.greensm.com/vn-vi/helps) [Tuyển dụng](https://www.greensm.com/vn-vi/career) [Ưu đãi](https://www.greensm.com/vn-vi/promotions) [Điều khoản thanh toán bằng ví E-Green](https://www.greensm.com/vn-vi/terms-policies/e-green-wallet-payment-terms)
 
-SOCIAL MEDIA
+MẠNG XÃ HỘI
 
 [![Facebook](https://www.greensm.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FFacebook.a00cce1e.png&w=48&q=75)](https://facebook.com/GreenSMOfficial)[![LinkedIn](https://www.greensm.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FLinkin.a50151d4.png&w=48&q=75)](https://www.linkedin.com/company/greensmartmobility/)[![Zalo](https://www.greensm.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FZaloOA.31732fd8.png&w=48&q=75)](https://zalo.me/greensmofficial)[![Vcreator](https://www.greensm.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FVCreator.13afb07b.png&w=96&q=75)](https://creator.gen-green.global/)
 
-Vietnam
+Việt Nam
 
-Business ID: 0110269067 first issued by Hanoi Department of Finance on March 1, 2023.
+Mã số doanh nghiệp: 0110269067 do Sở Tài chính thành phố Hà Nội cấp lần đầu ngày 01/03/2023.
 
-Transport license No. 9620/GPKDVT issued for the fourth time by Hanoi Department of Construction on September 23, 2025.
+Giấy phép vận tải số 9620/GPKDVT do Sở Xây dựng thành phố Hà Nội cấp lần thứ tư ngày 23/09/2025.
 
-Postal service confirmation No. 6150/XN-BTTTT issued by the Ministry of Information and Communications on December 13, 2023.
+Văn bản xác nhận hoạt động bưu chính số 6150/XN-BTTTT do Bộ Thông Tin và Truyền Thông cấp ngày 13/12/2023.
 
 ![Bo Cong Thuong](https://www.greensm.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-BCT.db26ec9f.png&w=1200&q=75)
 
-© 2026 GSM. All rights reserved\| [Terms & Legal](https://www.greensm.com/vn-en/terms-policies) \| [Privacy Policy](https://www.greensm.com/vn-en/terms-policies/privacy-notice) \|Cookies setting
+© 2026 GSM. All rights reserved\| [Điều khoản & Pháp lý](https://www.greensm.com/vn-vi/terms-policies) \| [Chính sách bảo vệ dữ liệu cá nhân](https://www.greensm.com/vn-vi/terms-policies/privacy-notice) \|Cài đặt cookies
 
 [![google play](https://www.greensm.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgoogle-play.a780b8a5.png&w=384&q=75)](https://vn.greensm.com/3eCA/8li1xfm7)
 
@@ -124,7 +146,7 @@ Postal service confirmation No. 6150/XN-BTTTT issued by the Ministry of Informat
 
 ![Download app qrcode](https://www.greensm.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fweb-to-app-vn.1ad5b5c3.png&w=256&q=75)
 
-Experience the App Now
+Trải nghiệm ứng dụng ngay
 
 ![Download app qrcode](https://www.greensm.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fweb-to-app-vn.1ad5b5c3.png&w=256&q=75)
 

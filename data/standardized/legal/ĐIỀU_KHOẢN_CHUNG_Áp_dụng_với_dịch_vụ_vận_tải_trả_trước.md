@@ -1,0 +1,87 @@
+# ĐIỀU KHOẢN CHUNG (Áp dụng với dịch vụ vận tải trả trước)
+
+PHỤ LỤC 9: ĐIỀU KHOẢN CHUNG
+(Áp dụng với dịch vụ vận tải trả trước)
+*(Phụ lục Điều khoản này đính kèm và là một phần của Điều khoản sử dụng)*
+Điều Khoản Chung (“ĐKC”) này áp dụng cho Khách Hàng (“KH”) sử dụng dịch vụ vận tải trên Ứng Dụng Green SM (“APP”) - được quản lý, điều hành bởi Công ty cổ phần di chuyển xanh và thông minh GSM (“GSM”). KH và GSM được gọi riêng là “Bên” và gọi chung là “Các Bên”.
+KH và/hoặc Người Sử Dụng (“NSD”) đồng ý và thừa nhận rằng bằng việc gửi cho GSM yêu cầu dịch vụ, NSD/KH đã đọc, chấp nhận và tuân thủ đầy đủ ĐKC này, các quy chế, điều khoản sử dụng, quy tắc ứng xử, chính sách, thông báo được GSM công bố trên APP và Website của GSM (gọi chung là “Điều Khoản Sử Dụng” hay “ĐKSD”) khi kết nối sử dụng Dịch Vụ qua APP.
+ĐKSD, ĐKC là một phần không tách rời của Hợp Đồng giữa KH và GSM về việc cung cấp Dịch Vụ (“Hợp Đồng”). Nếu có nội dung bất kỳ trong ĐKSD mâu thuẫn với Hợp Đồng, Hợp Đồng được ưu tiên áp dụng.
+**1. ĐỊNH NGHĨA VÀ GIẢI THÍCH TỪ NGỮ**
+1.1. “Bảng Tổng Hợp Phí” là tổng hợp phí Dịch Vụ và các chi phí phát sinh cho các Chuyến Xe được thực hiện thành công trong mỗi Kỳ Đối Soát.
+1.2. “Chuyến Xe” là một hành trình vận chuyển được xác định bởi điểm đón và một/các điểm trả, hoặc điểm nhận và giao hàng hóa do Tài Xế và KH hoặc NSD xác lập qua APP.
+1.3. “Dịch Vụ” là dịch vụ vận chuyển được kết nối qua APP, bao gồm nhưng không giới hạn (a) vận tải hành khách bằng xe ô tô điện, (b) vận chuyển hành khách bằng xe máy điện, (c) vận chuyển hàng hóa bằng xe máy điện. GSM có thể điều chỉnh Dịch Vụ và công bố trên APP và/hoặc Website của GSM.
+1.4. “Kỳ Đối Soát” là kỳ tổng hợp và đối chiếu Phí Dịch Vụ, được tính từ 0h00 phút ngày 23 tháng trước đến 22h59 phút ngày 22 của tháng đối soát.
+1.5. “Người Sử Dụng” hay “NSD” là người được KH cho phép và trực tiếp sử dụng Dịch Vụ theo Hợp Đồng giữa GSM và KH.
+1.6. “Phương Tiện” là xe ô tô điện dưới 09 (chín) chỗ ngồi và/hoặc xe máy điện thuộc quyền sở hữu và/ hoặc quyền khai thác kinh doanh của GSM hoặc đối tác hợp tác với GSM đủ điều kiện kinh doanh vận tải theo quy định pháp luật, được GSM sử dụng hoặc chấp thuận cho tham gia cung cấp Dịch Vụ.
+1.7. “Tài Khoản Quản Lý” hay “TKQL” là tài khoản định danh KH do GSM cung cấp để KH quản lý, theo dõi TKUD, Thẻ Green SM của NSD.
+1.8. “Tài Khoản Ứng Dụng” hay “TKUD” là tài khoản định danh của NSD, được thiết lập, quản lý bởi TKQL. Để làm rõ, NSD sẽ tải và cài đặt APP, đăng ký và kích hoạt tài khoản theo hướng dẫn trên APP.
+1.9. “Tài Xế” hay “TX” là người điều khiển Phương Tiện thực hiện Chuyến Xe, có đủ điều kiện hành nghề lái xe theo quy định pháp luật, đã đăng ký và được GSM chấp thuận để tham gia cung cấp Dịch Vụ.
+**2. QUY TRÌNH YÊU CẦU VÀ SỬ DỤNG DỊCH VỤ**
+2.1. GSM cung cấp và kích hoạt TKQL cho KH theo các thông tin được đầu mối của KH cung cấp. Để làm rõ, TKQL được thiết lập, kết nối sử dụng qua mạng internet, các tính năng của TKQL có thể được GSM điều chỉnh, nâng cấp tùy từng thời điểm.
+2.2. Việc NSD sử dụng TKUD để đặt Chuyến Xe được xem là thay mặt KH gửi yêu cầu thực hiện Dịch Vụ từng lần; việc GSM cung cấp Dịch Vụ theo yêu cầu của NSD được xem là cung cấp Dịch Vụ cho KH.
+2.3. KH phải áp dụng các biện pháp kiểm soát hợp lý đảm bảo chỉ những NSD được thiết lập, kích hoạt, quản lý bằng TKQL được phép sử dụng TKUD yêu cầu Dịch Vụ theo Hợp Đồng và đảm bảo các TKSD được sử dụng bởi đúng NSD. Nếu KH có sai sót trong quản lý NSD, TKQL và/hoặc TKUD bị chiếm đoạt bởi người khác do lỗi của KH và/hoặc NSD thì KH/NSD vẫn phải thanh toán đầy đủ Phí Dịch Vụ cho các trường hợp sai sót này.
+2.4. KH phải thanh toán cho những khoản phí phát sinh do các Chuyến Xe được thực hiện thành công bởi TKUD do Khách Hàng đã từng và/hoặc đang thiết lập, quản lý bằng TKQL, ngoại trừ nếu Chuyến Xe được thực hiện thành công không phù hợp với các thiết lập của KH và do lỗi (vô ý hoặc cố ý) của GSM.
+2.5. GSM có quyền gửi thông báo và/hoặc ngắt kết nối (i) TKQL và các TKUD nếu KH vi phạm nghĩa vụ thanh toán theo Hợp Đồng; (ii) TKUD của NSD vi phạm ĐKSD được GSM công bố theo quy định của Hợp Đồng.
+2.6. GSM được miễn trừ trách nhiệm nếu KH và/hoặc NSD tiết lộ thông tin truy cập (bất kể vô ý hoặc cố ý) dẫn đến bị người khác sử dụng trái phép TKQL/TKUD mà không thông báo ngay cho đại diện GSM làm thủ tục phong tỏa TKQL và/hoặc KH không chủ động khóa TKUD bằng TKQL. Nếu việc tiết lộ thông tin truy cập dẫn đến phát sinh Phí Dịch Vụ thì KH phải hoàn toàn chịu trách nhiệm và phải thanh toán số tiền cước vận tải phát sinh này cho GSM.
+2.7. GSM chịu hoàn toàn trách nhiệm nếu có phát sinh cước vận tải do bên thứ ba nào khác sử dụng Dịch Vụ bằng TKQL/TKUD của KH nếu không phải do lỗi của KH và/hoặc NSD.
+2.8. TKQL được cấp cho KH thuộc trách nhiệm quản lý sử dụng duy nhất của KH và không được chuyển nhượng hoặc chuyển giao cho bên thứ ba khi không có chấp thuận bằng văn bản của GSM.
+2.9. KH có trách nhiệm bảo mật thông tin truy cập TKQL và TKUD. Nếu thông tin truy cập bị đánh cắp, mất hay thất lạc, KH phải thông báo ngay cho GSM để GSM phong tỏa TKQL và/hoặc TKUD
+**3. PHÍ DỊCH VỤ, ĐỐI SOÁT VÀ THANH TOÁN**
+3.1. Phí Dịch Vụ
+3.1.1. Phí Dịch Vụ của từng Chuyến Xe được xác định theo chính sách chung của GSM có hiệu lực từng thời điểm đối với từng loại Dịch Vụ, Phí Dịch Vụ được hiển thị trên APP khi NSD gửi yêu cầu cung cấp Dịch Vụ. Để làm rõ, khi NSD đồng ý bắt đầu Chuyến Xe, được hiểu rằng KH/NSD chấp nhận Phí Dịch Vụ được tính bởi APP, đã đọc, hiểu rõ và đồng ý với các ĐKSD.
+3.1.2. Phí Dịch Vụ:
+- Đã gồm thuế GTGT theo quy định pháp luật và phí nền tảng (nếu có)
+- Chưa gồm: phí cầu đường, phà, bến bãi.
+3.2. Đối soát
+3.2.1. Trong 04 ngày làm việc sau khi kết thúc Kỳ Đối Soát, GSM lập và gửi email cho đầu mối của KH Bảng Tổng Hợp Phí của Kỳ Đối Soát liền trước đó. Bảng Tổng Hợp Phí được xác định dựa vào số liệu của các Chuyến Xe hoàn thành, Phí Dịch Vụ và các khoản phí quy định tại Điều 3.1.2 ĐKC này được ghi nhận tại hệ thống của GSM.
+3.2.2. KH có 02 ngày từ khi nhận được Bảng Tổng Hợp Phí để xem xét và phản hồi email cho GSM. KH có quyền tra cứu danh sách các Chuyến Xe và phí, chi phí tương ứng bằng TKQL. Quá thời hạn trên mà GSM không nhận được phản hồi từ KH thì được xem là KH đã đồng ý với Bảng Tổng Hợp Phí của GSM và GSM sẽ xuất hóa đơn GTGT cho KH.
+3.2.3. Việc KH xác nhận (hoặc quá thời hạn nhưng không phản hồi) về Bảng Tổng Hợp Phí quy định tại Điều 3.2.2 trên được xem là các Bên đã nghiệm thu Dịch Vụ cho thời gian tương ứng.
+3.2.4. Nếu Các Bên không thể thống nhất được toàn bộ số liệu của Bảng Tổng Hợp Phí trong thời hạn nêu tại Điều 3.2.2, GSM sẽ xuất hóa đơn theo số liệu tại Bảng Tổng Hợp Phí mà GSM gửi. Các Bên sẽ tiếp tục trao đổi về phần số liệu chưa thể thống nhất trong Kỳ Đối Soát tiếp theo, khoản chênh lệch (nếu có) sẽ được đối trừ vào Kỳ Đối Soát tiếp theo và điều chỉnh hóa đơn GTGT (nếu có).
+3.3. Thanh toán
+NSD lựa chọn sử dụng Dịch Vụ theo hồ sơ “Doanh nghiệp” trên APP và thay mặt KH thanh toán Phí Dịch Vụ và các chi phí phát sinh khác ngay sau khi kết thúc Chuyến Xe.
+**4. QUYỀN VÀ NGHĨA VỤ CỦA CÁC BÊN**
+4.1. Quyền và nghĩa vụ của GSM
+4.1.1. Cung cấp Dịch Vụ cho KH theo đúng Hợp Đồng, ĐKSD và pháp luật.
+4.1.2. Đảm bảo TX có Giấy phép lái xe phù hợp với Phương Tiện, còn giá trị sử dụng, có thái độ phục vụ chuyên nghiệp, lịch sự, tuân thủ thời giờ, lịch trình theo yêu cầu của KH, tuân thủ luật giao thông đường bộ.
+4.1.3. Phải mua bảo hiểm bắt buộc theo quy định pháp luật. KH sẽ không chịu bất kỳ trách nhiệm gì nếu Phương Tiện (hoặc phần phụ kiện bất kỳ của Phương Tiện) bị mất.
+4.1.4. GSM/TX sẽ chịu trách nhiệm cho thiệt hại mà NSD gặp phải trong Chuyến Xe do lỗi của GSM.
+4.2. Quyền và Nghĩa vụ của KH
+4.2.1. Yêu cầu GSM giải thích và chỉnh sửa nếu có sai sót khi tính Phí Dịch Vụ và các chi phí khác theo quy định tại Điều 3.2.2 của ĐKC này.
+4.2.2. Bồi thường cho GSM nếu NSD gây ra thương tích cho TX hoặc các thiệt hại về tài sản của GSM (làm hỏng, gãy, cháy, trầy, vỡ các chi tiết trên xe v.v.). GSM hoặc các đơn vị sửa chữa do GSM chỉ định quyết định giá trị bồi thường.
+**5. THỜI HẠN VÀ CHẤM DỨT HỢP ĐỒNG**
+5.1. Hợp Đồng có hiệu lực trong thời hạn nêu tại Mục 2 Điều 1 Hợp Đồng (“Thời Hạn”). Thời Hạn sẽ được tự động gia hạn thêm 12 (mười hai) tháng và không bị giới hạn số lần tự gia hạn nếu không Bên nào có văn bản thông báo từ chối gia hạn Hợp Đồng trong thời hạn 20 (hai mươi) ngày trước ngày cuối cùng của mỗi Thời Hạn.
+5.2. Trước ngày cuối cùng của mỗi Thời Hạn ít nhất 07 ngày làm việc, GSM có trách nhiệm thông báo cho KH về việc Hợp Đồng sắp hết hạn và cung cấp cho KH lựa chọn gia hạn hoặc chấm dứt Hợp Đồng
+5.3. Hợp Đồng chấm dứt khi xảy ra một trong các trường hợp sau:
+5.3.1. Một Bên có văn bản thông báo chấm dứt cho Bên kia trước ít nhất 30 ngày trước ngày dự kiến chấm dứt.
+5.3.2. Các Bên đồng ý chấm dứt Hợp Đồng bằng văn bản.
+5.3.3. Một Bên có quyền đơn phương chấm dứt Hợp Đồng ngay lập tức nếu Bên còn lại vi phạm nghĩa vụ Hợp Đồng và không sửa chữa, khắc phục được trong thời hạn 10 (mười) ngày từ ngày nhận được thông báo của Bên bị vi phạm.
+5.4. Khi chấm dứt Hợp Đồng, Các Bên phải:
+5.4.1. Tất toán các khoản nợ còn lại giữa Các Bên liên quan đến Dịch Vụ theo quy định tại Hợp Đồng trong thời hạn 10 ngày kể từ ngày Hợp Đồng chấm dứt.
+5.4.2. Giải quyết các đối soát, tra soát, khiếu nại có liên quan đến Dịch Vụ trong 30 ngày kể từ ngày Hợp Đồng chấm dứt.
+5.4.3. Nếu Hợp Đồng bị chấm dứt theo Điều 5.2.3 trên, Bên vi phạm sẽ phải bồi thường mọi thiệt hại thực tế, trực tiếp mà bên kia phải chịu, đồng thời chịu phạt vi phạm 8% giá trị nghĩa vụ bị vi phạm.
+**6. BẤT KHẢ KHÁNG**
+6.1. GSM, KH và/hoặc NSD sẽ không phải chịu trách nhiệm về việc chậm trễ, không thực hiện Hợp Đồng (trừ nghĩa vụ thanh toán) hoặc các quyền và nghĩa vụ của mỗi Bên quy định tại ĐKC nếu việc chậm trễ, không thực hiện đó do sự kiện Bất khả kháng. Sự kiện Bất Khả Kháng (“SKBKK”) bao gồm nhưng không hạn chế: Bão lụt, động đất, chiến tranh, hoả hoạn, thay đổi chính sách, pháp luật của Nhà nước, dịch bệnh hoặc các sự kiện khách quan khác.
+Với điều kiện:
+(a) Sự kiện đó hoàn toàn nằm ngoài sự kiểm soát hợp lý hoặc không do lỗi hoặc sơ suất của Bên bị ảnh hưởng bởi SKBKK, dù Bên đó đã áp dụng mọi biện pháp cần thiết và trong khả năng cho phép để đề phòng, khắc phục hoặc giảm bớt thiệt hại;
+(b) Trong 03 ngày từ ngày xảy ra SKBKK, Bên bị ảnh hưởng bởi SKBKK phải thông báo bằng văn bản cho Bên kia, nêu chi tiết về SKBKK, các biện pháp đã tiến hành để phòng, khắc phục thiệt hại, dự kiến kế hoạch và biện pháp khắc phục.
+(c) Trừ khi GSM có ý kiến khác bằng văn bản, KH và/hoặc NSD vẫn phải thực hiện các nghĩa vụ của mình theo Hợp đồng phù hợp với hoàn cảnh thực tế và phải tiến hành mọi biện pháp hợp lý để thực hiện các phần việc không bị SKBKK gây trở ngại
+**7. PHẠT VI PHẠM VÀ BỒI THƯỜNG THIỆT HẠI**
+7.1. Ngoại trừ SKBKK, việc một Bên không thực hiện, thực hiện không đầy đủ, không đúng các nghĩa vụ theo Hợp Đồng, Bên vi phạm phải chịu phạt 8% giá trị phần nghĩa vụ Hợp đồng bị vi phạm và bồi thường cho Bên còn lại mọi thiệt hại thực tế trực tiếp phát sinh do hành vi vi phạm gây ra.
+7.2. Các khoản hoàn tiền, phạt vi phạm, bồi thường thiệt hại theo Hợp Đồng phải được thực hiện trong 10 ngày từ ngày nhận được yêu cầu.
+**8. BẢO MẬT THÔNG TIN**
+8.1. KH và GSM cam kết rằng, trong thời gian hiệu lực của Hợp Đồng và sau khi Hợp Đồng chấm dứt, Bên Nhận phải tuyệt đối bảo mật các thông tin mật (“Thông Tin Mật”) (Thông Tin Mật được hiểu là các thông tin bao gồm nhưng không giới hạn các điều khoản của Hợp Đồng, và/hoặc các thông tin, dữ liệu, văn bản được tạo ra do liên quan đến hoặc phát sinh từ việc thực hiện Hợp Đồng; bí mật kinh doanh, bí mật công nghệ, bí quyết thương mại, kiến thức hoặc các thông tin khác về hoặc phục vụ cho tiếp thị tài chính, kinh doanh của Bên tiết lộ; các thông tin, dữ liệu, văn bản được Bên tiết lộ cung cấp cho Bên Nhận theo bất kỳ hình thức nào để thực hiện Hợp Đồng). Theo đó, Bên Nhận không được tiết lộ Thông Tin Mật cho bất kỳ bên thứ ba nào, dù là trực tiếp hay gián tiếp, trong bất kỳ tình huống nào, khi không có sự đồng ý bằng văn bản của của Bên tiết lộ trừ trường hợp quy định tại Điều 8.2 dưới.
+8.2. Nghĩa vụ bảo mật sẽ được loại trừ nếu Thông Tin Mật:
+(i) đã được phổ biến rộng rãi trong công chúng bởi Bên tiết lộ;
+(ii) được cung cấp cho nhân viên, chuyên gia tư vấn tài chính, pháp lý hoặc nhà thầu của Bên Nhận để thực hiện Hợp Đồng, với điều kiện Bên Nhận phải chịu trách nhiệm và đảm bảo các đối tượng được tiết lộ Thông Tin Mật phải tuân thủ quy định bảo mật nêu trên;
+(iii) được Bên Nhận nhận từ một bên thứ ba không liên quan tới Hợp Đồng mà không chịu bất kỳ nghĩa vụ bảo mật nào; hoặc
+(iv) được yêu cầu tiết lộ bởi cơ quan có thẩm quyền hoặc bất kỳ toà án có thẩm quyền xét xử đối với Bên Nhận.
+8.3. Bên Nhận đồng ý rằng việc vi phạm nghĩa vụ bảo mật thông tin này có thể gây ra những tổn hại không thể khôi phục được với Bên tiết lộ, theo đó Bên tiết lộ có quyền tìm kiếm các biện pháp để giảm nhẹ thiệt hại và buộc Bên Nhận bồi thường toàn bộ thiệt hại với mức không thấp hơn Giá trị Hợp Đồng.
+**9. TRAO ĐỔI THÔNG TIN**
+Đầu mối của mỗi Bên để trao đổi và hỗ trợ trong quá trình thực hiện Hợp Đồng được mỗi Bên thông báo cho Bên còn lại trong 01 ngày làm việc từ ngày ký Hợp đồng hoặc khi có điều chỉnh. Thông tin của đầu mối gồm: Họ tên, Chức vụ, Số điện thoại, Email và sẽ được thông báo từ các email sau:
+- GSM: “v.ketoan-gsm@greensm.com” và/hoặc “v.b2b@greensm.com "
+**10. QUY ĐỊNH VỀ CHỐNG THAM NHŨNG VÀ HỐI LỘ**
+10.1. KH không thực hiện hoặc thông qua bên thứ ba thực hiện hành vi hối lộ dưới bất kỳ hình thức nào đối với nhân sự GSM. Nếu phát hiện hành vi đòi hối lộ, KH phải thông báo ngay qua Email: v.thanhtraGSM@greensm.com
+10.2. Nếu KH vi phạm quy định này, GSM có quyền: (i) Hủy kết quả lựa chọn nhà thầu hoặc cấm tham gia các gói thầu khác; (ii) Hủy các phê duyệt liên quan đến Hợp Đồng; (iii) Phạt vi phạm 150.000.000 VNĐ/lần hoặc 10% giá trị Hợp Đồng, tùy thuộc số tiền nào lớn hơn; và/hoặc (iv) chấm dứt Hợp Đồng ngay lập tức; (iv) Yêu cầu hoàn trả khoản đã nhận, bồi thường thiệt hại và các chế tài khác theo Hợp Đồng; (v) Chuyển vụ việc đến cơ quan điều tra có thẩm quyền.
+10.3. KH cam kết miễn trừ trách nhiệm cho GSM và bồi thường mọi thiệt hại, bao gồm chi phí hành chính, pháp lý và các chi phí liên quan nếu vi phạm quy định pháp luật về hối lộ.
+**11. GIẢI QUYẾT TRANH CHẤP**
+11.1. ĐKSD, ĐKC, Hợp Đồng được điều chỉnh bởi pháp luật Việt Nam. Các tranh chấp phát sinh từ hoặc liên quan đến ĐKSD, ĐKC, Hợp Đồng sẽ được giải quyết trước qua thương lượng. Nếu thương lượng, đàm phán không thành công trong 30 ngày kể từ ngày phát sinh tranh chấp, Các Bên có thể đưa tranh chấp ra giải quyết tại Tòa án có thẩm quyền tại Việt Nam theo quy định pháp luật.

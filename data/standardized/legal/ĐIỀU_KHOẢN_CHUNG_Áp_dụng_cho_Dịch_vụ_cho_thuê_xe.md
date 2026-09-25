@@ -1,0 +1,72 @@
+# ĐIỀU KHOẢN CHUNG (Áp dụng cho Dịch vụ cho thuê xe)
+
+PHỤ LỤC 7: ĐIỀU KHOẢN CHUNG
+(Áp dụng cho Dịch vụ cho thuê xe)
+*(Phụ lục Điều khoản này đính kèm và là một phần của Điều khoản sử dụng)*
+Điều Khoản Chung (**“ĐKC”**) này áp dụng cho các Khách Hàng sử dụng dịch vụ cho thuê xe của Công ty cổ phần Di chuyển xanh và thông minh GSM (**“GSM”**). Khách Hàng và GSM được gọi riêng là “Bên” và gọi chung là “Các Bên”.
+Khách Hàng đồng ý và thừa nhận rằng bằng việc ký Hợp đồng cho thuê xe (“Hợp Đồng”), Khách Hàng đã đọc và chấp nhận Điều khoản, ĐKC, chính sách dịch vụ (“CSDV”) và những thay đổi Điều khoản, ĐKC, CSDV từng thời điểm được đăng tải trên website của GSM tại địa chỉ https://www.greensm.com/ (“Website”) hoặc Ứng dụng hoặc được đính kèm với Hợp Đồng.
+ĐKC và CSDV là một phần không thể tách rời của Hợp Đồng.
+**ĐIỀU 1. PHÍ DỊCH VỤ**
+1.1. Phí thuê xe
+Tháng được đề cập trong Hợp Đồng và ĐKC được tính từ ngày đầu tiên đến hết ngày cuối cùng của mỗi tháng dương lịch. Với các tháng thuê không tròn ngày, Phí thuê xe sẽ được tính số ngày sử dụng xe thực tế trong tháng và theo nguyên tắc phí thuê xe của mỗi ngày bằng phí thuê xe theo tháng chia cho 30. Theo đó, giới hạn Km sử dụng của những tháng không tròn ngày được tính theo nguyên tắc của phí thuê xe tại mục này.
+1.2. Ngoài Phí thuê xe, Phụ thu Km, Khách Hàng còn phải thanh toán các khoản phí phụ thu khác (“Phụ Thu Khác”), bao gồm nhưng không giới hạn (i) phí sạc pin, (ii) Phí giao xe, trả xe tại địa điểm Khách Hàng chỉ định, (iii) phí giao xe, trả xe ngoài thời gian quy định.
+1.3. Phí thuê xe và các loại phí khác được tính từ Ngày bắt đầu thuê quy định tại mục 7 Hợp Đồng.
+**ĐIỀU 2. ĐẶT CỌC**
+2.1. Khách Hàng phải đặt cọc cho GSM một khoản cọc theo thỏa thuận trong Hợp Đồng để đảm bảo thực hiện Hợp Đồng, bao gồm cả việc bảo quản, giữ gìn tài sản thuê (“Tiền Cọc”).
+2.2. GSM có quyền từ chối bàn giao xe mà không phải chịu bất kỳ trách nhiệm nào khi Khách Hàng không thanh toán Tiền Cọc cho GSM trong thời hạn quy định tại Hợp Đồng.
+2.3. Nếu Tiền Cọc bị cấn trừ theo ĐKC này, Khách Hàng phải nộp bổ sung trong thời hạn GSM thông báo. Nếu Khách Hàng chậm nộp bổ sung, Khách Hàng phải trả thêm lãi suất chậm thanh toán 0,05%/ ngày/số tiền chậm nộp. Tiền Cọc không được tính lãi và sẽ được GSM hoàn trả cho Khách Hàng khi Hợp Đồng Dịch Vụ chấm dứt, sau khi cấn trừ các nghĩa vụ tài chính của Khách Hàng với GSM (nếu có) hoặc bù trừ vào tiền thuê xe của tháng cuối cùng, trừ trường hợp quy định tại Điều 7.2.4 ĐKC.
+**ĐIỀU 3. THANH TOÁN**
+3.1. Hình thức thanh toán: Khách Hàng sẽ thanh toán các loại phí theo Hợp Đồng bằng cách chuyển khoản cho GSM theo thông tin sau:
+Chủ tài khoản: Công ty cổ phần Di chuyển Xanh và Thông minh GSM
+Số tài khoản: 19139854386866
+Ngân hàng: TMCP Kỹ Thương Việt Nam (Techcombank) – Hội sở chính
+3.2. Đối soát và thanh toán
+(a) Chu kỳ đối soát và thanh toán: theo tháng (T) tính từ ngày đầu tiên đến ngày cuối cùng của tháng Dương lịch.
+(b) Đối soát:
+(i) Trong 05 ngày làm việc đầu tiên của tháng T+1, GSM xác định các loại Phí quy định tại Điều 1 ĐKC, lập và gửi Bảng tổng hợp phí dịch vụ (“Bảng Tổng Hợp”) cho Khách Hàng qua hòm thư điện tử của Khách Hàng. Để làm rõ, ngày làm việc (“Ngày Làm Việc”) là những ngày không phải ngày thứ 7, chủ nhật và các ngày lễ, tết theo quy định pháp luật lao động.
+(ii) Trong 03 ngày từ khi nhận được Bảng Tổng Hợp, Khách Hàng phải xem xét, đối chiếu và phản hồi qua email cho GSM. Quá thời hạn trên mà GSM không nhận được phản hồi từ Khách Hàng thì được xem là Khách Hàng đã đồng ý với Bảng Tổng Hợp của GSM và GSM sẽ xuất hóa đơn kèm đề nghị thanh toán gửi cho Khách Hàng. Việc Khách Hàng xác nhận (hoặc quá thời hạn nhưng không phản hồi) về Bảng Tổng Hợp như quy định này được xem là các bên đã nghiệm thu dịch vụ cho thời gian tương ứng.
+(iii) Nếu Các Bên không thể thống nhất được số liệu của Bảng Tổng Hợp trong thời hạn nêu tại mục (ii) Điều khoản này, GSM sẽ xuất hóa đơn theo số liệu của Bảng Tổng Hợp Phí mà GSM gửi. Khách Hàng phải thanh toán toàn bộ các khoản tiền theo hóa đơn do GSM lập. Các Bên sẽ tiếp tục trao đổi về phần số liệu chưa thống nhất tại kỳ đối soát tiếp theo, khoản chênh lệch và/hoặc điều chỉnh hóa đơn (nếu có) cũng sẽ được đối trừ ở kỳ tiếp theo này.
+(c) Thanh toán: Khách Hàng phải thanh toán phí theo Hợp Đồng, ĐKC và CSDV phát sinh theo hóa đơn do GSM lập trong vòng 05 Ngày Làm Việc từ khi Khách Hàng nhận được đề nghị thanh toán và hóa đơn từ GSM, nhưng không muộn hơn ngày 15 hàng tháng.
+3.3. Chậm thanh toán:
+Nếu Khách Hàng chậm thanh toán cho GSM thì Khách Hàng phải trả thêm lãi suất chậm thanh toán 0,05%/ ngày/số tiền chậm thanh toán;
+Mọi khoản chậm thanh toán của Khách Hàng không được muộn quá 10 (mười) ngày kể từ ngày hết hạn thanh toán, sau thời hạn này, GSM hoặc Bên thứ ba (do GSM chỉ định) có quyền hạn chế/khóa hệ thống để dừng hoạt động của xe và tiến tới việc chấm dứt Hợp Đồng.
+**ĐIỀU 4. TRÁCH NHIỆM CỦA GSM**
+4.1. Bàn giao xe thuê cho Khách Hàng đúng chủng loại, đủ số lượng được quy định trong Hợp Đồng.
+4.2. Mua bảo hiểm trách nhiệm dân sự bắt buộc của chủ xe cơ giới, và các bảo hiểm khác theo yêu cầu quản lý của GSM.
+4.3. Chịu trách nhiệm về nguồn gốc và quyền sở hữu, sử dụng xe. Thực hiện các thủ tục đăng ký, đăng kiểm theo quy định pháp luật.
+4.4. Nếu xe bị sự cố, hỏng hóc hoặc tai nạn không sử dụng được do lỗi của Khách Hàng, GSM sẽ xem xét cung cấp xe thay thế theo yêu cầu của Khách Hàng tùy theo khả năng của GSM và Khách Hàng phải thanh toán chi phí thay thế xe, chi phí sửa chữa xe cũ phát sinh từ sự cố, hỏng hóc hoặc tai nạn không sử dụng được quy định tại điều này.
+4.5. Nếu xe và/hoặc pin bị hỏng/lỗi do lỗi của nhà sản xuất, GSM sẽ cung cấp xe thay thế để Khách Hàng sử dụng.
+4.6. GSM chỉ có trách nhiệm chi trả các chi phí liên quan đến việc sửa chữa xe và/hoặc pin do lỗi của Nhà sản xuất trong phạm vi bảo hành. Mọi chi phí sửa chữa xe ngoài trách nhiệm của GSM theo Điều này và ngoài phạm vi bồi thường của cơ quan bảo hiểm sẽ do Khách Hàng chi trả. Trách nhiệm chi trả chi phí bảo trì bảo dưỡng theo quy định của ĐKC này.
+**ĐIỀU 5. TRÁCH NHIỆM CỦA KHÁCH HÀNG**
+5.1. Chỉ được sử dụng xe theo đúng công dụng và vào các mục đích quy định tại Hợp Đồng, không sử dụng xe để đặt cọc, cầm cố, thế chấp, đảm bảo cho việc thực hiện nghĩa vụ dân sự hoặc sử dụng cho hoạt động vi phạm quy định pháp luật, bao gồm nhưng không giới hạn: vận chuyển ma túy, động vật quý hiếm, tiền giả, hàng hóa dễ cháy, nổ, cấm lưu thông.
+5.2. Không bóc tem niêm phong, tem đảm bảo, tác động hoặc can thiệp vào các hệ thống kỹ thuật, an toàn, giám sát hoặc tiện nghi của xe, tự ý thay thế, tráo đổi bất kỳ phụ tùng, linh kiện xe.
+5.3. Thanh toán đầy đủ các phí quy định tại Điều 1.1 ĐKC và Hợp Đồng Dịch Vụ.
+5.4. Bảo quản xe và luôn cẩn trọng trong quá trình sử dụng đến xe tránh khỏi va chạm, hư hỏng, mất mát, cầm giữ, bao gồm nhưng không giới hạn luôn tuân thủ quy định pháp luật để xe hay các giấy tờ của xe không bị tịch thu hay bị bất kỳ cảnh báo nào do hành vi vi phạm pháp luật của Khách Hàng gây ra.
+5.5. Giữ gìn xe trong tình trạng tốt nhất, khoá xe khi không sử dụng và nỗ lực tối đa để không sử dụng hoặc để mặc xe trong điều kiện thời tiết xấu như giông, bão, ngập, lụt có thể gây thiệt hại cho xe, không khởi động xe khi xe bị ngập nước và phải gọi xe cứu hộ để đưa xe ra khỏi vùng ngập nước.
+5.6. Thực hiện đúng lịch bảo dưỡng, bảo trì theo hướng dẫn của nhà sản xuất hoặc theo yêu cầu của GSM, bảo trì bảo dưỡng và sửa chữa xe tại các cơ sở bảo hành hoặc trạm dịch vụ của nhà sản xuất hoặc được nhà sản xuất ủy quyền, sử dụng đúng danh mục vật tư, thiết bị mà nhà sản xuất khuyến cáo sử dụng cho xe.
+5.7. Nếu Khách Hàng không thực hiện việc bảo dưỡng, bảo trì theo ĐKC này, hoặc bất kỳ nghĩa vụ, cam kết nào theo Hợp Đồng, GSM có quyền can thiệp đến vận hành của phương tiện và thu hồi phương tiện.
+5.8. Đối với xe ô tô, nếu phát sinh hỏng hóc, thiệt hại về xe hoặc xe gặp tai nạn, phải thông báo ngay cho GSM và/hoặc đơn vị bảo hiểm theo thông tin do GSM cung cấp, đồng thời phải giải quyết mọi tranh chấp, khiếu nại với bên thứ ba, phối hợp với cơ quan chức năng và phối hợp với GSM để hoàn tất các thủ tục bảo hiểm.
+5.9. Chịu trách nhiệm cuối cùng với mọi hỏng hóc, thiệt hại của xe và thiệt hại với bên thứ ba do lỗi của Khách Hàng, kể cả trong trường hợp thiệt hại được đơn vị bảo hiểm chi trả. Nếu xảy ra tai nạn hoặc các vụ việc vi phạm pháp luật do lỗi của Khách Hàng thì Khách Hàng phải chịu mọi trách nhiệm.
+5.10. Khách Hàng phải chịu mọi trách nhiệm về việc điều khiển và sử dụng xe của Khách Hàng như dưới đây:
+(a) Có đầy đủ giấy phép lái xe phù hợp còn thời hạn theo quy định pháp luật;
+(b) Tuân thủ đầy đủ các hướng dẫn, chỉ dẫn kỹ thuật, an toàn theo khuyến cáo của Nhà sản xuất. Khi gặp bất kỳ tình trạng bất thường nào xảy ra đối với xe: tăng nhiệt độ đột ngột, chết máy không rõ nguyên nhân hoặc không sử dụng được chức năng bất kỳ, mất phanh, mất kiểm soát v.v. không được cố gắng tự xử lý sự cố hay tiếp tục sử dụng mà phải ngay lập tức áp dụng các biện pháp, chỉ dẫn an toàn, sau đó thông báo ngay cho GSM để được hướng dẫn.
+5.11. Tuân thủ quy định pháp luật khi tham gia giao thông. Nếu trong quá trình tham gia giao thông bằng phương tiện thuê, Khách Hàng thực hiện hành vi vi phạm khiến phương tiện thuê bị tạm giữ và/hoặc bị cảnh báo bởi Cơ quan có thẩm quyền nhưng không phối hợp giải quyết để gỡ bỏ cảnh báo/tạm giữ với phương tiện thuê, Khách Hàng đồng ý rằng Khách Hàng đã gây thiệt hại cho tài sản của GSM. Theo đó, Khách Hàng đồng ý ủy quyền cho GSM thay mặt liên hệ làm việc, giải trình, cung cấp thông tin, ký các hồ sơ giấy tờ liên quan với Cơ quan có thẩm quyền và thi hành quyết định xử phạt.
+5.12. Không được cho thuê lại xe, hoặc cho phép bất kỳ cá nhân nào điều khiển xe thuê theo Hợp Đồng.
+5.13. Tuân thủ đầy đủ và đúng các quy định, tiêu chuẩn, chính sách, quy tắc đối với tài xế tham gia kinh doanh vận tải trên nền tảng GREEN SM, bao gồm nhưng không giới hạn Tiêu chuẩn dịch vụ, Quy tắc ứng xử được công bố trên website https://www.greensm.com/, ứng dụng GREEN SM, ứng dụng tài xế GREEN SM. Theo đó, nếu Khách Hàng vi phạm quy định này, Khách Hàng phải chịu các chế tài được công bố trên các nền tảng nêu tại điều này.
+5.14. Khách Hàng phải bồi hoàn cho GSM toàn bộ chi phí (bao gồm cả tiền phạt vi phạm hành chính) mà GSM đã trả thay Khách Hàng và/hoặc bồi thường toàn bộ thiệt hại (cả trực tiếp và gián tiếp) mà GSM hay bên thứ ba phải chịu do hoặc liên quan đến hành vi vi phạm của Khách Hàng và/hoặc thanh toán các khoản phạt vi phạm của Khách Hàng bằng cách bù trừ vào Tiền Cọc và/hoặc bất kỳ khoản tiền nào mà Khách Hàng được nhận từ hoạt động kinh doanh vận tải trên nền tảng GREEN SM.
+5.15. Thực hiện các cam kết, nghĩa vụ khác quy định tại Hợp Đồng, CSDV và pháp luật có liên quan.
+**ĐIỀU 6. BẤT KHẢ KHÁNG**
+6.1. Trong thời gian thực hiện Hợp Đồng Dịch Vụ, những sự kiện sau được coi là sự kiện bất khả kháng (“Sự Kiện Bất Khả Kháng”): Mưa lớn, bão lụt, sạt lở, động đất, chiến tranh, hoả hoạn, dịch bệnh, sự thay đổi của chính sách, pháp luật của nhà nước hoặc các sự kiện xảy ra một cách khách quan khác.
+6.2. Khách Hàng bị ảnh hưởng bởi Sự Kiện Bất Khả Kháng chỉ được miễn trách nhiệm nếu đáp ứng các điều kiện sau đây: Sự kiện đó hoàn toàn nằm ngoài sự kiểm soát hợp lý hoặc không do lỗi hoặc sơ suất của Khách Hàng; Khách Hàng đã áp dụng mọi biện pháp cần thiết và trong khả năng cho phép để đề phòng, khắc phục hoặc giảm bớt thiệt hại, gây ra việc chậm trễ hoặc gián đoạn, đình trệ việc thực hiện nghĩa vụ trong Hợp Đồng; và thông báo ngay cho GSM biết về sự kiện này.
+6.3. Nếu Sự Kiện Bất Khả Kháng kéo dài hơn 60 ngày, bất kỳ Bên nào cũng có thể, bằng một thông báo bằng văn bản gửi Bên kia, đơn phương chấm dứt Hợp Đồng.
+**ĐIỀU 7. HIỆU LỰC**
+7.1. Hợp Đồng chỉ có thể bị sửa đổi hoặc hủy bỏ theo thỏa thuận của các bên hoặc theo quy định của pháp luật.
+7.2. Hợp Đồng chấm dứt trong các trường hợp sau:
+7.2.1. Kết thúc Thời hạn thuê hoặc thời hạn gia hạn;
+7.2.2. Một trong hai bên chấm dứt Hợp Đồng bằng văn bản thông báo/email gửi Bên còn lại trước ít nhất 30 ngày. Nếu yêu cầu chấm dứt đến từ Khách Hàng, Khách Hàng phải thanh toán toàn bộ tiền thuê và các chi phí liên quan của tháng sử dụng dịch vụ đến thời điểm GSM ký nhận bàn giao xe và bồi thường cho GSM một khoản tiền được quy định tại CSDV;
+7.2.3. Hợp Đồng chấm dứt theo thỏa thuận của Các Bên;
+7.2.4. GSM có quyền đơn phương chấm dứt Hợp Đồng ngay lập tức mà không phải chịu phạt, bồi thường thiệt hại hoặc hoàn trả bất kỳ chi phí nào, bao gồm cả Tiền Cọc, đồng thời yêu cầu Khách Hàng bồi thường mọi thiệt hại gây ra cho GSM nếu Khách Hàng (i) vi phạm nghĩa vụ thanh toán theo Hợp Đồng; hoặc (ii) vi phạm bất kỳ nghĩa vụ/trách nhiệm nào khác theo quy định tại Hợp Đồng mà không khắc phục hoặc tiếp tục vi phạm trong vòng 03 ngày làm việc kể từ ngày GSM thông báo; hoặc (iii) chậm bổ sung Tiền Cọc theo Điều 2.3 của ĐKC quá 10 ngày sau khi kết thúc thời hạn nộp bổ sung theo thông báo của GSM; hoặc (iv) sử dụng xe vào mục đích không được nêu tại Hợp Đồng;
+7.2.5. Các trường hợp khác theo quy định pháp luật.
+7.2.6. Khi Hợp Đồng chấm dứt, trong tối đa 30 ngày làm việc kể từ ngày Khách Hàng bàn giao lại xe cho GSM, Khách Hàng phải hoàn thành toàn bộ nghĩa vụ và trách nhiệm quy định trong Hợp Đồng (bao gồm nhưng không giới hạn cả nghĩa vụ thanh toán phí bảo trì bảo dưỡng định kỳ, phí sạc pin, các loại phí khác thuộc nghĩa vụ của Khách Hàng) và các nghĩa vụ với Nhà nước (nếu có). GSM sẽ giữ Tiền Cọc cho tới khi Khách Hàng hoàn thành các nghĩa vụ và trách nhiệm nêu trên của Khách Hàng. Nếu Khách Hàng không thực hiện hoặc thực hiện không đầy đủ nghĩa vụ/trách nhiệm trong thời hạn nêu trên, GSM sẽ thay mặt Khách Hàng thực hiện và có quyền cấn trừ các chi phí thực hiện vào Tiền Cọc.
+7.2.7. Hợp Đồng tự động thanh lý sau khi các Bên hoàn thành toàn bộ các nghĩa vụ của mình theo Hợp Đồng.
+7.2.8. Sau khi Hợp Đồng chấm dứt hay thanh lý, Khách Hàng vẫn chịu trách nhiệm về các nghĩa vụ với Nhà nước (nếu có) và các bên thứ ba phát sinh trong thời gian Khách Hàng vận hành xe. GSM sẽ thông báo với Khách Hàng bằng văn bản hoặc thư điện tử và trong vòng 10 ngày kể từ khi nhận được thông báo này, Khách Hàng phải hoàn thành toàn bộ các nghĩa vụ theo thông báo.
