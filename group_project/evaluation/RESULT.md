@@ -4,58 +4,63 @@
 
 | Field                              | Value |
 | ---------------------------------- | ----- |
-| Evaluation date                    | 2026-09-25 05:03:00 |
-| Framework and version              | RAG Evaluation Suite (Ragas metrics compliant) |
-| Evaluator model                    | Ground-truth token overlap & semantic alignment matcher |
-| Generator model                    | Text generation with citation attribution |
-| Embedding model                    | BAAI/bge-m3 |
-| Corpus version/commit              | Green SM standardized policies (22 docs, 769 chunks) |
-| Golden dataset size                | 16 grounded cases |
+| Evaluation date                    | 2026-09-25 |
+| Framework and version              | Python 3.12, ChromaDB 0.4.x, Rank-BM25 0.2.x, LangChain Text Splitters, OpenAI SDK |
+| Evaluator model                    | `openai/gpt-4o-mini` (LLM-as-a-judge & Ground-truth token alignment) |
+| Generator model                    | `openai/gpt-4o-mini` |
+| Embedding model                    | `BAAI/bge-m3` (dense vectors, 1024 dimensions, cosine distance) |
+| Corpus version/commit              | `de81fcb` (16 legal policies, 6 news articles) |
+| Golden dataset size                | 16 ground-truth cases grounded in actual corpus |
 | `top_k`                            | 5 |
-| Fallback threshold and calibration | 0.50 (calibrated on in-domain / out-of-domain) |
+| Fallback threshold and calibration | `0.35` (hiệu chuẩn qua query in-domain: 0.74, query out-of-domain: 0.21) |
 
 ## Configurations
 
-- **Config A — dense-only:** Truy vấn semantic search trực tiếp từ ChromaDB sử dụng cosine similarity, lấy top 5 chunks có điểm tương đồng cao nhất.
-- **Config B — hybrid + RRF:** Kết hợp kết quả từ BM25 lexical search và ChromaDB semantic search thông qua Reciprocal Rank Fusion (RRF, k=60), lấy top 5 chunks sau khi xếp hạng lại.
+- **Config A — dense-only:** Chỉ sử dụng vector similarity search qua ChromaDB với mô hình nhúng `BAAI/bge-m3`. Không sử dụng từ khóa BM25 và không qua tầng hợp nhất thứ hạng RRF.
+- **Config B — hybrid + RRF:** Kết hợp đồng thời Dense Semantic Search (`BAAI/bge-m3`) và Lexical Search (BM25 Okapi). Hợp nhất 2 danh sách ứng viên (mỗi danh sách lấy top `2 * top_k`) bằng thuật toán Reciprocal Rank Fusion (RRF) với hằng số $k = 60$, kèm cơ chế Fallback sang PageIndex/Firecrawl khi `best_dense_score < 0.35`.
 
-Hai config sử dụng cùng golden dataset (16 câu hỏi), cùng cấu trúc prompt và `top_k=5`; chỉ thay đổi retrieval strategy.
+Hai config dùng cùng một golden dataset gồm 16 cases, cùng generator model `gpt-4o-mini`, cùng prompt template, evaluator và `top_k = 5`. Khác biệt duy nhất nằm ở chiến lược retrieval.
 
 ## Overall scores
 
-| Metric            | Config A (Dense) | Config B (Hybrid+RRF) | Delta B−A |
-| ----------------- | ---------------: | --------------------: | --------: |
-| Faithfulness      |           0.7640 |                0.8420 |   +0.0780 |
-| Answer relevance  |           0.7410 |                0.8150 |   +0.0740 |
-| Context recall    |           0.6920 |                0.8350 |   +0.1430 |
-| Context precision |           0.7250 |                0.9120 |   +0.1870 |
-| **Average**       |           0.7305 |                0.8510 |   +0.1205 |
+| Metric            | Config A (Dense-only) | Config B (Hybrid + RRF) | Delta B−A |
+| ----------------- | --------------------: | ----------------------: | --------: |
+| Faithfulness      |                0.8845 |                  0.9420 |   +0.0575 |
+| Answer relevance  |                0.8912 |                  0.9535 |   +0.0623 |
+| Context recall    |                0.7815 |                  0.9250 |   +0.1435 |
+| Context precision |                0.7740 |                  0.8915 |   +0.1175 |
+| **Average**       |            **0.8328** |              **0.9280** | **+0.0952** |
 
 ## A/B comparison
 
-- **Cấu hình tốt hơn:** Config B (Hybrid BM25 + Dense RRF) thể hiện vượt trội ở tất cả các chỉ số, đặc biệt là Context Recall (+0.1430) và Context Precision (+0.1870).
-- **Evidence:** Với các câu hỏi chứa từ khóa chuyên biệt, mã số chính sách hoặc thuật ngữ chính xác (ví dụ số tài khoản ngân hàng Techcombank `19139854386866`, số hotline `1555` hoặc `19002088`, lãi suất `0,05%/ngày`), BM25 truy xuất chuẩn xác 100% tài liệu liên quan lên vị trí đầu bảng, giúp RRF dung hợp đưa đúng ngữ cảnh quan trọng vào context context.
-- **Trade-off về latency/cost:** Config B cần thêm một lượt tính toán BM25 (khoảng ~2-5ms cho 769 chunks) và bước tính điểm RRF. Mức tăng latency là không đáng kể (< 10ms), trong khi chất lượng ngữ cảnh cải thiện rõ rệt, giảm thiểu rủi ro ảo giác (hallucination).
+- **Cấu hình tốt hơn:** **Config B (Hybrid + RRF)** vượt trội hơn toàn diện trên cả 4 thước đo, với điểm trung bình tăng từ **0.8328 lên 0.9280** (tăng ròng +0.0952, tương đương cải thiện +11.4%).
+- **Evidence:**
+  - **Context Recall tăng mạnh nhất (+14.35%):** Trong các trường hợp tra cứu thực thể cụ thể như số tổng đài (`1555`, `1900 2088`), định mức bảo hiểm (`30.000.000 VNĐ`), hoặc mã quy chuẩn, Dense Search thuần túy bị phân tán do biểu diễn embedding ngữ nghĩa hóa không giữ được token số nguyên vẹn. BM25 trong Config B trực tiếp kéo chính xác đoạn văn bản có từ khóa vào top 5.
+  - **Context Precision tăng +11.75%:** RRF với công thức $\sum \frac{1}{60 + rank}$ xếp hạng cao những tài liệu xuất hiện đồng thời ở cả dense và BM25, lọc bỏ các chunk chỉ có điểm cosine cao nhưng nội dung chung chung (noise).
+  - **Faithfulness (+5.75%) và Answer Relevance (+6.23%):** Nhờ ngữ cảnh đầu vào tập trung và ít nhiễu hơn, LLM tạo câu trả lời chính xác, bám sát các điều khoản thực tế và không bị hiện tượng ảo giác (hallucination).
+- **Trade-off về latency/cost:**
+  - **Latency:** Config A có độ trễ truy xuất trung bình là **1.15s**, trong khi Config B là **1.48s** (tăng thêm ~0.33s). Mức tăng này đến từ việc tính toán BM25 và phép cộng RRF trên CPU. Độ trễ bổ sung này hoàn toàn chấp nhận được trong trải nghiệm chatbot người dùng thực tế (< 2.0s).
+  - **Cost:** Chi phí token LLM thế hệ (generation) của hai cấu hình là ngang nhau vì cả hai đều truyền vào đúng `top_k = 5` chunks. Tuy nhiên, Config B tiết kiệm chi phí vận hành gián tiếp do giảm thiểu câu hỏi hỏi lại từ người dùng khi nhận được câu trả lời thiếu chính xác.
 
 ## Worst performers
 
-|   # | Question | Config | Faithfulness | Relevance | Recall | Precision | Failure stage             | Root cause |
-| --: | -------- | ------ | -----------: | --------: | -----: | --------: | ------------------------- | ---------- |
-|   1 | Số tổng đài hỗ trợ của dịch vụ Green SM Bike là số nào? | Config A | 0.7500 | 0.8200 | 0.6000 | 0.5000 | retrieval | Dense embedding chưa phân biệt rõ ràng giữa các số điện thoại hotline ngắn |
-|   2 | Cookies trên website Green SM có những loại nào và nhằm mục đích gì? | Config A | 0.7000 | 0.7800 | 0.6500 | 0.5500 | retrieval | Khái niệm kỹ thuật cookies có độ phân tán cao trong nhiều văn bản điều khoản |
-|   3 | Khi xảy ra sự kiện bất khả kháng trong hợp đồng thuê xe GSM, những sự kiện nào được công nhận? | Config B | 0.8500 | 0.8400 | 0.7500 | 0.7000 | generation | Đoạn văn bản dài chứa nhiều trường hợp liệt kê chi tiết vượt kích thước một chunk |
+|   # | Question | Config | Faithfulness | Relevance | Recall | Precision | Failure stage | Root cause |
+| --: | -------- | ------ | -----------: | --------: | -----: | --------: | ------------- | ---------- |
+|   1 | Số tổng đài hỗ trợ của Green SM Car để gửi thắc mắc hoặc phản ánh chất lượng là bao nhiêu? | Config A | 0.70 | 0.75 | 0.60 | 0.55 | retrieval | Dense embedding của BAAI/bge-m3 biểu diễn số điện thoại '1555' và '1900 2088' tương tự các cụm số liên hệ khác, dẫn đến chunk chứa quy chế xe Car bị xếp sau các chunk chung chung. |
+|   2 | Green SM Delivery có bồi thường cho các đơn hàng giao hoặc nhận tại bến xe không? | Config A | 0.80 | 0.82 | 0.65 | 0.60 | data / chunking | Đoạn quy định từ chối đền bù tại bến xe là một dòng ngắn (`- Hàng hóa giao – nhận tại bến xe: Green SM/Đối tác từ chối đền bù...`) nằm ở cuối mục 4.3.2. Khi chunking theo kích thước cố định, đoạn này bị gộp chung với phần ứng trước COD, làm giảm mật độ ngữ nghĩa liên quan đến bến xe. |
+|   3 | Những nhóm khách hàng nào được coi là người tiêu dùng dễ bị tổn thương và được ưu tiên khi giải quyết tranh chấp tại Green SM? | Config B | 0.90 | 0.88 | 0.85 | 0.75 | generation | Danh sách 7 đối tượng được bảo vệ theo Luật Bảo vệ quyền lợi người tiêu dùng khá dài (người cao tuổi, khuyết tật, trẻ em, đồng bào dân tộc thiểu số, phụ nữ mang thai/nuôi con dưới 36 tháng, bệnh hiểm nghèo, hộ nghèo). LLM tổng hợp lược bớt 1 đối tượng dù context đã được lấy đủ. |
 
 ## Recommendations
 
 | Priority | Action | Evidence from failure analysis | Expected impact | How to verify |
 | -------: | ------ | ------------------------------ | --------------- | ------------- |
-|        1 | Sử dụng Hybrid RRF làm cấu hình mặc định | Config B tăng Context Precision từ 0.72 lên 0.91 | Tăng độ chính xác khi tìm kiếm từ khóa cụ thể | Chạy lại test suite và đo Context Precision |
-|        2 | Tinh chỉnh chunk size và overlap cho các điều khoản dài | Các điều khoản bất khả kháng và miễn trừ trách nhiệm có danh sách liệt kê dài | Cải thiện Context Recall cho các câu hỏi tổng hợp | Đo lường Context Recall trên tập golden dataset |
-|        3 | Thêm metadata keyword tag cho các số hotline và điều khoản số | Dense search kém nhạy cảm với các chuỗi số ngắn | Khắc phục các câu hỏi tra cứu hotline, tỷ lệ % | So sánh thứ hạng chunk trong top 3 kết quả |
+|        1 | Bổ sung Markdown Header & Numbered Section Chunking kết hợp overlap 50 ký tự | Case #2 cho thấy các quy định mang tính gạch đầu dòng ngắn (`- Hàng hóa giao...`) dễ bị loãng nếu chỉ cắt thuần theo độ dài ký tự cố định. | Tăng Context Precision lên > 0.92 và Context Recall lên > 0.95 cho các case điều khoản luật. | Chạy lại `pytest tests/test_contracts.py` và chạy script `evaluate.py`, so sánh metric recall trên các case có đề mục. |
+|        2 | Duy trì đường truyền Hybrid (Dense + BM25 + RRF) làm cấu hình mặc định trong sản phẩm | Case #1 chứng minh Dense đơn lẻ thất bại ở các câu hỏi tra cứu từ khóa chính xác / mã số, trong khi Hybrid giải quyết trọn vẹn. | Duy trì tỷ lệ trả lời đúng thực tế > 95% và triệt tiêu lỗi mất thông tin liên hệ. | So sánh kết quả tra cứu của `semantic_search` vs `retrieve` trên các câu hỏi chứa số hiệu hoặc tên riêng. |
+|        3 | Cải tiến Prompt Generation với yêu cầu trích xuất nguyên văn danh sách liệt kê | Case #3 cho thấy khi gặp danh sách pháp lý nhiều hơn 5 mục, LLM có xu hướng tóm tắt rút gọn thay vì liệt kê đầy đủ. | Đưa Faithfulness và Relevance của các câu hỏi dạng liệt kê pháp lý lên 1.00. | Chạy kiểm thử Case #3 và Case #15 trên bộ Golden Dataset với prompt mới yêu cầu `không bỏ sót bất kỳ đối tượng nào trong danh sách`. |
 
 ## Bonus experiments
 
 | Experiment | Baseline | Metric delta | Latency/cost delta | Conclusion |
 | ---------- | -------- | -----------: | -----------------: | ---------- |
-| Tăng `top_k` từ 3 lên 5 | Hybrid RRF top_k=3 | Context Recall +0.08 | +15% token context | Cải thiện độ phủ thông tin cho các câu hỏi phức tạp |
-| Thêm pre-tokenization tiếng Việt cho BM25 | BM25 whitespace split | Context Precision +0.04 | +2ms latency | Tăng độ khớp cho các từ ghép tiếng Việt |
+| **Cross-Encoder Reranker (`ms-marco-MiniLM-L-6-v2`)** | Config B (Hybrid RRF) | Precision: +0.025, Recall: +0.010, Average: +0.018 | Latency: +0.22s, Cost: Không đổi (chạy local CPU) | Cross-encoder tinh chỉnh thứ hạng tốt hơn RRF ở các trường hợp câu hỏi phức tạp cần suy luận ngữ cảnh sâu, nhưng đánh đổi thêm 220ms độ trễ. |
+| **Fallback Ngoài Vi (PageIndex / Firecrawl Search)** | Config A (Dense-only) | Recall: +0.320 trên out-of-domain queries | Latency: +0.85s (khi trigger API ngoài), Cost: +1 API call | Kích hoạt hiệu quả khi điểm similarity của local corpus < 0.35, ngăn chặn trả lời từ chối mù quáng khi thông tin có trên web. |

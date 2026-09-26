@@ -69,9 +69,9 @@
     - Reorder chunks (`reorder_for_llm`), format prompt context và dispatch theo provider (OpenAI, Gemini, Claude).
     - Trả kết quả chuẩn `GenerationResult` kèm danh sách `sources` tương ứng, xử lý safe refusal khi không đủ evidence.
 - **Deliverables & Kiểm thử:**
-  - Pipeline thu thập dữ liệu `data/landing/` và chuẩn hóa `data/processed/`.
-  - Module reranking RRF và generation citation.
-  - Báo cáo cá nhân: `reports/2A202602721-thanhdat.md`.
+  - Pipeline thu thập dữ liệu `data/landing/` và chuẩn hóa `data/processed/`, `data/standardized/`.
+  - Module reranking RRF, generation citation, ứng dụng `app.py` và báo cáo `reports/RESULT.md`.
+  - Báo cáo cá nhân: `reports/2A202602721-PhamThanhDat.md` (đồng bộ `reports/2A202602721-thanhdat.md`).
 
 ---
 

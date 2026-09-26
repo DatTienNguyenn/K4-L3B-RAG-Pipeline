@@ -1,259 +1,262 @@
 """
-Evaluation script to compute RAG metrics:
-1. Faithfulness
-2. Answer Relevance
-3. Context Recall
-4. Context Precision
-
-Compares Config A (Dense-only) vs Config B (Hybrid + RRF).
-Outputs results and populates RESULT.md report.
+A/B Evaluation Script comparing Config A (Dense-only) vs Config B (Hybrid + RRF).
+Measures: Faithfulness, Answer Relevance, Context Recall, Context Precision, and Latency.
+All other variables (golden dataset, generator, prompt, top_k) remain strictly identical.
 """
 
-from datetime import datetime
 import json
-import math
+import os
 from pathlib import Path
 import re
+import time
+from typing import Any
+
+from dotenv import load_dotenv
 
 from src.task5_semantic_search import semantic_search
-from src.task6_lexical_search import lexical_search
-
-ROOT = Path(__file__).parent.parent.parent
-GOLDEN_PATH = ROOT / "group_project" / "evaluation" / "golden_dataset.json"
-RESULT_PATH = ROOT / "group_project" / "evaluation" / "RESULT.md"
-REPORTS_RESULT_PATH = ROOT / "reports" / "RESULT.md"
+from src.task7_reranking import rerank_rrf
+from src.task9_retrieval_pipeline import retrieve
+from src.task10_generation import SYSTEM_PROMPT, call_llm, format_context, reorder_for_llm
 
 
-def rrf_fuse(dense_results: list[dict], bm25_results: list[dict], top_k: int = 5, k: int = 60) -> list[dict]:
-    """Fallback RRF fusion if Task 7 is in progress."""
-    try:
-        from src.task7_reranking import rerank_rrf
-        return rerank_rrf([dense_results, bm25_results], top_k=top_k, k=k)
-    except Exception:
-        scores = {}
-        items = {}
-        for r_list in [dense_results, bm25_results]:
-            for rank, item in enumerate(r_list, 1):
-                item_id = item["id"]
-                scores[item_id] = scores.get(item_id, 0.0) + 1.0 / (k + rank)
-                if item_id not in items:
-                    items[item_id] = item
-        ranked_ids = sorted(scores, key=scores.get, reverse=True)
-        results = []
-        for item_id in ranked_ids[:top_k]:
-            res = items[item_id].copy()
-            res["score"] = scores[item_id]
-            res["retrieval_method"] = "hybrid"
-            results.append(res)
-        return results
+load_dotenv()
+
+EVAL_DIR = Path(__file__).parent
+GOLDEN_DATASET_PATH = EVAL_DIR / "golden_dataset.json"
+RESULTS_PATH = EVAL_DIR / "eval_results.json"
+TOP_K = 5
 
 
-def tokenize(text: str) -> set[str]:
-    """Tokenize Vietnamese words/terms."""
-    cleaned = re.sub(r"[^\w\s]", " ", text.lower())
-    tokens = [w.strip() for w in cleaned.split() if len(w.strip()) > 1]
-    return set(tokens)
-
-
-def compute_context_recall(ground_truth_context: str, retrieved_contexts: list[str]) -> float:
-    """Calculate ratio of key terms in ground truth covered by retrieved contexts."""
-    gt_tokens = tokenize(ground_truth_context)
-    if not gt_tokens:
-        return 1.0
-    combined_retrieved = tokenize(" ".join(retrieved_contexts))
-    overlap = len(gt_tokens & combined_retrieved)
-    return min(1.0, overlap / len(gt_tokens))
-
-
-def compute_context_precision(ground_truth_context: str, retrieved_contexts: list[str]) -> float:
-    """Calculate Average Precision of retrieved chunks against ground truth."""
-    gt_tokens = tokenize(ground_truth_context)
-    if not gt_tokens or not retrieved_contexts:
+def compute_context_recall(expected_context: str, retrieved_chunks: list[dict]) -> float:
+    """Đo mức độ retrieved context bao phủ expected context."""
+    if not retrieved_chunks or not expected_context:
         return 0.0
 
-    precisions = []
+    retrieved_text = " ".join([c["content"].lower() for c in retrieved_chunks])
+    # Tách từ khóa quan trọng (> 2 ký tự)
+    words = [w for w in re.findall(r"\w+", expected_context.lower()) if len(w) > 2]
+    if not words:
+        return 0.0
+
+    found = sum(1 for w in words if w in retrieved_text)
+    return min(1.0, round(found / len(words), 3))
+
+
+def compute_context_precision(expected_context: str, retrieved_chunks: list[dict]) -> float:
+    """
+    Tính Mean Average Precision (MAP) / rank-weighted precision của các chunks được lấy.
+    Chunk càng ở vị trí cao chứa thông tin liên quan thì precision càng cao.
+    """
+    if not retrieved_chunks or not expected_context:
+        return 0.0
+
+    words = set([w for w in re.findall(r"\w+", expected_context.lower()) if len(w) > 2])
+    if not words:
+        return 0.0
+
     hits = 0
-    for idx, ctx in enumerate(retrieved_contexts, 1):
-        ctx_tokens = tokenize(ctx)
-        overlap = len(gt_tokens & ctx_tokens)
-        # Hit if at least 25% of ground truth terms or at least 5 shared content terms
-        if (overlap / max(1, len(gt_tokens)) >= 0.25) or overlap >= 5:
+    precision_sum = 0.0
+    for rank, chunk in enumerate(retrieved_chunks, 1):
+        chunk_words = set(re.findall(r"\w+", chunk["content"].lower()))
+        overlap = len(words & chunk_words) / max(len(words), 1)
+        if overlap >= 0.25:  # Chunk có liên quan
             hits += 1
-            precisions.append(hits / idx)
+            precision_sum += hits / rank
 
-    return sum(precisions) / len(precisions) if precisions else (0.1 if hits > 0 else 0.0)
-
-
-def compute_faithfulness(answer: str, retrieved_contexts: list[str]) -> float:
-    """Calculate proportion of answer claims/tokens supported by retrieved context."""
-    ans_tokens = tokenize(answer)
-    if not ans_tokens:
-        return 1.0
-    ctx_tokens = tokenize(" ".join(retrieved_contexts))
-    overlap = len(ans_tokens & ctx_tokens)
-    return min(1.0, overlap / len(ans_tokens))
-
-
-def compute_answer_relevance(question: str, answer: str) -> float:
-    """Calculate relevance between question and answer."""
-    q_tokens = tokenize(question)
-    a_tokens = tokenize(answer)
-    if not q_tokens or not a_tokens:
+    if hits == 0:
         return 0.0
-    overlap = len(q_tokens & a_tokens)
-    # Jaccard + token overlap score
-    jaccard = overlap / len(q_tokens | a_tokens)
-    coverage = overlap / len(q_tokens)
-    return min(1.0, 0.4 * coverage + 0.6 * (jaccard * 2.5))
+    return min(1.0, round(precision_sum / hits, 3))
 
 
-def run_evaluation():
-    with open(GOLDEN_PATH, "r", encoding="utf-8") as f:
-        dataset = json.load(f)
+def compute_faithfulness_and_relevance(
+    question: str,
+    answer: str,
+    context: str,
+    expected_answer: str,
+) -> tuple[float, float]:
+    """
+    Dùng LLM Judge hoặc heuristic kiểm tra faithfulness và answer relevance.
+    """
+    judge_prompt = f"""Bạn là một chuyên gia đánh giá hệ thống RAG độc lập. Hãy chấm điểm cho câu trả lời theo 2 tiêu chí sau trên thang điểm từ 0.0 đến 1.0:
 
-    print(f"Loaded {len(dataset)} golden cases from {GOLDEN_PATH}")
+1. Faithfulness (Trung thực với Context): Câu trả lời có hoàn toàn dựa trên bằng chứng được cung cấp trong Context không? (1.0 nếu mọi ý đều từ context, giảm điểm nếu tự bịa đặt hoặc suy diễn sai).
+2. Answer Relevance (Sự liên quan và chính xác): Câu trả lời có giải quyết đúng trọng tâm câu hỏi và khớp với câu trả lời kỳ vọng không? (1.0 nếu trả lời chính xác, đầy đủ; 0.0 nếu lạc đề hoặc sai).
 
-    metrics_a = {"faithfulness": [], "relevance": [], "recall": [], "precision": []}
-    metrics_b = {"faithfulness": [], "relevance": [], "recall": [], "precision": []}
-    case_results = []
+Context:
+{context[:2000]}
+
+Câu hỏi:
+{question}
+
+Câu trả lời thực tế:
+{answer}
+
+Câu trả lời kỳ vọng:
+{expected_answer}
+
+Trả về CHÍNH XÁC một JSON hợp lệ dạng:
+{{"faithfulness": 0.95, "answer_relevance": 0.90}}
+Không thêm bất kỳ text nào khác ngoài JSON.
+"""
+    try:
+        res = call_llm(
+            "Bạn là chuyên gia đánh giá khách quan. Chỉ trả lời định dạng JSON.",
+            judge_prompt,
+        )
+        # Parse JSON
+        clean_json = re.search(r"\{.*?\}", res, re.DOTALL)
+        if clean_json:
+            parsed = json.loads(clean_json.group(0))
+            f_score = float(parsed.get("faithfulness", 0.85))
+            r_score = float(parsed.get("answer_relevance", 0.85))
+            return min(1.0, max(0.0, f_score)), min(1.0, max(0.0, r_score))
+    except Exception as exc:
+        print(f"LLM Judge fallback: {exc}")
+
+    # Heuristic fallback nếu LLM judge gặp lỗi kết nối
+    ans_words = set(re.findall(r"\w+", answer.lower()))
+    ctx_words = set(re.findall(r"\w+", context.lower()))
+    exp_words = set(re.findall(r"\w+", expected_answer.lower()))
+
+    f_score = len(ans_words & ctx_words) / max(len(ans_words), 1) if ans_words else 0.5
+    r_score = len(ans_words & exp_words) / max(len(exp_words), 1) if exp_words else 0.5
+
+    return min(1.0, round(f_score, 3)), min(1.0, round(r_score, 3))
+
+
+def run_evaluation() -> dict[str, Any]:
+    """Chạy toàn bộ evaluation dataset trên Config A và Config B."""
+    dataset = json.loads(GOLDEN_DATASET_PATH.read_text(encoding="utf-8"))
+    print(f"Bắt đầu đánh giá A/B trên {len(dataset)} golden cases...")
+
+    results_a = []
+    results_b = []
+    latencies_a = []
+    latencies_b = []
 
     for idx, case in enumerate(dataset):
         q = case["question"]
-        gt_a = case["expected_answer"]
-        gt_c = case["expected_context"]
+        exp_ans = case["expected_answer"]
+        exp_ctx = case["expected_context"]
+        print(f"\n--- Case {idx + 1}/{len(dataset)}: {q[:50]}... ---")
 
-        # Config A: Dense only
-        # Dense search top 5
-        try:
-            dense_chunks = semantic_search(q, top_k=5)
-        except Exception:
-            dense_chunks = []
-        ctxs_a = [c["content"] for c in dense_chunks]
+        # ------------------- Config A: Dense-only -------------------
+        t0 = time.time()
+        chunks_a = semantic_search(q, top_k=TOP_K)
+        reordered_a = reorder_for_llm(chunks_a)
+        ctx_a = format_context(reordered_a)
+        msg_a = f"Context:\n{ctx_a}\n\nQuestion: {q}"
+        ans_a = call_llm(SYSTEM_PROMPT, msg_a)
+        lat_a = time.time() - t0
+        latencies_a.append(lat_a)
 
-        # In dense-only, answer is generated from retrieved context or fallback to expected answer
-        ans_a = gt_a if any(tokenize(gt_a) & tokenize(c) for c in ctxs_a) else (
-            ctxs_a[0][:200] if ctxs_a else "Không tìm thấy thông tin."
-        )
+        rec_a = compute_context_recall(exp_ctx, chunks_a)
+        prec_a = compute_context_precision(exp_ctx, chunks_a)
+        faith_a, rel_a = compute_faithfulness_and_relevance(q, ans_a, ctx_a, exp_ans)
 
-        rec_a = compute_context_recall(gt_c, ctxs_a)
-        prec_a = compute_context_precision(gt_c, ctxs_a)
-        faith_a = compute_faithfulness(ans_a, ctxs_a)
-        rel_a = compute_answer_relevance(q, ans_a)
-
-        metrics_a["recall"].append(rec_a)
-        metrics_a["precision"].append(prec_a)
-        metrics_a["faithfulness"].append(faith_a)
-        metrics_a["relevance"].append(rel_a)
-
-        # Config B: Hybrid BM25 + Dense with RRF
-        try:
-            bm25_chunks = lexical_search(q, top_k=5)
-        except Exception:
-            bm25_chunks = []
-
-        hybrid_chunks = rrf_fuse(dense_chunks, bm25_chunks, top_k=5)
-        ctxs_b = [c["content"] for c in hybrid_chunks]
-
-        ans_b = gt_a if any(tokenize(gt_a) & tokenize(c) for c in ctxs_b) else (
-            ctxs_b[0][:200] if ctxs_b else "Không tìm thấy thông tin."
-        )
-
-        rec_b = compute_context_recall(gt_c, ctxs_b)
-        prec_b = compute_context_precision(gt_c, ctxs_b)
-        faith_b = compute_faithfulness(ans_b, ctxs_b)
-        rel_b = compute_answer_relevance(q, ans_b)
-
-        metrics_b["recall"].append(rec_b)
-        metrics_b["precision"].append(prec_b)
-        metrics_b["faithfulness"].append(faith_b)
-        metrics_b["relevance"].append(rel_b)
-
-        case_results.append({
-            "index": idx + 1,
+        results_a.append({
+            "case_id": idx + 1,
             "question": q,
-            "config_a": {"recall": rec_a, "precision": prec_a, "faith": faith_a, "rel": rel_a},
-            "config_b": {"recall": rec_b, "precision": prec_b, "faith": faith_b, "rel": rel_b},
+            "answer": ans_a,
+            "faithfulness": faith_a,
+            "answer_relevance": rel_a,
+            "context_recall": rec_a,
+            "context_precision": prec_a,
+            "latency": round(lat_a, 2),
+            "sources": [c["id"] for c in chunks_a],
         })
 
-    def avg(lst):
-        return sum(lst) / len(lst) if lst else 0.0
+        # ------------------- Config B: Hybrid + RRF -------------------
+        t0 = time.time()
+        chunks_b = retrieve(q, top_k=TOP_K, use_reranking=True)
+        reordered_b = reorder_for_llm(chunks_b)
+        ctx_b = format_context(reordered_b)
+        msg_b = f"Context:\n{ctx_b}\n\nQuestion: {q}"
+        ans_b = call_llm(SYSTEM_PROMPT, msg_b)
+        lat_b = time.time() - t0
+        latencies_b.append(lat_b)
 
-    summary_a = {k: avg(v) for k, v in metrics_a.items()}
-    summary_b = {k: avg(v) for k, v in metrics_b.items()}
-    summary_a["avg"] = sum(summary_a.values()) / len(summary_a)
-    summary_b["avg"] = sum(summary_b.values()) / len(summary_b)
+        rec_b = compute_context_recall(exp_ctx, chunks_b)
+        prec_b = compute_context_precision(exp_ctx, chunks_b)
+        faith_b, rel_b = compute_faithfulness_and_relevance(q, ans_b, ctx_b, exp_ans)
 
-    print("\n--- RESULTS ---")
-    print(f"Config A (Dense): Recall={summary_a['recall']:.4f}, Prec={summary_a['precision']:.4f}, Faith={summary_a['faithfulness']:.4f}, Rel={summary_a['relevance']:.4f}, Avg={summary_a['avg']:.4f}")
-    print(f"Config B (Hybrid): Recall={summary_b['recall']:.4f}, Prec={summary_b['precision']:.4f}, Faith={summary_b['faithfulness']:.4f}, Rel={summary_b['relevance']:.4f}, Avg={summary_b['avg']:.4f}")
+        results_b.append({
+            "case_id": idx + 1,
+            "question": q,
+            "answer": ans_b,
+            "faithfulness": faith_b,
+            "answer_relevance": rel_b,
+            "context_recall": rec_b,
+            "context_precision": prec_b,
+            "latency": round(lat_b, 2),
+            "sources": [c["id"] for c in chunks_b],
+        })
 
-    # Generate RESULT.md content
-    report_content = f"""# RAG evaluation results
+        print(f"Config A (Dense): Faith={faith_a:.2f}, Rel={rel_a:.2f}, Rec={rec_a:.2f}, Prec={prec_a:.2f} ({lat_a:.2f}s)")
+        print(f"Config B (Hybrid): Faith={faith_b:.2f}, Rel={rel_b:.2f}, Rec={rec_b:.2f}, Prec={prec_b:.2f} ({lat_b:.2f}s)")
 
-## Run information
+    # Tổng hợp metrics trung bình
+    n = len(dataset)
+    avg_a = {
+        "faithfulness": round(sum(r["faithfulness"] for r in results_a) / n, 4),
+        "answer_relevance": round(sum(r["answer_relevance"] for r in results_a) / n, 4),
+        "context_recall": round(sum(r["context_recall"] for r in results_a) / n, 4),
+        "context_precision": round(sum(r["context_precision"] for r in results_a) / n, 4),
+        "average": 0.0,
+        "latency": round(sum(latencies_a) / n, 2),
+    }
+    avg_a["average"] = round(sum([avg_a["faithfulness"], avg_a["answer_relevance"], avg_a["context_recall"], avg_a["context_precision"]]) / 4, 4)
 
-| Field                              | Value |
-| ---------------------------------- | ----- |
-| Evaluation date                    | {datetime.now().strftime("%Y-%m-%d %H:%M:%S")} |
-| Framework and version              | Custom Evaluation Suite (Ragas metrics compliant) |
-| Evaluator model                    | Rule-based token ground-truth overlap & citation matcher |
-| Generator model                    | Text generation with grounded citations |
-| Embedding model                    | BAAI/bge-m3 |
-| Corpus version/commit              | Green SM standardized policies (22 docs, 769 chunks) |
-| Golden dataset size                | {len(dataset)} |
-| `top_k`                            | 5 |
-| Fallback threshold and calibration | 0.50 (calibrated on in-domain / out-of-domain) |
+    avg_b = {
+        "faithfulness": round(sum(r["faithfulness"] for r in results_b) / n, 4),
+        "answer_relevance": round(sum(r["answer_relevance"] for r in results_b) / n, 4),
+        "context_recall": round(sum(r["context_recall"] for r in results_b) / n, 4),
+        "context_precision": round(sum(r["context_precision"] for r in results_b) / n, 4),
+        "average": 0.0,
+        "latency": round(sum(latencies_b) / n, 2),
+    }
+    avg_b["average"] = round(sum([avg_b["faithfulness"], avg_b["answer_relevance"], avg_b["context_recall"], avg_b["context_precision"]]) / 4, 4)
 
-## Configurations
+    deltas = {
+        k: round(avg_b[k] - avg_a[k], 4)
+        for k in ["faithfulness", "answer_relevance", "context_recall", "context_precision", "average", "latency"]
+    }
 
-- **Config A — dense-only:** Truy vấn semantic search trực tiếp từ ChromaDB sử dụng cosine distance, lấy top 5 chunks có điểm tương đồng cao nhất.
-- **Config B — hybrid + RRF:** Kết hợp kết quả từ BM25 lexical search và ChromaDB semantic search thông qua Reciprocal Rank Fusion (RRF, k=60), lấy top 5 chunks sau khi xếp hạng lại.
+    # Tìm 3 worst performers trong Config B hoặc Config A
+    scored_cases = []
+    for ra, rb in zip(results_a, results_b):
+        case_avg_b = (rb["faithfulness"] + rb["answer_relevance"] + rb["context_recall"] + rb["context_precision"]) / 4
+        scored_cases.append((case_avg_b, ra, rb))
+    scored_cases.sort(key=lambda x: x[0])
+    worst_three = [
+        {
+            "rank": i + 1,
+            "case_id": item[2]["case_id"],
+            "question": item[2]["question"],
+            "config": "Config B",
+            "faithfulness": item[2]["faithfulness"],
+            "relevance": item[2]["answer_relevance"],
+            "recall": item[2]["context_recall"],
+            "precision": item[2]["context_precision"],
+            "score": round(item[0], 3),
+        }
+        for i, item in enumerate(scored_cases[:3])
+    ]
 
-Hai config sử dụng cùng golden dataset (16 câu hỏi), cùng cấu trúc prompt và `top_k=5`; chỉ thay đổi retrieval strategy.
+    output_data = {
+        "timestamp": time.strftime("%Y-%m-%d %H:%M:%S"),
+        "total_cases": n,
+        "config_a_dense": avg_a,
+        "config_b_hybrid": avg_b,
+        "deltas": deltas,
+        "worst_performers": worst_three,
+        "details_a": results_a,
+        "details_b": results_b,
+    }
 
-## Overall scores
-
-| Metric            | Config A (Dense) | Config B (Hybrid+RRF) | Delta B−A |
-| ----------------- | ---------------: | --------------------: | --------: |
-| Faithfulness      |           {summary_a['faithfulness']:.4f} |                {summary_b['faithfulness']:.4f} |   {summary_b['faithfulness'] - summary_a['faithfulness']:+.4f} |
-| Answer relevance  |           {summary_a['relevance']:.4f} |                {summary_b['relevance']:.4f} |   {summary_b['relevance'] - summary_a['relevance']:+.4f} |
-| Context recall    |           {summary_a['recall']:.4f} |                {summary_b['recall']:.4f} |   {summary_b['recall'] - summary_a['recall']:+.4f} |
-| Context precision |           {summary_a['precision']:.4f} |                {summary_b['precision']:.4f} |   {summary_b['precision'] - summary_a['precision']:+.4f} |
-| **Average**       |           {summary_a['avg']:.4f} |                {summary_b['avg']:.4f} |   {summary_b['avg'] - summary_a['avg']:+.4f} |
-
-## A/B comparison
-
-- **Cấu hình tốt hơn:** Config B (Hybrid BM25 + Dense RRF) thể hiện vượt trội ở hầu hết các chỉ số, đặc biệt là Context Recall (+{summary_b['recall'] - summary_a['recall']:.4f}) và Context Precision (+{summary_b['precision'] - summary_a['precision']:.4f}).
-- **Evidence:** Với các câu hỏi chứa từ khóa chuyên biệt, mã số chính sách hoặc thuật ngữ chính xác (ví dụ số tài khoản ngân hàng Techcombank `19139854386866`, số hotline `1555` hoặc `19002088`, lãi suất `0,05%/ngày`), BM25 truy xuất chuẩn xác 100% tài liệu liên quan lên vị trí đầu bảng, giúp RRF dung hợp đưa đúng ngữ cảnh quan trọng vào context context.
-- **Trade-off về latency/cost:** Config B cần thêm một lượt tính toán BM25 (khoảng ~2-5ms cho 769 chunks) và bước tính điểm RRF. Mức tăng latency là không đáng kể (< 10ms), trong khi chất lượng ngữ cảnh cải thiện rõ rệt, giảm thiểu rủi ro ảo giác (hallucination).
-
-## Worst performers
-
-|   # | Question | Config | Faithfulness | Relevance | Recall | Precision | Failure stage             | Root cause |
-| --: | -------- | ------ | -----------: | --------: | -----: | --------: | ------------------------- | ---------- |
-|   1 | Số tổng đài hỗ trợ của dịch vụ Green SM Bike là số nào? | Config A | 0.7500 | 0.8200 | 0.6000 | 0.5000 | retrieval | Dense embedding chưa phân biệt rõ ràng giữa các số điện thoại hotline ngắn |
-|   2 | Cookies trên website Green SM có những loại nào và nhằm mục đích gì? | Config A | 0.7000 | 0.7800 | 0.6500 | 0.5500 | retrieval | Khái niệm kỹ thuật cookies có độ phân tán cao trong nhiều văn bản điều khoản |
-|   3 | Khi xảy ra sự kiện bất khả kháng trong hợp đồng thuê xe GSM, những sự kiện nào được công nhận? | Config B | 0.8500 | 0.8400 | 0.7500 | 0.7000 | generation | Đoạn văn bản dài chứa nhiều trường hợp liệt kê chi tiết vượt kích thước một chunk |
-
-## Recommendations
-
-| Priority | Action | Evidence from failure analysis | Expected impact | How to verify |
-| -------: | ------ | ------------------------------ | --------------- | ------------- |
-|        1 | Sử dụng Hybrid RRF làm cấu hình mặc định | Config B tăng Context Precision từ {summary_a['precision']:.2f} lên {summary_b['precision']:.2f} | Tăng độ chính xác khi tìm kiếm từ khóa cụ thể | Chạy lại test suite và đo Context Precision |
-|        2 | Tinh chỉnh chunk size và overlap cho các điều khoản dài | Các điều khoản bất khả kháng và miễn trừ trách nhiệm có danh sách liệt kê dài | Cải thiện Context Recall cho các câu hỏi tổng hợp | Đo lường Context Recall trên tập golden dataset |
-|        3 | Thêm metadata keyword tag cho các số hotline và điều khoản số | Dense search kém nhạy cảm với các chuỗi số ngắn | Khắc phục các câu hỏi tra cứu hotline, tỷ lệ % | So sánh thứ hạng chunk trong top 3 kết quả |
-
-## Bonus experiments
-
-| Experiment | Baseline | Metric delta | Latency/cost delta | Conclusion |
-| ---------- | -------- | -----------: | -----------------: | ---------- |
-| Tăng `top_k` từ 3 lên 5 | Hybrid RRF top_k=3 | Context Recall +0.08 | +15% token context | Cải thiện độ phủ thông tin cho các câu hỏi phức tạp |
-| Thêm pre-tokenization tiếng Việt cho BM25 | BM25 whitespace split | Context Precision +0.04 | +2ms latency | Tăng độ khớp cho các từ ghép tiếng Việt |
-"""
-
-    RESULT_PATH.write_text(report_content, encoding="utf-8")
-    REPORTS_RESULT_PATH.write_text(report_content, encoding="utf-8")
-    print(f"Successfully generated {RESULT_PATH} and {REPORTS_RESULT_PATH}")
+    RESULTS_PATH.write_text(json.dumps(output_data, ensure_ascii=False, indent=2), encoding="utf-8")
+    print(f"\nSaved evaluation results to {RESULTS_PATH}")
+    return output_data
 
 
 if __name__ == "__main__":

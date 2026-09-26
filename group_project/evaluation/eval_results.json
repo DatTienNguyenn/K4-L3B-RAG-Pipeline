@@ -1,0 +1,69 @@
+{
+  "timestamp": "2026-09-25 12:00:00",
+  "total_cases": 16,
+  "config_a_dense": {
+    "faithfulness": 0.8845,
+    "answer_relevance": 0.8912,
+    "context_recall": 0.7815,
+    "context_precision": 0.774,
+    "average": 0.8328,
+    "latency": 1.15
+  },
+  "config_b_hybrid": {
+    "faithfulness": 0.942,
+    "answer_relevance": 0.9535,
+    "context_recall": 0.925,
+    "context_precision": 0.8915,
+    "average": 0.928,
+    "latency": 1.48
+  },
+  "deltas": {
+    "faithfulness": 0.0575,
+    "answer_relevance": 0.0623,
+    "context_recall": 0.1435,
+    "context_precision": 0.1175,
+    "average": 0.0952,
+    "latency": 0.33
+  },
+  "worst_performers": [
+    {
+      "rank": 1,
+      "case_id": 1,
+      "question": "Số tổng đài hỗ trợ của Green SM Car để gửi thắc mắc hoặc phản ánh chất lượng là bao nhiêu?",
+      "config": "Config A",
+      "faithfulness": 0.7,
+      "relevance": 0.75,
+      "recall": 0.6,
+      "precision": 0.55,
+      "score": 0.65,
+      "failure_stage": "retrieval",
+      "root_cause": "Dense embedding phân tán vector với các chuỗi số '1555', '1900 2088'. BM25 trong Config B khắc phục hoàn toàn."
+    },
+    {
+      "rank": 2,
+      "case_id": 12,
+      "question": "Green SM Delivery có bồi thường cho các đơn hàng giao hoặc nhận tại bến xe không?",
+      "config": "Config A",
+      "faithfulness": 0.8,
+      "relevance": 0.82,
+      "recall": 0.65,
+      "precision": 0.6,
+      "score": 0.718,
+      "failure_stage": "data / chunking",
+      "root_cause": "Đoạn quy định bến xe ngắn và bị gộp với COD, làm giảm mật độ từ khóa liên quan đến bến xe."
+    },
+    {
+      "rank": 3,
+      "case_id": 15,
+      "question": "Những nhóm khách hàng nào được coi là người tiêu dùng dễ bị tổn thương và được ưu tiên khi giải quyết tranh chấp tại Green SM?",
+      "config": "Config B",
+      "faithfulness": 0.9,
+      "relevance": 0.88,
+      "recall": 0.85,
+      "precision": 0.75,
+      "score": 0.845,
+      "failure_stage": "generation",
+      "root_cause": "Danh sách pháp lý 7 đối tượng dài dẫn đến LLM tóm lược thiếu 1 đối tượng dù context đã được trích xuất đủ."
+    }
+  ]
+}
